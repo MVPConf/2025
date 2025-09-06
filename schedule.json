@@ -67,8 +67,8 @@
   },
   {
     "name": "25 de outubro",
-    date: "Sábado",
-    tracks: [
+    "date": "Sábado",
+    "tracks": [
       {
         "name": "Business Application ",
         "coordinators": ["Daniel Petrin, Danilo Ciciliotti, Marcelo Pacifico "],
