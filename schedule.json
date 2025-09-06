@@ -1,132 +1,132 @@
 [
   {
-    name: "24 de outubro",
-    date: "Sexta-feira",
-    tracks: [
+    "name": "24 de outubro",
+    "date": "Sexta-feira",
+    "tracks": [
       {
-        name: "Business Application ",
-        coordinators: ["Daniel Petrin, Danilo Ciciliotti, Marcelo Pacifico "],
-        talks: [
+        "name": "Business Application ",
+        "coordinators": ["Daniel Petrin, Danilo Ciciliotti, Marcelo Pacifico "],
+        "talks": [
         ]
       },
       {
-        name: "Cloud & Datacenter",
-        coordinators: ["Elton Bordim, Josue Vidal, Vinicius Mozart"],
-        talks: [
+        "name": "Cloud & Datacenter",
+        "coordinators": ["Elton Bordim, Josue Vidal, Vinicius Mozart"],
+        "talks": [
         ]
       },
       {
-        name: "Data Platform",
-        coordinators: ["Guilherme Salles,  Hugo Venturini, Luiz Gustavo Serra"],
-        talks: [
+        "name": "Data Platform",
+        "coordinators": ["Guilherme Salles,  Hugo Venturini, Luiz Gustavo Serra"],
+        "talks": [
         ]
       },
       {
-        name: "Developer Technologies",
-        coordinators: ["Bruno Brito, Carlos Santos,  Osanam Giordane, Renicius Pagottto, Talles Valiatti, Tania Stormovsky, Vinicius Moura"],
-        talks: [
+        "name": "Developer Technologies",
+        "coordinators": ["Bruno Brito, Carlos Santos,  Osanam Giordane, Renicius Pagottto, Talles Valiatti, Tania Stormovsky, Vinicius Moura"],
+        "talks": [
         ]
       },
       {
-        name: "Gestao de Negocios e Empreendedorismo",
-        coordinators: ["Jamil Lopes, Marco Lagoa"],
-        talks: [
+        "name": "Gestao de Negocios e Empreendedorismo",
+        "coordinators": ["Jamil Lopes, Marco Lagoa"],
+        "talks": [
         ]
       },
       {
-        name: "Inteligencia Artificial",
-        coordinators: ["Felipe Chikuji, Jorge Maia, Sulamita Dantas"],
-        talks: [
+        "name": "Inteligencia Artificial",
+        "coordinators": ["Felipe Chikuji, Jorge Maia, Sulamita Dantas"],
+        "talks": [
         ]
       },
       {
-        name: "Microsoft 365",
-        coordinators: ["Fábio Gatti, João Benito, Thais Mafra"],
-        talks: [
+        "name": "Microsoft 365",
+        "coordinators": ["Fábio Gatti, João Benito, Thais Mafra"],
+        "talks": [
         ]
       },
       {
-        name: "Microsoft Azure",
-        coordinators: ["Diego Matos, Renato Groffe"],
-        talks: [
+        "name": "Microsoft Azure",
+        "coordinators": ["Diego Matos, Renato Groffe"],
+        "talks": [
         ]
       },
       {
-        name: "Quantum Computing",
-        coordinators: ["Anderson Santos, Leonardo Rossato, Rosangela Maraschin"],
-        talks: [
+        "name": "Quantum Computing",
+        "coordinators": ["Anderson Santos, Leonardo Rossato, Rosangela Maraschin"],
+        "talks": [
         ]
       },
       {
-        name: "Security",
-        coordinators: ["Daniel Donda, Rebecca Frade"],
-        talks: [
+        "name": "Security",
+        "coordinators": ["Daniel Donda, Rebecca Frade"],
+        "talks": [
         ]
       },
     ],
   },
   {
-    name: "25 de outubro",
+    "name": "25 de outubro",
     date: "Sábado",
     tracks: [
       {
-        name: "Business Application ",
-        coordinators: ["Daniel Petrin, Danilo Ciciliotti, Marcelo Pacifico "],
-        talks: [
+        "name": "Business Application ",
+        "coordinators": ["Daniel Petrin, Danilo Ciciliotti, Marcelo Pacifico "],
+        "talks": [
         ]
       },
       {
-        name: "Cloud & Datacenter",
-        coordinators: ["Elton Bordim, Josue Vidal, Vinicius Mozart"],
-        talks: [
+        "name": "Cloud & Datacenter",
+        "coordinators": ["Elton Bordim, Josue Vidal, Vinicius Mozart"],
+        "talks": [
         ]
       },
       {
-        name: "Data Platform",
-        coordinators: ["Guilherme Salles,  Hugo Venturini, Luiz Gustavo Serra"],
-        talks: [
+        "name": "Data Platform",
+        "coordinators": ["Guilherme Salles,  Hugo Venturini, Luiz Gustavo Serra"],
+        "talks": [
         ]
       },
       {
-        name: "Developer Technologies",
-        coordinators: ["Bruno Brito, Carlos Santos,  Osanam Giordane, Renicius Pagottto, Talles Valiatti, Tania Stormovsky, Vinicius Moura"],
-        talks: [
+        "name": "Developer Technologies",
+        "coordinators": ["Bruno Brito, Carlos Santos,  Osanam Giordane, Renicius Pagottto, Talles Valiatti, Tania Stormovsky, Vinicius Moura"],
+        "talks": [
         ]
       },
       {
-        name: "Gestao de Negocios e Empreendedorismo",
-        coordinators: ["Jamil Lopes, Marco Lagoa"],,
-        talks: [
+        "name": "Gestao de Negocios e Empreendedorismo",
+        "coordinators": ["Jamil Lopes, Marco Lagoa"],,
+        "talks": [
         ]
       },
       {
-        name: "Inteligencia Artificial",
-        coordinators: ["Felipe Chikuji, Jorge Maia, Sulamita Dantas"],
-        talks: [
+        "name": "Inteligencia Artificial",
+        "coordinators": ["Felipe Chikuji, Jorge Maia, Sulamita Dantas"],
+        "talks": [
         ]
       },
       {
-        name: "Microsoft 365",
-        coordinators: ["Fábio Gatti, João Benito, Thais Mafra"],
-        talks: [
+        "name": "Microsoft 365",
+        "coordinators": ["Fábio Gatti, João Benito, Thais Mafra"],
+        "talks": [
         ]
       },
       {
-        name: "Microsoft Azure",
-        coordinators: ["Diego Matos, Renato Groffe"],
-        talks: [
+        "name": "Microsoft Azure",
+        "coordinators": ["Diego Matos, Renato Groffe"],
+        "talks": [
         ]
       },
       {
-        name: "Quantum Computing",
-        coordinators: ["Anderson Santos, Leonardo Rossato, Rosangela Maraschin"],
-        talks: [
+        "name": "Quantum Computing",
+        "coordinators": ["Anderson Santos, Leonardo Rossato, Rosangela Maraschin"],
+        "talks": [
         ]
       },
       {
-        name: "Security",
-        coordinators: ["Daniel Donda, Rebecca Frade"],
-        talks: [
+        "name": "Security",
+        "coordinators": ["Daniel Donda, Rebecca Frade"],
+        "talks": [
         ]
       },
     ]
