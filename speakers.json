@@ -501,22 +501,6 @@
     }
   },
   {
-    "id": "e08efb06-3cfb-48d6-b920-ce20d41ea678",
-    "name": "Glauter Jannuzzi",
-    "title": "Master in connecting and inspiring people | Mentor | Speaker | People Manager | Master Professor | Business Manager | Ex Microsoft | NPO founder | Board Member",
-    "company": "Atitude Infinita",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Glauter Jannuzzi.jpeg",
-    "bio": "Profissional com 26 anos em empresas globais de tecnologia, atuando em liderança e inovação. Especialista em transformação digital, cloud, IA, ciência de dados e sucesso do cliente. Autor, empreendedor e experiente em diversos setores e perfis de atuação.",
-    "expertise": [
-      "Digital Transformation",
-      "AI",
-      "Cloud"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/jannuzzi"
-    }
-  },
-  {
     "id": "0eac2a3b-bd7f-4023-ba3f-85edb2052e3b",
     "name": "Guilherme Maia",
     "title": "Cloud Architect, Microsoft MVP, Trainer",
