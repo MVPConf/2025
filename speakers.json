@@ -1,1099 +1,1120 @@
 [
-  {
-    "id": "cd6a9846-d854-4bb1-b321-0d62fa24286f",
-    "name": "Alexandre Felipe Malavasi Cardoso",
-    "title": "CTO | 4x Author | International Logisticts | 4x Microsoft MVP Awards | MBA | MCPD | ITIL | Azure | .NET |",
-    "company": "CTO da MARELO",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Alexandre Felipe Malavasi Cardoso.jpeg",
-    "bio": "Engenheiro de software com 17+ anos de experiência global, fundador e CTO da MARELO, Microsoft MVP, autor de livros sobre .NET e palestrante internacional. Atua com liderança técnica, mentorias e contribuições à comunidade.",
-    "expertise": [
-      "Azure", ".Net"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/alexandremalavasi/",
-      "twitter": "https://twitter.com/alemalavasi",
-      "gitHub": "https://github.com/alexandremalavasi",
-      "youtube": "https://www.youtube.com/@alexandremalavasi-software101"
-    }
-  },
-  {
-    "id": "8d59c769-9f78-47a6-b92f-d034483dfb78",
-    "name": "Alison Pezzott",
-    "title": "Microsoft MVP Data Platform",
-    "company": "AD'ORO S/A",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Alison Pezzott.jpeg",
-    "bio": "Especialista em dados e BI, compartilho soluções práticas com foco em Microsoft Fabric e Power BI. Busco democratizar o conhecimento com didática e profundidade, promovendo boas práticas, inovação, storytelling e colaboração na comunidade.",
-    "expertise": [
-      "Power BI",
-      "SQL",
-      "Microsoft Fabric",
-      "Python"
-    ],
-    "social": {
-      "linkedin": "https://linkedin.com/in/alisonpezzott",
-      "instagram": "instagram.com/alisonpezzott",
-      "gitHub": "github.com/alisonpezzott",
-      "youtube": "https://www.youtube.com/@alisonpezzott"
-    }
-  },
-  {
-    "id": "772a097e-fb9d-4b74-8b1c-9e6ea711b51c",
-    "name": "Andre Azevedo",
-    "title": "Executivo Comercial",
-    "company": "Prime IT Consultoria e Sistemas",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Andre Azevedo.jpeg",
-    "bio": "Empreendedor com 20 anos em ERP, CRM e BI, atuando em projetos nacionais e internacionais. Focado em novos negócios para apoiar a Transformação Digital de indústrias com tecnologia Microsoft.",
-    "expertise": [
-      "Power BI",
-      "Microsoft Dynamics 365"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/andrehazevedo"
-    }
-  },
-  {
-    "id": "1dedae30-49df-4171-890e-401ad2c8013b",
-    "name": "Andre Luiz Mattos Oliveira",
-    "title": "IT Projects Manager | Energy & Mining | Delivery Manager | Operations | Oil and Gas | Kanban | Scrum | Itil | Digital Transformation | Contract Manager",
-    "company": "Eneva",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Andre Luiz Mattos Oliveira.jpeg",
-    "bio": "Apaixonado por tecnologia e pessoas, com MBA em Gestão de Projetos. Atuação como Cloud Architect multicloud, especialista em FINOPS, licenciamento Microsoft e Modern Workplace. Forte foco em estratégia, clientes, liderança e inclusão.",
-    "expertise": [
-      "Microsoft Intune",
-      "Windows Server",
-      "VMware"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/admandreluiz/"
-    }
-  },
-  {
-    "id": "ae26b24c-6eae-4a00-9e33-1b9752238f2f",
-    "name": "Bruno Brito",
-    "title": "Microsoft MVP | Docker Captain",
-    "company": "Avera",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Bruno Brito.jpeg",
-    "bio": "Senior software engineer com 15 anos de experiência, apaixonado por código, open source e segurança. Atua escrevendo, palestrando e contribuindo em projetos abertos. Acredita que quanto mais aprende, mais percebe o quanto ainda há para aprender.",
-    "expertise": [
-      "Docker",
-      ".Net",
-      "Cloud",
-      "Azure",
-      "Kubernetes"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/brunobritodev/",
-      "twitter": "https://x.com/brunobritodev",
-      "gitHub": "https://github.com/brunobritodev"
-    }
-  },
-  {
-    "id": "638c08d5-aecc-487f-87a6-83b4aea6fa21",
-    "name": "Bruno Leires",
-    "title": "MVP Microsoft 365 | Microsoft 365 Architect | Enterprise Administrator Expert | Teams Administrator Associate | Messaging Associate | Identity and Access Administrator Associate",
-    "company": "Leires",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Bruno Leires.jpeg",
-    "bio": "Profissional com +14 anos de experiência em soluções complexas para grandes empresas nos setores bancário, telecom, governo, logística e mais. Especialista em tecnologias Microsoft, com foco em identidade, e-mail e comunicação para ambientes com até 140 mil usuários. Atua com melhoria contínua e foco no cliente.",
-    "expertise": [
-      "Microsoft 365"
-    ],
-    "social": {
-      "linkedin": "https://br.linkedin.com/in/oconsultorsenior"
-    }
-  },
-  {
-    "id": "6dffe011-3508-422a-ba32-ee77b1841ff1",
-    "name": "Carlos André Rodrigues Lauff",
-    "title": "CTO na Infob Cloud | MCASAE | MCSE | MCT | MTAC",
-    "company": "Infob Cloud",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Carlos Andre Rodrigues Lauff.jpeg",
-    "bio": "Arquiteto de soluções com foco em inovação, governança e excelência operacional. Experiência em gestão de riscos de TI, liderança técnica, planejamento de recursos e forte atuação junto a equipes de negócio e tecnologia.",
-    "expertise": [
-      "Cloud"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/carloslauff/"
-    }
-  },
-  {
-    "id": "8254ca63-ff1e-431e-ae78-4f1c20994338",
-    "name": "Carlos Citrangulo",
-    "title": "Diretor de Novos Negócios & Senior Partner",
-    "company": "Ímpar",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Carlos Citrangulo.jpeg",
-    "bio": "",
-    "expertise": [
-      "Microsoft 365"
-    ],
-    "social": {
-      "linkedin": "http://linkedin.com/in/carloscitrangulo"
-    }
-  },
-  {
-    "id": "f51511ae-b178-472d-a671-0d596a742fcc",
-    "name": "Cláudio Filipe Lima Rapôso",
-    "title": "Systems Architect Project Leader ",
-    "company": "NTT DATA Europe & Latam",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Claudio Filipe Lima Raposo.jpeg",
-    "bio": "Arquiteto de Sistemas na NTT DATA, utilizando TypeScript, Java e Python para criar soluções escaláveis. Professor de programação e algoritmos, unindo tecnologia e educação. Mestrando em Administração com foco em Marketing Digital e sistemas aplicados.",
-    "expertise": [
-      "TypeScript",
-      "Java",
-      "Python"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/cfraposo/"
-    }
-  },
-  {
-    "id": "3d488ab0-4b47-4e65-871b-b53221e8c600",
-    "name": "Cristiano Joaquim dos Santos",
-    "title": "Arquiteto de Software Sênior",
-    "company": "Unimed Fesp",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Cristiano Joaquim dos Santos.jpeg",
-    "bio": "Arquiteto de Software Sênior com 25+ anos em .NET, C#, Azure e microsserviços. Liderança técnica, inovação e experiência em transformação digital, especialmente na saúde. Ex-Microsoft e destaque em arquitetura moderna e DevOps.",
-    "expertise": [
-      ".Net",
-      "Microsoft Azure",
-      "Azure DevOps",
-      "Docker"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/cristiano-joaquim-santos/",
-      "gitHub": "https://github.com/cristianojsantos"
-    }
-  },
-  {
-    "id": "2c84ee8a-6ba6-4a33-9093-56b5657add03",
-    "name": "Daniel Donda",
-    "title": "Cybersecurity Specialist, Writer, Professor, Speaker, Researcher, and Founder of Hackers Hive",
-    "company": "Hackers Hive",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Daniel Donda.jpeg",
-    "bio": "Profissional com 20+ anos em TI, Gerente Sênior de Cibersegurança, MVP há 12 anos, autor, palestrante e professor. Atua com pesquisa, formação de profissionais e estratégias inovadoras contra ameaças cibernéticas.",
-    "expertise": [
-      "Cybersecurity"
-    ],
-    "social": {
-      "linkedin": "https://br.linkedin.com/in/danieldonda",
-      "twitter": "https://x.com/danieldonda",
-      "gitHub": "https://github.com/danieldonda",
-      "youtube": "https://www.youtube.com/@DanielDonda"
-    }
-  },
-  {
-    "id": "4291ffa0-ac15-40a0-86ca-9557c1da2767",
-    "name": "Daniel Gomes de Jesus",
-    "title": "Microsoft MVP | Tech Lead | .NET Developer | Specialist in C#, ASP.NET, & Cloud Solutions | Speaker",
-    "company": "XP Investimentos",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Daniel Gomes de Jesus.jpeg",
-    "bio": "Engineering Manager na XP, lidero projetos focados em eficiência e experiência do cliente. Ex-Tech Lead na Cielo, com forte atuação em automação, liderança técnica e soluções escaláveis. Engajado em inovação e comunidade tech.",
-    "expertise": [
-      ".Net",
-      "ASP.NET",
-      "Git",
-      "Docker"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/djesusnet",
-      "twitter": "https://x.com/djesusnet",
-      "gitHub": "https://github.com/djesusnet",
-      "youtube": "https://www.youtube.com/@DjesusNet"
-    }
-  },
-  {
-    "id": "679ad4bf-2c76-4701-9cec-f8778674e272",
-    "name": "Daniel Petrin",
-    "title": "Speaker",
-    "company": "Mundo Power",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Daniel Petrin.jpeg",
-    "bio": "Iniciei na Engenharia Civil, atuei 15 anos em construtora e me tornei especialista em Power Apps e Power Automate. Fundador da Mundo Power, capacitei +900 alunos e criei +50 apps e 200 automações focadas em transformação digital corporativa.",
-    "expertise": [
-      "SharePoint",
-      "Power Apps",
-      "Power Automate",
-      "SharePoint"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/danielpetrinbertini/"
-    }
-  },
-  {
-    "id": "fd4ba439-0961-485f-9554-ea25fe6027dc",
-    "name": "Daniel Ribeiro",
-    "title": "Azure Cloud Solution Architect at Microsoft - Global Partner Solutions (GPS)",
-    "company": "Microsoft",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Daniel Ribeiro.jpeg",
-    "bio": "",
-    "expertise": [
-      "Microsoft Azure",
-      "Cloud"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/xdanielribeiro/",
-      "gitHub": "https://github.com/daribei"
-    }
-  },
-  {
-    "id": "bed1cc7d-ccd1-4b59-9608-90a0d145e2a3",
-    "name": "Danilo Nogueira",
-    "title": "Microsoft MVP | Ajudando clientes e pessoas a serem mais produtivos com as ferramentas Microsoft",
-    "company": "Cloud Target",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Danilo Nogueira.jpeg",
-    "bio": "Graduado em Ciência da Computação pelo Mackenzie. Inglês e Italiano Fluentes. Forte espírito de liderança. Pró-atividade. Colaborando em algumas multinacionais utilizando diversas tecnologias. Ótimas experiências profissionais internacionais e disponibilidade para viagens. Foco em soluções Microsoft.",
-    "expertise": [
-      "Microsoft 365",
-      "SharePoint"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/danilonogueira/"
-    }
-  },
-  {
-    "id": "2216af32-e6c1-4398-b8bd-70fe9ad36d2a",
-    "name": "Diego Moreira Matos",
-    "title": "CTO | Microsoft Azure MVP / Cloud Architect / Technical Lead",
-    "company": "Cloud2Go",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Diego Moreira Matos.jpeg",
-    "bio": "CTO da Cloud2Go (Grupo NGX), com 15+ anos de experiência em tecnologias Microsoft e nuvem (Azure, AWS, GCP). Microsoft MVP em Azure, MCT, especialista em migração, modernização e ambientes híbridos. Ativo na comunidade tech como palestrante e mentor.",
-    "expertise": [
-      "Cloud",
-      "Azure"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/digomatos/",
-      "gitHub": "https://github.com/digomatos"
-    }
-  },
-  {
-    "id": "f4e840ea-15f2-4532-ad30-7ef3f19b3ec6",
-    "name": "Eduardo Pires",
-    "title": "Microsoft Regional Director | MVP | Owner @ desenvolvedor.io",
-    "company": "desenvolvedor.io",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Eduardo Pires.jpeg",
-    "bio": "Microsoft Regional Director. 12x Microsoft MVP (2014 - 2025)Arquiteto e Desenvolvedor de Software. 24 anos de experiência em desenvolvimento de software",
-    "expertise": [
-      ".Net"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/pireseduardo/",
-      "twitter": "https://x.com/eduardopiresbr",
-      "gitHub": "https://github.com/EduardoPires"
-    }
-  },
-  {
-    "id": "635752ed-6e95-4335-8f70-f99c51c0f8f3",
-    "name": "Elton Bordim",
-    "title": "Microsoft MVP | MCT | Azure Hybrid & Migration | Comitê de Segurança APDADOS | CEO & Founder at CloudData Tech & DevOps",
-    "company": "CloudData Tech & DevOps",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Elton Bordim.jpeg",
-    "bio": "",
-    "expertise": [
-      "Cloud",
-      "Azure"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/elton-bordim/"
-    }
-  },
-  {
-    "id": "3e6fe57d-d572-4ae5-a9cd-1f3778af527a",
-    "name": "Emmanuel G. Brandão",
-    "title": "DevOps | SRE | Observability | FinOps",
-    "company": "Accenture",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Emmanuel G. Brandao.jpeg",
-    "bio": "Há mais de 10 anos atuo com DevOps e Agilidade, apoiando times na automação, monitoramento e otimização em nuvem para reduzir toil e downtime. Com background em .NET, colaboro com devs em soluções eficientes e compartilho conhecimento em vídeos e palestras.",
-    "expertise": [
-      "DevOps", "SRE", "Observability", "FinOps"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/egomesbrandao",
-      "gitHub": "https://github.com/egomesbrandao"
-    }
-  },
-  {
-    "id": "7fe38632-f5aa-439e-b745-5011fdd8c535",
-    "name": "Erick Maquiné dos Santos",
-    "title": "Diretor MSTI Tecnologia e Inovação",
-    "company": "MSTI Tecnologia e Inovação",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Erick Maquine dos Santos.jpeg",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/erick-maquine/"
-    }
-  },
-  {
-    "id": "9b0651b0-14ad-4c89-91f2-9e40d1cd2404",
-    "name": "Erick Wendel",
-    "title": "Linkedin Top Voice | Professional JS Educator | Google Dev Expert | Microsoft MVP | GitHub Star Alumni | Node.js core team member",
-    "company": "EW Academy",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Erick Wendel.jpeg",
-    "bio": "Erick Wendel é Microsoft MVP, especialista em Node.js e aplicações JavaScript. Atua como arquiteto de software independente, focado em Serverless, containers e cloud híbrida. Palestrante em grandes conferências e líder voluntário de comunidades como NodeBR e Nerdzão.",
-    "expertise": [
-      "Node.js",
-      "Serverless"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/erickwendel/",
-      "twitter": "https://x.com/erickwendel_",
-      "gitHub": "https://github.com/ErickWendel"
-    }
-  },
-  {
-    "id": "310a1440-7f09-4d7f-b71d-84c0edac81cb",
-    "name": "Everaldo Oliveira da Silva",
-    "title": "Arquiteto Cloud | Microsoft Azure",
-    "company": "Minsait",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Everaldo Oliveira da Silva.jpeg",
-    "bio": "Sou formado em Redes de Computadores pela Faculdade de São Paulo e tenho 25 anos de experiência em Infraestrutura de TI, especialista em cloud computing com certificação Microsoft Azure e AWS, sólidos conhecimentos em ambientes de computação corporativos e migrações de ambientes.",
-    "expertise": [
-      "Azure",
-      "Cloud"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/evoliv/"
-    }
-  },
-  {
-    "id": "9b8d4393-d5b2-4296-9c88-3c1dfdc817cd",
-    "name": "Fabiano Neves Amorim",
-    "title": "Principal Consultant at Pythian",
-    "company": "Pythian",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Fabiano Neves Amorim.jpeg",
-    "bio": "Fabiano Amorim é Microsoft MVP em Data Platform desde 2011, com mais de 20 anos de experiência. Reconhecido mundialmente por sua expertise em performance tuning e por palestrar em grandes conferências, resolve problemas complexos que poucos conseguem solucionar.",
-    "expertise": [
-      "Performance Tuning",
-      "Database Optimization",
-      "Data Platform"
-    ],
-    "social": {
-      "linkedin": "https://br.linkedin.com/in/fabianoamorim",
-      "twitter": "https://x.com/mcflyamorim"
-    }
-  },
-  {
-    "id": "364563a6-86ab-4ee0-95d6-58b02e91d52a",
-    "name": "Fabio Baldini",
-    "title": "Presidente da ACITEC | Professor | MTAC | Palestrante | CEO",
-    "company": "ACITEC",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Fabio Baldini.jpeg",
-    "bio": "Experiência Profissional nas áreas de Gestão de Pessoas, Metalúrgica, Alimentos, Consultoria, Projetos, Processos, Orçamentos, Operações Portuárias, Análises Financeiras, Planejamento, PPCP, Obras Civis e Treinamentos.",
-    "expertise": [
-      "Microsoft Excel",
-      "VBA"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/baldinifabio/"
-    }
-  },
-  {
-    "id": "9a6f6a80-7593-49b6-9566-6ca8b1712488",
-    "name": "Fabio Menezes Santos",
-    "title": "Coordenador de Projetos Especiais @ PETROBRAS | Data Governance | Microsoft MVP & Certified Trainer | Business Intelligence Expert",
-    "company": "Petrobras",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/FABIO MENEZES SANTOS.jpeg",
-    "bio": "Consultor na Petrobras com 4+ anos em soluções digitais e análise de dados. Microsoft MVP em Data Platform, MCT e instrutor desde 2019. Certificado em Azure e BI, atua otimizando processos e apoiando decisões. Bacharel em Design, MBA em Big Data.",
-    "expertise": [
-      "Data Analysis",
-      "Business Intelligence",
-      "Data Visualization",
-      "Process Optimization"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/fabioms/"
-    }
-  },
-  {
-    "id": "3cf322e0-3922-49c4-84a0-127a3105094f",
-    "name": "Felipe Kenji Chikuji",
-    "title": "Analista de Dados | Cientista de Dados | Especialista em Power BI | Palestrante | Microsoft MVP IA | Microsoft MCT",
-    "company": "Real Impact Brasil",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Felipe Kenji Chikuji.jpeg",
-    "bio": "Especialista em Dados e IA com 5+ anos em soluções Microsoft. Microsoft Certified Trainer e MVP em Azure AI. Instrutor oficial de certificações DP-900, AI-900, AI-102, DP-600. Lidera projetos de dados e inovação na Real Impact Brasil e atua como mentor e palestrante.",
-    "expertise": [
-      "Dados e Inteligência",
-      "Power BI",
-      "Azure AI",
-      "Arquitetura de Dados"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/felipe-kenji-chikuji/"
-    }
-  },
-  {
-    "id": "8e1f6030-586a-4ad5-afe3-833498516db6",
-    "name": "Felipe Pimentel Augusto",
-    "title": "Microsoft MVP | Technical Architecture Manager @ Avanade | MIT Arquitetura de Sistemas @ Infnet",
-    "company": "Avanade",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Felipe Pimentel Augusto.jpeg",
-    "bio": "Na Avanade, lideramos projetos aplicando Design Patterns, focados em performance, manutenção, resiliência, observabilidade e testes. Combinamos desenvolvimento, arquitetura e DevOps para inovar em cloud, promovendo colaboração e excelência em um cenário tecnológico dinâmico.",
-    "expertise": [
-      "Design Patterns",
-      "Observability",
-      "DevOps",
-      "Cloud"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/felipementel",
-      "gitHub": "https://github.com/felipementel"
-    }
-  },
-  {
-    "id": "b607b1fe-3415-4244-be36-2c06f79b0bb1",
-    "name": "Francisco José Ferreira",
-    "title": "Microsoft MVP Azure Hybrid and Migration | Cloud Architect | Project Coordinator in BNP | Cloud Engineer in E-Seth | Instructor MCT in Ka Solution | Network Administrator in Miranda | Speaker | MTAC | AzureExpert Founder",
-    "company": "BNP - Soluções em TI",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Francisco Jose Ferreira.jpeg",
-    "bio": "Coordenador de Projetos na BNP com 30+ anos em TI, especialista em redes e inovação em cloud. Microsoft MVP Azure Hybrid e Migration 2024. Experiência sólida em infraestrutura, servidores Linux e Windows, liderando projetos de soluções Microsoft e arquiteturas híbridas.",
-    "expertise": [
-      "Network Administration",
-      "Cloud Innovation",
-      "Hybrid Cloud Architectures",
-      "Server Administration"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/franciscoferreiramvp/"
-    }
-  },
-  {
-    "id": "c227e4b5-07e1-4a5c-8e21-660a399e945b",
-    "name": "Fábio Cotrim",
-    "title": "Database System Expert - NTT DATA",
-    "company": "NTT DATA",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Fabio Cotrim.jpeg",
-    "bio": "Especialista em TI com ampla experiência em bancos Microsoft SQL Server (2005-2019), alta disponibilidade com AlwaysOn, tunning e segurança. Atuou em projetos diversos, gestão de contratos de outsourcing e suporte a áreas como Marketing, Finanças, Logística e Manufatura.",
-    "expertise": [
-      "Microsoft SQL Server",
-      "Alta Disponibilidade",
-      "Tunning e Segurança"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/fcotrim/"
-    }
-  },
-  {
-    "id": "dba46de4-9bf2-4652-a2c3-e7707dbd5667",
-    "name": "Fábio de Carvalho Gatti",
-    "title": "Diretor Técnico | MCT Microsoft 365 & Power Platform",
-    "company": "GoEasyIT",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Fabio de Carvalho Gatti.jpeg",
-    "bio": "Graduado em Administração, consultor e instrutor em Microsoft 365 e Power Platform desde 2014. Certificado MS-Office Specialist Expert, Microsoft Certified Trainer, associado MTAC e Black Belt Lean Six Sigma em processos.",
-    "expertise": [
-      "Microsoft 365",
-      "Power Platform",
-      "Lean Six Sigma"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/fabiocgatti/",
-      "youtube": "https://www.youtube.com/@PulodoGatti"
-    }
-  },
-  {
-    "id": "46b6a055-1280-4624-8d1d-179688b28d0f",
-    "name": "Glaucio Daniel Souza Santos",
-    "title": "CEO Hcode | Calian | FIAP | AI Engineer | 4x Microsoft MVP",
-    "company": "Hcode",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Glaucio Daniel Souza Santos.jpeg",
-    "bio": "Sou Glaucio Daniel, CEO da Hcode, empresa de educação e tecnologia com mais de 165 mil alunos em 92 países. Instrutor na Udemy, especialista em IA Generativa e tecnologias como JavaScript, Node.js e C#. 4x Microsoft MVP",
-    "expertise": [
-      "Inteligência Artificial Generativa"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/glauciodaniel"
-    }
-  },
-  {
-    "id": "0eac2a3b-bd7f-4023-ba3f-85edb2052e3b",
-    "name": "Guilherme Maia",
-    "title": "Cloud Architect, Microsoft MVP, Trainer",
-    "company": "",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Guilherme Maia.jpeg",
-    "bio": "Cloud Specialist, Consultant e Arquiteto focado em Apps & Infra para médias e grandes empresas. Microsoft Azure MVP, MTAC e MCT. Capacita profissionais de TI a se tornarem especialistas em Azure via treinamentos online, workshops e mentoria.",
-    "expertise": [
-      "Cloud",
-      "Azure"
-    ],
-    "social": {
-      "linkedin": "https://linkedin.com/in/guilhermemaia"
-    }
-  },
-  {
-    "id": "b8013ee2-ffe5-4399-b441-692b19914651",
-    "name": "Gustavo Bellini Bigardi",
-    "title": "Chief Technology Officer @ Clarus IT | Microsoft MVP",
-    "company": "Clarus IT",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Gustavo Bellini Bigardi.jpeg",
-    "bio": "Desenvolvedor com 18+ anos focado em Microsoft (.NET, Azure), NodeJS e React. Experiência em sistemas escaláveis. Microsoft MVP Developer Technologies, coordena a comunidade JunDevelopers e produz conteúdo técnico sobre .NET, Azure, Blazor e melhores práticas.",
-    "expertise": [
-      ".Nett",
-      "Azure Cloud",
-      "NodeJS",
-      "Software Scalability"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/gbbigardi/",
-      "gitHub": "https://github.com/gustavobigardi"
-    }
-  },
-  {
-    "id": "d17753bd-e26d-4467-9228-33b78cc12b58",
-    "name": "Henver Rodrigo Gomes Soares",
-    "title": "Microsoft MVP | MCT | Consultor Sênior Microsoft Modern Work & Security",
-    "company": "Beyondsoft Brasil",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Henver Rodrigo Gomes Soares.jpeg",
-    "bio": "Microsoft MVP e consultor sênior em Segurança Cibernética e Modern Workplace, especialista em Microsoft 365, Zero Trust e gestão de identidade. Com 10+ anos de experiência, atua em migração, automação e proteção de ativos digitais para otimizar segurança e produtividade.",
-    "expertise": [
-      "Microsoft 365",
-      "Zero Trust",
-      "Cybersecurity",
-      "Modern Workplace"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/henversoares"
-    }
-  },
-  {
-    "id": "dcfedce3-3657-46a5-8a23-38db11e4e4f4",
-    "name": "Hugo Venturini",
-    "title": "Palestrante, Consultor e Instrutor | MVP Data Platform | MOS Excel",
-    "company": "Venturini Treinamentos e Soluções Ltda",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Hugo Venturini.jpeg",
-    "bio": "Sócio da Venturini Treinamentos, ministra cursos presenciais e online em Microsoft 365, Excel e Power BI. Formado em Administração, com especialização e certificação Office Specialist. Microsoft MVP Data Platform, desenvolve soluções de analytics integradas a ERPs diversos.",
-    "expertise": [
-      "Microsoft 365",
-      "Excel Analytics",
-      "Power BI",
-      "ERP Integration"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/hugoventurini-excel-and-powerbi/"
-    }
-  },
-  {
-    "id": "5c29ecb9-299f-49c9-86f5-bc20925c36b0",
-    "name": "Igor Humberto Monte Marques de Lima",
-    "title": "Azure Solutions Architect | Microsoft 365 Administrator | Coordenador de TI | Datacenter Services | MXM Sistemas",
-    "company": "MXM Sistemas",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Igor Humberto Monte Marques de Lima.jpeg",
-    "bio": "Profissional com 25+ anos em Treinamento e Consultoria em TI, certificado MCT, MCSE, Azure e Microsoft 365 Expert. MVP Alumni e membro MTAC. Coordena projetos complexos na MXM Sistemas com foco em soluções Microsoft, segurança, nuvem e virtualização.",
-    "expertise": [
-      "Microsoft Technologies",
-      "Azure",
-      "Security"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/igorhumberto/"
-    }
-  },
-  {
-    "id": "33042546-dc92-4af8-abce-7383494d7a0c",
-    "name": "Jefferson Castilho",
-    "title": "Especialista de Infraestrutura | Especialista SRE | Especialista Cloud | Arquiteto Cloud | Especialista de TI | DevOps",
-    "company": "PagueVeloz",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Jefferson Castilho.jpeg",
-    "bio": "Profissional com 18 anos em tecnologia, focado em SRE e Cloud há 8. Experiência com Azure, AWS, GCP, IaC, CI/CD, virtualização e segurança (RedTeam/BlueTeam). MBA em Tech para Negócios e líder de equipe nas áreas de SRE e Arquitetura.",
-    "expertise": [
-      "Cloud",
-      "Infrastructure as Code",
-      "Devops",
-      "SRE"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/jeffersoncastilho/",
-      "gitHub": "https://github.com/jeffersoncastilho"
-    }
-  },
-  {
-    "id": "b98f4a14-9500-4d79-afc8-1c2a816d4dda",
-    "name": "Joel de Oliveira junior",
-    "title": "Co-Founder Luckie Tech",
-    "company": "Luckie Tech",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Joel de Oliveira junior.jpeg",
-    "bio": "Executivo com MBA pela FGV e Prominp/Petrobras, pós pela ESPM e experiência internacional na Suécia (Ericsson). Atuação em vendas B2B na América Latina, com foco em tecnologia, aviação, telecom, big data e IA. Especialista em vendas de alto nível.",
-    "expertise": [
-      "International Sales",
-      "High Technology Sales",
-      "Aviation Services",
-      "B2B Sales"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/joeljunior"
-    }
-  },
-  {
-    "id": "ebce12e5-18ba-485e-9beb-32cfbaaed4ed",
-    "name": "Jorge Maia",
-    "title": "Especialista em Internet das Coisas, Palestrante, Professor, Premiado pela Microsoft como MVP em Azure, Mestre em Sistemas Mecatrônicos",
-    "company": "",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Jorge Maia.jpeg",
-    "bio": "Consultor e mentor com 20+ anos em .NET, foco em produtividade, qualidade e agilidade. Microsoft Certified Trainer, atua com C#, IoT, sistemas embarcados e financeiros. Palestrante, podcaster e fundador do CrazyTechGuys. Mestrando em Sistemas Mecatrônicos.",
-    "expertise": [
-      ".Net",
-      "Sistemas Embarcados",
-      "Internet das Coisas"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/jorgeasmaia",
-      "twitter": "https://x.com/jorgemaia",
-      "gitHub": "https://github.com/jorgemaia"
-    }
-  },
-  {
-    "id": "6aefee0d-4940-4e6b-bafb-bdec3a1dec98",
-    "name": "Juliana Maria Lopes",
-    "title": "Microsoft MVP | Top Data Architecture Voice | Data Architect | Big Data Architect | BI Specialist | Microsoft MCT | 2x Databricks Certified | 8x Azure Certified | 1x Oracle Certified",
-    "company": "GFT Technologies Brasil",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Juliana Maria Lopes.jpeg",
-    "bio": "Profissional com 20+ anos em TI, especialista em Big Data, BI e Azure. Atuou em grandes empresas e liderou times em projetos de dados. Instrutora certificada Microsoft, mentora ativa e autora de artigos sobre ingestão de dados e arquitetura em nuvem.",
-    "expertise": [
-      "Big Data",
-      "Azure Cloud",
-      "Arquitetura de Dados",
-      "Engenharia de Dados"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/julianamarialopes/",
-      "gitHub": "https://github.com/julianamarialopes"
-    }
-  },
-  {
-    "id": "d4b66773-b9a0-4220-b21c-c076e94e05ee",
-    "name": "Juliano Custódio",
-    "title": "7x Microsoft MVP | Green Software Champion",
-    "company": "Bayer",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Juliano Custodio.jpeg",
-    "bio": "",
-    "expertise": [],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/julianocustodio"
-    }
-  },
-  {
-    "id": "4e9d3383-21ef-42da-8a81-1836aa124025",
-    "name": "Leonardo Alves Zanré",
-    "title": "Especialista Microsoft Power Platform | Power Apps | Power Automate | SharePoint | Power BI | Power Pages | Low-Code | Automação | Dynamics 365 | RPA | Canvas e Model-Driven Apps",
-    "company": "Instrutor na Udemy",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Leonardo Alves Zanre.jpeg",
-    "bio": "Especialista em Microsoft Power Platform com foco em Power Apps (Canvas e Model-Driven), Power Automate, SharePoint, Power BI, Power Pages, RPA e Dynamics 365. Atuo com soluções low-code e automação para aumentar eficiência e agilidade nos negócios.",
-    "expertise": [
-      "Power Platform",
-      "Low-Code Solutions",
-      "Business Automation",
-      "Dynamics 365"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/leonardozanre"
-    }
-  },
-  {
-    "id": "749fc151-e432-460d-bd8b-5b58e104fa2d",
-    "name": "Leonardo Camargo Rossato",
-    "title": "President ICTQ Foton | Physicist | Quantum Computing and Econophysics Specialist | Developer of Educational Apps and Interactive Dashboard Tools",
-    "company": "ICTQ Foton",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Leonardo Camargo Rossato.jpeg",
-    "bio": "Físico e matemático especializado em computação quântica e análise de dados. Cria apps educacionais, ensina computação quântica e desenvolve ferramentas visuais como o ScatterGraph para simplificar conceitos usando ciência de dados e IA.",
-    "expertise": [
-      "Quantum Computing",
-      "Data Analysis",
-      "Educational Apps",
-      "Graph Theory"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/leonardocamargorossato",
-      "gitHub": "https://github.com/leonardocamargorossato"
-    }
-  },
-  {
-    "id": "c7aa6d6f-4962-4693-a815-c7c332485fdf",
-    "name": "Leonardo Ramos Russo",
-    "title": "Power Platform | Driving Innovation and Empowering Business Solutions",
-    "company": "Genaiera",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Leonardo Ramos Russo.jpeg",
-    "bio": "Desenvolvedor Power Apps com foco em processos de negócios, experiência em Power Automate, Dataverse e SharePoint. Crio apps personalizados com design intuitivo e visual atrativo, unindo estética e funcionalidade para otimizar processos e gerar valor.",
-    "expertise": [
-      "Power Apps",
-      "Power Automate",
-      "User Experience",
-      "Processos de Negócio"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/leonardorrusso/"
-    }
-  },
-  {
-    "id": "de03d6cf-3b8e-47f9-9d6b-926e80f39f12",
-    "name": "Lucas Cariello Massena",
-    "title": "Strategic Enterprise Cloud Solutions Architect at Optimus Information Inc. specialist in Cloud Modernization",
-    "company": "Optimus Information Inc",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Lucas Cariello Massena.jpeg",
-    "bio": "Enterprise Cloud Solutions Architect com foco em pré-vendas, adoção, modernização e migração para nuvem. Especialista em alinhar tecnologia à estratégia de negócios, criando soluções escaláveis, inovadoras e de alto impacto para transformação digital.",
-    "expertise": [
-      "Cloud Architecture",
-      "Digital Transformation",
-      "Cloud Migration",
-      "Solution Modernization"
-    ],
-    "social": {
-      "linkedin": "https://linkedin.com/in/lcmassena",
-      "twitter": "https://x.com/lcmassena",
-      "gitHub": "https://github.com/lcmassena"
-    }
-  },
-  {
-    "id": "d6179986-76eb-430d-985b-6c168ea016f5",
-    "name": "Marco Aurélio Gardini Lagoa",
-    "title": "CEO na Witec IT Solutions & Cofundador na BUDTI",
-    "company": "Witec IT Solutions",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Marco Aurelio Gardini Lagoa.jpeg",
-    "bio": "Velejador que se tornou Arquiteto de Soluções e cofundador da WITEC IT Solutions. Sócio em startups, lidera a Confraria do Empreendedor e é CEO do Congresso de TI Online. Atua com eventos como o EVOLUTI e é mentor voluntário na Atitude Infinita.",
-    "expertise": [
-      "Arquitetura de Soluções",
-      "Empreendedorismo Digital",
-      "Mentoria Profissional"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/marcolagoa",
-      "twitter": "https://x.com/marcolagoa",
-      "gitHub": "https://github.com/marcolagoa"
-    }
-  },
-  {
-    "id": "de166d04-ce08-4292-a0e5-82afc6470c85",
-    "name": "Márcio Rogério Nizzola",
-    "title": "Arquiteto de Sistemas na CI&T | Microsoft MVP | .NET | Angular | Python | PHP | SQL | Oracle | Azure | Docker | RabbitMq",
-    "company": "CI&T",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Marcio Rogerio Nizzola.jpeg",
-    "bio": "Arquiteto de Software na CI&T com 30+ anos de experiência. MVP em Developer Technologies. Especialista em .NET, Azure e integrações no setor de turismo. Professor no Centro Paula Souza e cofundador da Itu Developers. Apaixonado por ensinar e inovar.",
-    "expertise": [
-      ".Net",
-      "Oracle",
-      "Azure",
-      "Docker"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/nizzola/",
-      "gitHub": "https://github.com/NIZZOLA"
-    }
-  },
-  {
-    "id": "f6b9c669-4550-4322-822a-b911f1f78008",
-    "name": "Nathan Pinotti",
-    "title": "Microsoft 365 | Modern Workplace Security | Microsoft Endpoint Manager | Microsoft Defender | Compliance Microsoft | Azure Information Protection | Data Loss Prevention",
-    "company": "Itaú Unibanco",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Nathan Pinotti.jpeg",
-    "bio": "Com conhecimentos em tecnologia e gestão, atuo alinhando ambos para otimizar entregas com foco em valor ao negócio. Especialista em tecnologias Microsoft, como Modern Workplace Security, MEM, Defender, Compliance, AIP, DLP e Azure.",
-    "expertise": [
-      "Microsoft 365",
-      "Microsoft Defender",
-      "Modern Workplace Security"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/nathanpinotti/",
-      "gitHub": "https://github.com/nathanpinotti"
-    }
-  },
-  {
-    "id": "719d44a2-b9d9-41f1-8e24-6f0c46c5f7c0",
-    "name": "Pedro Ignácio",
-    "title": "Senior DevOps Engineer at Itaú Unibanco | Docker Captain | Cloud Security Microsoft MVP | Kubernetes | CK{A,AD} | Security | DevOps | Observability",
-    "company": "Itaú Unibanco",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Pedro Ignacio.jpeg",
-    "bio": "",
-    "expertise": [
-      "Docker",
-      "DevOps",
-      "Cloud Security",
-      "Kubernetes"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/pedroirufo"
-    }
-  },
-  {
-    "id": "644920e0-f93c-4556-80df-9ecc3efef48f",
-    "name": "Rafael Martin Alves Ferreira",
-    "title": "Senior Azure DevOps Solution Engineer | Microsoft MVP & MCT | DevOps Institute Ambassadors | Alura Star Embaixador | Green Software Champion | Cloud & Platform Engineer | Host LowOpsCast",
-    "company": "Softensity Inc",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Rafael Martin Alves Ferreira.jpeg",
-    "bio": "Sou Rafael, curioso e apaixonado por tecnologia desde cedo. Com 10+ anos de experiência, 18 certificações e formado em Ciência da Computação, atuo como Engenheiro DevOps especializado em Azure. MVP, MCT, focado em nuvem, DevOps, Terraform e Kubernetes.",
-    "expertise": [
-      "Azure DevOps",
-      "Cloud",
-      "Kubernetes"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/rafaelmaferreira/",
-      "gitHub": "https://github.com/rafaelmaferreira"
-    }
-  },
-  {
-    "id": "e469f744-75eb-4861-8908-20369dd236f4",
-    "name": "Raphael Rodrigo Ramos de Santana Santos",
-    "title": "O consultor Power Apps mais camarada da vizinhança | Transformação Digital | Power Apps | Power Automate| Power BI | Ferramentas Digitais | Digitalização de Processos Industriais | Automação Industrial",
-    "company": "CAMARO ELECTRIC AUTOMAÇÃO INDUSTRIAL",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Raphael Rodrigo Ramos de Santana Santos.jpeg",
-    "bio": "Sou o Consultor Power Apps mais Camarada da Vizinhança! Te ajudo a destravar aquele app enrolado com bom humor e proximidade. E se quiser aprender no seu tempo, tenho um curso na Hotmart ensinando a criar o Action Track com muita camaradagem!",
-    "expertise": [
-      "Power Apps",
-      "Power BI",
-      "Power Automate"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/raphael-camaro-powerplatform"
-    }
-  },
-  {
-    "id": "291924b2-ae8f-469a-ae4b-25f0ed136035",
-    "name": "Rebecca Paola Cesar Frade",
-    "title": "Cybersecurity Specialist | Hackers Hive Advocate | DPO | IAM | GRC | DLP | Azure & Microsoft 365 security | Microsoft Certified | Speaker",
-    "company": "Tecnocomp",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Rebecca Paola Cesar Frade.jpeg",
-    "bio": "Especialista em cibersegurança, GRC e compliance, com experiência em ISO 27000, LGPD, NIST, CIS, Azure, GCP e AWS. Atuo com IAM, infraestrutura híbrida, políticas de segurança e otimização. Mentora, palestrante e apoiadora da comunidade técnica.",
-    "expertise": [
-      "Cybersecurity",
-      "Azure",
-      "Microsoft 365 Security"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/rebecca-paola-cesar-frade/"
-    }
-  },
-  {
-    "id": "2d4f5e64-9978-4ca5-8022-06818aa472aa",
-    "name": "Renato José Ferreira Lira",
-    "title": "Microsoft MVP | Power BI | Fabric | DAX | M",
-    "company": "Petrobras",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Renato Jose Ferreira Lira.jpeg",
-    "bio": "Sou Renato Lira, especialista em Power BI, apaixonado por linguagens M e DAX. Já treinei centenas de pessoas e criei um método visual para ensinar DAX, descomplicando o que acontece “por trás dos panos” e ajudando alunos a entender e aplicar com clareza.",
-    "expertise": [
-      "Power BI",
-      "Microsoft Fabric"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/renatojflira/"
-    }
-  },
-  {
-    "id": "c14a7901-d0ca-456b-a99f-4ea11a60b33c",
-    "name": "Ana Carolina Manzan",
-    "title": "Cloud Analyst @ Bosch | Microsoft MVP | MLSA | DevOps Engineer Expert | 5x Microsoft Certified",
-    "company": "Bosch",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Ana Carolina Manzan.jpeg",
-    "bio": "Cloud Analyst com 10+ anos de experiência em tecnologia, especializado em Azure, Azure DevOps, .NET (Framework e Core), C# e web. Possui certificações Microsoft (AZ-900, AZ-400, AZ-104, SC-900) e Mestrado em Inovação Tecnológica. Focado em Cloud, DevOps e Arquitetura.",
-    "expertise": [
-      "DevOps",
-      "Cloud",
-      "Azure"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/anamanzandev/",
-      "gitHub": "https://github.com/devsnasnuvens"
-    }
-  },
-  {
-    "id": "6dad0bda-a90c-4b4b-8177-447f53a41cb1",
-    "name": "Renicius Pagotto Fostaini",
-    "title": "Lead Consultant at Thoughtworks | Microsoft MVP | .NET | Azure | DevOps | Cloud Engineer | Software Architecture",
-    "company": "Thoughtworks",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Renicius Pagotto Fostaini.jpeg",
-    "bio": "Com mais de 10 anos de experiência em tecnologia, sou especialista em Arquitetura de Sistemas Distribuídos e DevOps. Atuo com foco em excelência tecnológica, arquitetura evolutiva e performance, entregando soluções escaláveis com Azure e práticas ágeis.",
-    "expertise": [
-      ".Net",
-      "Azure",
-      "DevOps",
-      "Cloud"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/renicius-pagotto",
-      "gitHub": "https://github.com/reniciuspagotto"
-    }
-  },
-  {
-    "id": "fa1b2134-4191-469b-9488-d3fadae304c4",
-    "name": "Roberto Fonseca",
-    "title": "Senior Sql Server Database Administrator at Pythian",
-    "company": "Pythian",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Roberto Fonseca.jpeg",
-    "bio": "Com mais de 15 anos na área de bancos de dados e 9 como especialista em SQL Server, lidero projetos com foco em arquitetura, performance, alta disponibilidade, recuperação de desastres e migrações. Especialista em SQL Server 2005–2016, incluindo clustering, replicação e tuning.",
-    "expertise": [
-      "Sql Server"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/rffonseca/"
-    }
-  },
-  {
-    "id": "6c3f272a-099a-4cd9-8ba3-cb90eb939076",
-    "name": "Rodrigo Crespi",
-    "title": "CEO - CDB Data Solutions | Microsoft MVP Data Platform",
-    "company": "CDB Data Solutions",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Rodrigo Crespi.jpeg",
-    "bio": "Rodrigo Crespi é MVP Data Platform, MCT e especialista em SQL Server desde a versão 6.5. Com diversas certificações, é sócio da CrespiDB e professor na Uniftec – Caxias do Sul, atuando com foco em administração de bancos de dados e plataformas de dados.",
-    "expertise": [
-      "Sql Server"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/rodrigocrespi"
-    }
-  },
-  {
-    "id": "41c8666c-69a9-4217-8e2e-8da02c99fcd8",
-    "name": "Rodrigo Dornel",
-    "title": "Microsoft MVP Alumni, Microsoft MCT, Azure Data Engineer, Msc, Professor Universitário e Chief Operating Officer na CDB - Data Solutions",
-    "company": "CDB Data Solutions",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Rodrigo Dornel.jpeg",
-    "bio": "Microsoft Data Platform MVP, Power BI Expert, SQL Server Expert and Microsoft Certified Trainer!",
-    "expertise": [
-      "Power BI",
-      "SQL Server"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/rodrigodornel/"
-    }
-  },
-  {
-    "id": "aa562edf-3633-46f8-8ba9-50ee60e8d1a9",
-    "name": "Rosani Coutinho",
-    "title": "Cloud Sales Strategist",
-    "company": "Unikeer",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Rosani Coutinho.jpeg",
-    "bio": "Profissional com 20+ anos em tecnologia e liderança no ecossistema Microsoft. Fundadora da Unikeer, plataforma que integra automação, finops e APIs ao Partner Center para transformar operações de parceiros em resultados concretos.",
-    "expertise": [
-      "Cloud",
-      "Azure"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/rosanicoutinho/"
-    }
-  },
-  {
-    "id": "f1b19fc5-71d6-4e93-807a-baa73de036ab",
-    "name": "Sandro Jorge de Oliveira",
-    "title": "Data Scientist & Artificial Intelligente",
-    "company": "Prodesp",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/SANDRO JORGE DE OLIVEIRA.jpeg",
-    "bio": "Profissional com ampla experiência em TI, atuando como documentador, desenvolvedor .NET, instrutora, coordenador de soluções com SharePoint, gerente de software factory e gerente de projetos em soluções fiscais.",
-    "expertise": [
-      "AI",
-      ".NET",
-      "SharePoint"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/sandrojorge/"
-    }
-  },
-  {
-    "id": "912c9112-1361-497a-b02d-00050d5b9afd",
-    "name": "Thamirys Gameiro",
-    "title": "Dev .Net Sênior - BTG Pactual | 7x Microsoft MVP | Instrutora .Net - FIAP",
-    "company": "BTG Pactual",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Thamirys Gameiro.jpeg",
-    "bio": "Desenvolvedora com foco em C#, APIs, DDD e arquiteturas modernas (Hexagonal, Limpa). Atua com Azure, AWS, OpenAI e RabbitMQ. Estuda microsserviços e sistemas distribuídos. Fundadora da comunidade DevelopersBR.",
-    "expertise": [
-      ".Net"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/thamirys-gameiro",
-      "gitHub": "https://github.com/ThamirysGameiro"
-    }
-  },
-  {
-    "id": "83f6c9fe-c9e4-4cf5-a748-36727380118e",
-    "name": "Vinicius Apolinario",
-    "title": "Principal Cloud Advocate at Microsoft",
-    "company": "Microsoft",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Vinicius Apolinario.jpeg",
-    "bio": "Profissional de TI desde os anos 2000, com foco em Infra/Ops e DevOps. Microsoft Certified Trainer desde 2009 e colaborador ativo na comunidade com blogs, eventos e livros. Hoje atua como Sr. Program Manager na equipe de Windows Containers da Microsoft.",
-    "expertise": [
-      "Docker", "Windows", "Linux", "WSL"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/vrapolinario/",
-      "twitter": "https://x.com/vrapolinario",
-      "gitHub": "https://github.com/vrapolinario"
-    }
-  },
-  {
-    "id": "12502096-89b5-46b8-9d0e-2f364845eb94",
-    "name": "Vitor Alves de Andrade",
-    "title": "Diretor Gerals",
-    "company": "Overflow Solutions",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Vitor Alves de Andrade.jpeg",
-    "bio": "Acredita na evolução contínua pessoal e profissional. Com trajetória que vai de áreas jurídicas à liderança como CEO da Overflow Solutions, acumula experiências em TI, projetos e gestão. Focado em compartilhar conhecimento e promover crescimento em equipe.",
-    "expertise": [
-
-    ],
-    "social": {
-      "linkedin": "http://linkedin.com/in/vitor-alves-de-andrade-72587532"
-    }
-  },
-  {
-    "id": "7110a1b8-489c-47c7-8415-ec387173b853",
-    "name": "William Santos",
-    "title": "Arquiteto de Software | Microsoft MVP | Evangelista de DDD",
-    "company": "Nubank",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/William Santos.jpeg",
-    "bio": "Arquiteto de software com 20+ anos de experiência em sistemas críticos e distribuídos. Atua em automação, integração e economia de custos. Compartilha conhecimento em blog e eventos, com foco em conteúdo técnico em português.",
-    "expertise": [
-      "Arquiteto de Software",
-      ".Net",
-      "DDD"
-    ],
-    "social": {
-      "linkedin": "https://linkedin.com/in/wsantosdev",
-      "twitter": "",
-      "gitHub": ""
-    }
-  },
-  {
-    "id": "fca35eaf-0809-4684-9c41-25fba8f4de80",
-    "name": "Wesley Camargo",
-    "title": "3x Microsoft MVP | Cloud Solutions Architect | Cloud/DevOps Technical Lead",
-    "company": "Tata Consultancy Services",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Wesley Camargo.jpeg",
-    "bio": "Arquiteto de Soluções Cloud especializado em Azure Landing Zones, com experiência em redes, segurança, governança e identidade, seguindo o Cloud Adoption Framework da Microsoft. MVP por 3 anos, com foco em automação, DevOps e projetos globais.",
-    "expertise": [
-      "Azure",
-      "Devops"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/wescamargo",
-      "gitHub": "https://github.com/wesleycamargo"
-    }
-  },
-  {
-    "id": "bb950666-e177-453a-b771-8d8a3d7e07b3",
-    "name": "Angelo Belchior",
-    "title": "10x Microsoft MVP Dev Tech | Staff Software Engineer na PicPay | .NET Enthusiast",
-    "company": "PicPay",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/angelo_belchior.png",
-    "bio": "20 anos de experiência em TI. Já atuou em projetos Desktop, Web, Mobile com Xamarin, Cognitive Services e Bots. Líder das comunidades técnicas Monkey Nights e Developers BR.  É Microsoft MVP em Developer Technologies e atua como Staff Engineer",
-    "expertise": [
-      ".Net",
-      "Azure"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/angelobelchior/",
-      "youtube": "https://www.youtube.com/@angelobelchior"
-    }
-  },
-  {
-    "id": "03befead-7314-4601-8e5b-301bfe4de083",
-    "name": "Renato Groffe",
-    "title": "Microsoft Most Valuable Professional (MVP), Docker Captain, Multi-Plataform Technical Audience Contributor (MTAC), Software Engineer, Technical Writer, Speaker",
-    "company": "Amil",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Renato Groffe.jpeg",
-    "bio": "Profissional com mais de 20 anos em desenvolvimento de software, bacharel em Sistemas de Informação e especialista em Engenharia de Software. Certificações Microsoft, Oracle, Sun, ITIL e Cobit. Autor de 100+ artigos em portais e comunidades técnicas.",
-    "expertise": [
-      "Azure",
-      "Docker",
-      ".Net",
-      "Devops"
-
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/renatogroffe/",
-      "twitter": "https://x.com/RenatoGroff",
-      "gitHub": "https://github.com/renatogroffe",
-      "youtube": "https://www.youtube.com/@CanalDotNET"
-    }
-  }
+    {
+        "id": "cd6a9846-d854-4bb1-b321-0d62fa24286f",
+        "name": "Alexandre Felipe Malavasi Cardoso",
+        "title": "CTO | 4x Author | International Logisticts | 4x Microsoft MVP Awards | MBA | MCPD | ITIL | Azure | .NET |",
+        "company": "CTO da MARELO",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Alexandre Felipe Malavasi Cardoso.jpeg",
+        "bio": "Engenheiro de software com 17+ anos de experiência global, fundador e CTO da MARELO, Microsoft MVP, autor de livros sobre .NET e palestrante internacional. Atua com liderança técnica, mentorias e contribuições à comunidade.",
+        "expertise": [
+            "Azure",
+            ".Net"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/alexandremalavasi/",
+            "twitter": "https://twitter.com/alemalavasi",
+            "gitHub": "https://github.com/alexandremalavasi",
+            "youtube": "https://www.youtube.com/@alexandremalavasi-software101"
+        }
+    },
+    {
+        "id": "8d59c769-9f78-47a6-b92f-d034483dfb78",
+        "name": "Alison Pezzott",
+        "title": "Microsoft MVP Data Platform",
+        "company": "AD'ORO S/A",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Alison Pezzott.jpeg",
+        "bio": "Especialista em dados e BI, compartilho soluções práticas com foco em Microsoft Fabric e Power BI. Busco democratizar o conhecimento com didática e profundidade, promovendo boas práticas, inovação, storytelling e colaboração na comunidade.",
+        "expertise": [
+            "Power BI",
+            "SQL",
+            "Microsoft Fabric",
+            "Python"
+        ],
+        "social": {
+            "linkedin": "https://linkedin.com/in/alisonpezzott",
+            "instagram": "instagram.com/alisonpezzott",
+            "gitHub": "github.com/alisonpezzott",
+            "youtube": "https://www.youtube.com/@alisonpezzott"
+        }
+    },
+    {
+        "id": "772a097e-fb9d-4b74-8b1c-9e6ea711b51c",
+        "name": "Andre Azevedo",
+        "title": "Executivo Comercial",
+        "company": "Prime IT Consultoria e Sistemas",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Andre Azevedo.jpeg",
+        "bio": "Empreendedor com 20 anos em ERP, CRM e BI, atuando em projetos nacionais e internacionais. Focado em novos negócios para apoiar a Transformação Digital de indústrias com tecnologia Microsoft.",
+        "expertise": [
+            "Power BI",
+            "Microsoft Dynamics 365"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/andrehazevedo"
+        }
+    },
+    {
+        "id": "1dedae30-49df-4171-890e-401ad2c8013b",
+        "name": "Andre Luiz Mattos Oliveira",
+        "title": "IT Projects Manager | Energy & Mining | Delivery Manager | Operations | Oil and Gas | Kanban | Scrum | Itil | Digital Transformation | Contract Manager",
+        "company": "Eneva",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Andre Luiz Mattos Oliveira.jpeg",
+        "bio": "Apaixonado por tecnologia e pessoas, com MBA em Gestão de Projetos. Atuação como Cloud Architect multicloud, especialista em FINOPS, licenciamento Microsoft e Modern Workplace. Forte foco em estratégia, clientes, liderança e inclusão.",
+        "expertise": [
+            "Microsoft Intune",
+            "Windows Server",
+            "VMware"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/admandreluiz/"
+        }
+    },
+    {
+        "id": "ae26b24c-6eae-4a00-9e33-1b9752238f2f",
+        "name": "Bruno Brito",
+        "title": "Microsoft MVP | Docker Captain",
+        "company": "Avera",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Bruno Brito.jpeg",
+        "bio": "Senior software engineer com 15 anos de experiência, apaixonado por código, open source e segurança. Atua escrevendo, palestrando e contribuindo em projetos abertos. Acredita que quanto mais aprende, mais percebe o quanto ainda há para aprender.",
+        "expertise": [
+            "Docker",
+            ".Net",
+            "Cloud",
+            "Azure",
+            "Kubernetes"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/brunobritodev/",
+            "twitter": "https://x.com/brunobritodev",
+            "gitHub": "https://github.com/brunobritodev"
+        }
+    },
+    {
+        "id": "638c08d5-aecc-487f-87a6-83b4aea6fa21",
+        "name": "Bruno Leires",
+        "title": "MVP Microsoft 365 | Microsoft 365 Architect | Enterprise Administrator Expert | Teams Administrator Associate | Messaging Associate | Identity and Access Administrator Associate",
+        "company": "Leires",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Bruno Leires.jpeg",
+        "bio": "Profissional com +14 anos de experiência em soluções complexas para grandes empresas nos setores bancário, telecom, governo, logística e mais. Especialista em tecnologias Microsoft, com foco em identidade, e-mail e comunicação para ambientes com até 140 mil usuários. Atua com melhoria contínua e foco no cliente.",
+        "expertise": [
+            "Microsoft 365"
+        ],
+        "social": {
+            "linkedin": "https://br.linkedin.com/in/oconsultorsenior"
+        }
+    },
+    {
+        "id": "6dffe011-3508-422a-ba32-ee77b1841ff1",
+        "name": "Carlos André Rodrigues Lauff",
+        "title": "CTO na Infob Cloud | MCASAE | MCSE | MCT | MTAC",
+        "company": "Infob Cloud",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Carlos Andre Rodrigues Lauff.jpeg",
+        "bio": "Arquiteto de soluções com foco em inovação, governança e excelência operacional. Experiência em gestão de riscos de TI, liderança técnica, planejamento de recursos e forte atuação junto a equipes de negócio e tecnologia.",
+        "expertise": [
+            "Cloud"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/carloslauff/"
+        }
+    },
+    {
+        "id": "8254ca63-ff1e-431e-ae78-4f1c20994338",
+        "name": "Carlos Citrangulo",
+        "title": "Diretor de Novos Negócios & Senior Partner",
+        "company": "Ímpar",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Carlos Citrangulo.jpeg",
+        "bio": "",
+        "expertise": [
+            "Microsoft 365"
+        ],
+        "social": {
+            "linkedin": "http://linkedin.com/in/carloscitrangulo"
+        }
+    },
+    {
+        "id": "f51511ae-b178-472d-a671-0d596a742fcc",
+        "name": "Cláudio Filipe Lima Rapôso",
+        "title": "Systems Architect Project Leader ",
+        "company": "NTT DATA Europe & Latam",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Claudio Filipe Lima Raposo.jpeg",
+        "bio": "Arquiteto de Sistemas na NTT DATA, utilizando TypeScript, Java e Python para criar soluções escaláveis. Professor de programação e algoritmos, unindo tecnologia e educação. Mestrando em Administração com foco em Marketing Digital e sistemas aplicados.",
+        "expertise": [
+            "TypeScript",
+            "Java",
+            "Python"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/cfraposo/"
+        }
+    },
+    {
+        "id": "3d488ab0-4b47-4e65-871b-b53221e8c600",
+        "name": "Cristiano Joaquim dos Santos",
+        "title": "Arquiteto de Software Sênior",
+        "company": "Unimed Fesp",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Cristiano Joaquim dos Santos.jpeg",
+        "bio": "Arquiteto de Software Sênior com 25+ anos em .NET, C#, Azure e microsserviços. Liderança técnica, inovação e experiência em transformação digital, especialmente na saúde. Ex-Microsoft e destaque em arquitetura moderna e DevOps.",
+        "expertise": [
+            ".Net",
+            "Microsoft Azure",
+            "Azure DevOps",
+            "Docker"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/cristiano-joaquim-santos/",
+            "gitHub": "https://github.com/cristianojsantos"
+        }
+    },
+    {
+        "id": "2c84ee8a-6ba6-4a33-9093-56b5657add03",
+        "name": "Daniel Donda",
+        "title": "Cybersecurity Specialist, Writer, Professor, Speaker, Researcher, and Founder of Hackers Hive",
+        "company": "Hackers Hive",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Daniel Donda.jpeg",
+        "bio": "Profissional com 20+ anos em TI, Gerente Sênior de Cibersegurança, MVP há 12 anos, autor, palestrante e professor. Atua com pesquisa, formação de profissionais e estratégias inovadoras contra ameaças cibernéticas.",
+        "expertise": [
+            "Cybersecurity"
+        ],
+        "social": {
+            "linkedin": "https://br.linkedin.com/in/danieldonda",
+            "twitter": "https://x.com/danieldonda",
+            "gitHub": "https://github.com/danieldonda",
+            "youtube": "https://www.youtube.com/@DanielDonda"
+        }
+    },
+    {
+        "id": "4291ffa0-ac15-40a0-86ca-9557c1da2767",
+        "name": "Daniel Gomes de Jesus",
+        "title": "Microsoft MVP | Tech Lead | .NET Developer | Specialist in C#, ASP.NET, & Cloud Solutions | Speaker",
+        "company": "XP Investimentos",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Daniel Gomes de Jesus.jpeg",
+        "bio": "Engineering Manager na XP, lidero projetos focados em eficiência e experiência do cliente. Ex-Tech Lead na Cielo, com forte atuação em automação, liderança técnica e soluções escaláveis. Engajado em inovação e comunidade tech.",
+        "expertise": [
+            ".Net",
+            "ASP.NET",
+            "Git",
+            "Docker"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/djesusnet",
+            "twitter": "https://x.com/djesusnet",
+            "gitHub": "https://github.com/djesusnet",
+            "youtube": "https://www.youtube.com/@DjesusNet"
+        }
+    },
+    {
+        "id": "679ad4bf-2c76-4701-9cec-f8778674e272",
+        "name": "Daniel Petrin",
+        "title": "Speaker",
+        "company": "Mundo Power",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Daniel Petrin.jpeg",
+        "bio": "Iniciei na Engenharia Civil, atuei 15 anos em construtora e me tornei especialista em Power Apps e Power Automate. Fundador da Mundo Power, capacitei +900 alunos e criei +50 apps e 200 automações focadas em transformação digital corporativa.",
+        "expertise": [
+            "SharePoint",
+            "Power Apps",
+            "Power Automate",
+            "SharePoint"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/danielpetrinbertini/"
+        }
+    },
+    {
+        "id": "fd4ba439-0961-485f-9554-ea25fe6027dc",
+        "name": "Daniel Ribeiro",
+        "title": "Azure Cloud Solution Architect at Microsoft - Global Partner Solutions (GPS)",
+        "company": "Microsoft",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Daniel Ribeiro.jpeg",
+        "bio": "",
+        "expertise": [
+            "Microsoft Azure",
+            "Cloud"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/xdanielribeiro/",
+            "gitHub": "https://github.com/daribei"
+        }
+    },
+    {
+        "id": "bed1cc7d-ccd1-4b59-9608-90a0d145e2a3",
+        "name": "Danilo Nogueira",
+        "title": "Microsoft MVP | Ajudando clientes e pessoas a serem mais produtivos com as ferramentas Microsoft",
+        "company": "Cloud Target",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Danilo Nogueira.jpeg",
+        "bio": "Graduado em Ciência da Computação pelo Mackenzie. Inglês e Italiano Fluentes. Forte espírito de liderança. Pró-atividade. Colaborando em algumas multinacionais utilizando diversas tecnologias. Ótimas experiências profissionais internacionais e disponibilidade para viagens. Foco em soluções Microsoft.",
+        "expertise": [
+            "Microsoft 365",
+            "SharePoint"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/danilonogueira/"
+        }
+    },
+    {
+        "id": "2216af32-e6c1-4398-b8bd-70fe9ad36d2a",
+        "name": "Diego Moreira Matos",
+        "title": "CTO | Microsoft Azure MVP / Cloud Architect / Technical Lead",
+        "company": "Cloud2Go",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Diego Moreira Matos.jpeg",
+        "bio": "CTO da Cloud2Go (Grupo NGX), com 15+ anos de experiência em tecnologias Microsoft e nuvem (Azure, AWS, GCP). Microsoft MVP em Azure, MCT, especialista em migração, modernização e ambientes híbridos. Ativo na comunidade tech como palestrante e mentor.",
+        "expertise": [
+            "Cloud",
+            "Azure"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/digomatos/",
+            "gitHub": "https://github.com/digomatos"
+        }
+    },
+    {
+        "id": "f4e840ea-15f2-4532-ad30-7ef3f19b3ec6",
+        "name": "Eduardo Pires",
+        "title": "Microsoft Regional Director | MVP | Owner @ desenvolvedor.io",
+        "company": "desenvolvedor.io",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Eduardo Pires.jpeg",
+        "bio": "Microsoft Regional Director. 12x Microsoft MVP (2014 - 2025)Arquiteto e Desenvolvedor de Software. 24 anos de experiência em desenvolvimento de software",
+        "expertise": [
+            ".Net"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/pireseduardo/",
+            "twitter": "https://x.com/eduardopiresbr",
+            "gitHub": "https://github.com/EduardoPires"
+        }
+    },
+    {
+        "id": "635752ed-6e95-4335-8f70-f99c51c0f8f3",
+        "name": "Elton Bordim",
+        "title": "Microsoft MVP | MCT | Azure Hybrid & Migration | Comitê de Segurança APDADOS | CEO & Founder at CloudData Tech & DevOps",
+        "company": "CloudData Tech & DevOps",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Elton Bordim.jpeg",
+        "bio": "",
+        "expertise": [
+            "Cloud",
+            "Azure"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/elton-bordim/"
+        }
+    },
+    {
+        "id": "3e6fe57d-d572-4ae5-a9cd-1f3778af527a",
+        "name": "Emmanuel G. Brandão",
+        "title": "DevOps | SRE | Observability | FinOps",
+        "company": "Accenture",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Emmanuel G. Brandao.jpeg",
+        "bio": "Há mais de 10 anos atuo com DevOps e Agilidade, apoiando times na automação, monitoramento e otimização em nuvem para reduzir toil e downtime. Com background em .NET, colaboro com devs em soluções eficientes e compartilho conhecimento em vídeos e palestras.",
+        "expertise": [
+            "DevOps",
+            "SRE",
+            "Observability",
+            "FinOps"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/egomesbrandao",
+            "gitHub": "https://github.com/egomesbrandao"
+        }
+    },
+    {
+        "id": "7fe38632-f5aa-439e-b745-5011fdd8c535",
+        "name": "Erick Maquiné dos Santos",
+        "title": "Diretor MSTI Tecnologia e Inovação",
+        "company": "MSTI Tecnologia e Inovação",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Erick Maquine dos Santos.jpeg",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/erick-maquine/"
+        }
+    },
+    {
+        "id": "9b0651b0-14ad-4c89-91f2-9e40d1cd2404",
+        "name": "Erick Wendel",
+        "title": "Linkedin Top Voice | Professional JS Educator | Google Dev Expert | Microsoft MVP | GitHub Star Alumni | Node.js core team member",
+        "company": "EW Academy",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Erick Wendel.jpeg",
+        "bio": "Erick Wendel é Microsoft MVP, especialista em Node.js e aplicações JavaScript. Atua como arquiteto de software independente, focado em Serverless, containers e cloud híbrida. Palestrante em grandes conferências e líder voluntário de comunidades como NodeBR e Nerdzão.",
+        "expertise": [
+            "Node.js",
+            "Serverless"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/erickwendel/",
+            "twitter": "https://x.com/erickwendel_",
+            "gitHub": "https://github.com/ErickWendel"
+        }
+    },
+    {
+        "id": "310a1440-7f09-4d7f-b71d-84c0edac81cb",
+        "name": "Everaldo Oliveira da Silva",
+        "title": "Arquiteto Cloud | Microsoft Azure",
+        "company": "Minsait",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Everaldo Oliveira da Silva.jpeg",
+        "bio": "Sou formado em Redes de Computadores pela Faculdade de São Paulo e tenho 25 anos de experiência em Infraestrutura de TI, especialista em cloud computing com certificação Microsoft Azure e AWS, sólidos conhecimentos em ambientes de computação corporativos e migrações de ambientes.",
+        "expertise": [
+            "Azure",
+            "Cloud"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/evoliv/"
+        }
+    },
+    {
+        "id": "9b8d4393-d5b2-4296-9c88-3c1dfdc817cd",
+        "name": "Fabiano Neves Amorim",
+        "title": "Principal Consultant at Pythian",
+        "company": "Pythian",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Fabiano Neves Amorim.jpeg",
+        "bio": "Fabiano Amorim é Microsoft MVP em Data Platform desde 2011, com mais de 20 anos de experiência. Reconhecido mundialmente por sua expertise em performance tuning e por palestrar em grandes conferências, resolve problemas complexos que poucos conseguem solucionar.",
+        "expertise": [
+            "Performance Tuning",
+            "Database Optimization",
+            "Data Platform"
+        ],
+        "social": {
+            "linkedin": "https://br.linkedin.com/in/fabianoamorim",
+            "twitter": "https://x.com/mcflyamorim"
+        }
+    },
+    {
+        "id": "364563a6-86ab-4ee0-95d6-58b02e91d52a",
+        "name": "Fabio Baldini",
+        "title": "Presidente da ACITEC | Professor | MTAC | Palestrante | CEO",
+        "company": "ACITEC",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Fabio Baldini.jpeg",
+        "bio": "Experiência Profissional nas áreas de Gestão de Pessoas, Metalúrgica, Alimentos, Consultoria, Projetos, Processos, Orçamentos, Operações Portuárias, Análises Financeiras, Planejamento, PPCP, Obras Civis e Treinamentos.",
+        "expertise": [
+            "Microsoft Excel",
+            "VBA"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/baldinifabio/"
+        }
+    },
+    {
+        "id": "9a6f6a80-7593-49b6-9566-6ca8b1712488",
+        "name": "Fabio Menezes Santos",
+        "title": "Coordenador de Projetos Especiais @ PETROBRAS | Data Governance | Microsoft MVP & Certified Trainer | Business Intelligence Expert",
+        "company": "Petrobras",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/FABIO MENEZES SANTOS.jpeg",
+        "bio": "Consultor na Petrobras com 4+ anos em soluções digitais e análise de dados. Microsoft MVP em Data Platform, MCT e instrutor desde 2019. Certificado em Azure e BI, atua otimizando processos e apoiando decisões. Bacharel em Design, MBA em Big Data.",
+        "expertise": [
+            "Data Analysis",
+            "Business Intelligence",
+            "Data Visualization",
+            "Process Optimization"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/fabioms/"
+        }
+    },
+    {
+        "id": "3cf322e0-3922-49c4-84a0-127a3105094f",
+        "name": "Felipe Kenji Chikuji",
+        "title": "Analista de Dados | Cientista de Dados | Especialista em Power BI | Palestrante | Microsoft MVP IA | Microsoft MCT",
+        "company": "Real Impact Brasil",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Felipe Kenji Chikuji.jpeg",
+        "bio": "Especialista em Dados e IA com 5+ anos em soluções Microsoft. Microsoft Certified Trainer e MVP em Azure AI. Instrutor oficial de certificações DP-900, AI-900, AI-102, DP-600. Lidera projetos de dados e inovação na Real Impact Brasil e atua como mentor e palestrante.",
+        "expertise": [
+            "Dados e Inteligência",
+            "Power BI",
+            "Azure AI",
+            "Arquitetura de Dados"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/felipe-kenji-chikuji/"
+        }
+    },
+    {
+        "id": "8e1f6030-586a-4ad5-afe3-833498516db6",
+        "name": "Felipe Pimentel Augusto",
+        "title": "Microsoft MVP | Technical Architecture Manager @ Avanade | MIT Arquitetura de Sistemas @ Infnet",
+        "company": "Avanade",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Felipe Pimentel Augusto.jpeg",
+        "bio": "Na Avanade, lideramos projetos aplicando Design Patterns, focados em performance, manutenção, resiliência, observabilidade e testes. Combinamos desenvolvimento, arquitetura e DevOps para inovar em cloud, promovendo colaboração e excelência em um cenário tecnológico dinâmico.",
+        "expertise": [
+            "Design Patterns",
+            "Observability",
+            "DevOps",
+            "Cloud"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/felipementel",
+            "gitHub": "https://github.com/felipementel"
+        }
+    },
+    {
+        "id": "b607b1fe-3415-4244-be36-2c06f79b0bb1",
+        "name": "Francisco José Ferreira",
+        "title": "Microsoft MVP Azure Hybrid and Migration | Cloud Architect | Project Coordinator in BNP | Cloud Engineer in E-Seth | Instructor MCT in Ka Solution | Network Administrator in Miranda | Speaker | MTAC | AzureExpert Founder",
+        "company": "BNP - Soluções em TI",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Francisco Jose Ferreira.jpeg",
+        "bio": "Coordenador de Projetos na BNP com 30+ anos em TI, especialista em redes e inovação em cloud. Microsoft MVP Azure Hybrid e Migration 2024. Experiência sólida em infraestrutura, servidores Linux e Windows, liderando projetos de soluções Microsoft e arquiteturas híbridas.",
+        "expertise": [
+            "Network Administration",
+            "Cloud Innovation",
+            "Hybrid Cloud Architectures",
+            "Server Administration"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/franciscoferreiramvp/"
+        }
+    },
+    {
+        "id": "c227e4b5-07e1-4a5c-8e21-660a399e945b",
+        "name": "Fábio Cotrim",
+        "title": "Database System Expert - NTT DATA",
+        "company": "NTT DATA",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Fabio Cotrim.jpeg",
+        "bio": "Especialista em TI com ampla experiência em bancos Microsoft SQL Server (2005-2019), alta disponibilidade com AlwaysOn, tunning e segurança. Atuou em projetos diversos, gestão de contratos de outsourcing e suporte a áreas como Marketing, Finanças, Logística e Manufatura.",
+        "expertise": [
+            "Microsoft SQL Server",
+            "Alta Disponibilidade",
+            "Tunning e Segurança"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/fcotrim/"
+        }
+    },
+    {
+        "id": "dba46de4-9bf2-4652-a2c3-e7707dbd5667",
+        "name": "Fábio de Carvalho Gatti",
+        "title": "Diretor Técnico | MCT Microsoft 365 & Power Platform",
+        "company": "GoEasyIT",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Fabio de Carvalho Gatti.jpeg",
+        "bio": "Graduado em Administração, consultor e instrutor em Microsoft 365 e Power Platform desde 2014. Certificado MS-Office Specialist Expert, Microsoft Certified Trainer, associado MTAC e Black Belt Lean Six Sigma em processos.",
+        "expertise": [
+            "Microsoft 365",
+            "Power Platform",
+            "Lean Six Sigma"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/fabiocgatti/",
+            "youtube": "https://www.youtube.com/@PulodoGatti"
+        }
+    },
+    {
+        "id": "46b6a055-1280-4624-8d1d-179688b28d0f",
+        "name": "Glaucio Daniel Souza Santos",
+        "title": "CEO Hcode | Calian | FIAP | AI Engineer | 4x Microsoft MVP",
+        "company": "Hcode",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Glaucio Daniel Souza Santos.jpeg",
+        "bio": "Sou Glaucio Daniel, CEO da Hcode, empresa de educação e tecnologia com mais de 165 mil alunos em 92 países. Instrutor na Udemy, especialista em IA Generativa e tecnologias como JavaScript, Node.js e C#. 4x Microsoft MVP",
+        "expertise": [
+            "Inteligência Artificial Generativa"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/glauciodaniel"
+        }
+    },
+    {
+        "id": "0eac2a3b-bd7f-4023-ba3f-85edb2052e3b",
+        "name": "Guilherme Maia",
+        "title": "Cloud Architect, Microsoft MVP, Trainer",
+        "company": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Guilherme Maia.jpeg",
+        "bio": "Cloud Specialist, Consultant e Arquiteto focado em Apps & Infra para médias e grandes empresas. Microsoft Azure MVP, MTAC e MCT. Capacita profissionais de TI a se tornarem especialistas em Azure via treinamentos online, workshops e mentoria.",
+        "expertise": [
+            "Cloud",
+            "Azure"
+        ],
+        "social": {
+            "linkedin": "https://linkedin.com/in/guilhermemaia"
+        }
+    },
+    {
+        "id": "b8013ee2-ffe5-4399-b441-692b19914651",
+        "name": "Gustavo Bellini Bigardi",
+        "title": "Chief Technology Officer @ Clarus IT | Microsoft MVP",
+        "company": "Clarus IT",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Gustavo Bellini Bigardi.jpeg",
+        "bio": "Desenvolvedor com 18+ anos focado em Microsoft (.NET, Azure), NodeJS e React. Experiência em sistemas escaláveis. Microsoft MVP Developer Technologies, coordena a comunidade JunDevelopers e produz conteúdo técnico sobre .NET, Azure, Blazor e melhores práticas.",
+        "expertise": [
+            ".Nett",
+            "Azure Cloud",
+            "NodeJS",
+            "Software Scalability"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/gbbigardi/",
+            "gitHub": "https://github.com/gustavobigardi"
+        }
+    },
+    {
+        "id": "d17753bd-e26d-4467-9228-33b78cc12b58",
+        "name": "Henver Rodrigo Gomes Soares",
+        "title": "Microsoft MVP | MCT | Consultor Sênior Microsoft Modern Work & Security",
+        "company": "Beyondsoft Brasil",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Henver Rodrigo Gomes Soares.jpeg",
+        "bio": "Microsoft MVP e consultor sênior em Segurança Cibernética e Modern Workplace, especialista em Microsoft 365, Zero Trust e gestão de identidade. Com 10+ anos de experiência, atua em migração, automação e proteção de ativos digitais para otimizar segurança e produtividade.",
+        "expertise": [
+            "Microsoft 365",
+            "Zero Trust",
+            "Cybersecurity",
+            "Modern Workplace"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/henversoares"
+        }
+    },
+    {
+        "id": "dcfedce3-3657-46a5-8a23-38db11e4e4f4",
+        "name": "Hugo Venturini",
+        "title": "Palestrante, Consultor e Instrutor | MVP Data Platform | MOS Excel",
+        "company": "Venturini Treinamentos e Soluções Ltda",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Hugo Venturini.jpeg",
+        "bio": "Sócio da Venturini Treinamentos, ministra cursos presenciais e online em Microsoft 365, Excel e Power BI. Formado em Administração, com especialização e certificação Office Specialist. Microsoft MVP Data Platform, desenvolve soluções de analytics integradas a ERPs diversos.",
+        "expertise": [
+            "Microsoft 365",
+            "Excel Analytics",
+            "Power BI",
+            "ERP Integration"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/hugoventurini-excel-and-powerbi/"
+        }
+    },
+    {
+        "id": "5c29ecb9-299f-49c9-86f5-bc20925c36b0",
+        "name": "Igor Humberto Monte Marques de Lima",
+        "title": "Azure Solutions Architect | Microsoft 365 Administrator | Coordenador de TI | Datacenter Services | MXM Sistemas",
+        "company": "MXM Sistemas",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Igor Humberto Monte Marques de Lima.jpeg",
+        "bio": "Profissional com 25+ anos em Treinamento e Consultoria em TI, certificado MCT, MCSE, Azure e Microsoft 365 Expert. MVP Alumni e membro MTAC. Coordena projetos complexos na MXM Sistemas com foco em soluções Microsoft, segurança, nuvem e virtualização.",
+        "expertise": [
+            "Microsoft Technologies",
+            "Azure",
+            "Security"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/igorhumberto/"
+        }
+    },
+    {
+        "id": "33042546-dc92-4af8-abce-7383494d7a0c",
+        "name": "Jefferson Castilho",
+        "title": "Especialista de Infraestrutura | Especialista SRE | Especialista Cloud | Arquiteto Cloud | Especialista de TI | DevOps",
+        "company": "PagueVeloz",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Jefferson Castilho.jpeg",
+        "bio": "Profissional com 18 anos em tecnologia, focado em SRE e Cloud há 8. Experiência com Azure, AWS, GCP, IaC, CI/CD, virtualização e segurança (RedTeam/BlueTeam). MBA em Tech para Negócios e líder de equipe nas áreas de SRE e Arquitetura.",
+        "expertise": [
+            "Cloud",
+            "Infrastructure as Code",
+            "Devops",
+            "SRE"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/jeffersoncastilho/",
+            "gitHub": "https://github.com/jeffersoncastilho"
+        }
+    },
+    {
+        "id": "b98f4a14-9500-4d79-afc8-1c2a816d4dda",
+        "name": "Joel de Oliveira junior",
+        "title": "Co-Founder Luckie Tech",
+        "company": "Luckie Tech",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Joel de Oliveira junior.jpeg",
+        "bio": "Executivo com MBA pela FGV e Prominp/Petrobras, pós pela ESPM e experiência internacional na Suécia (Ericsson). Atuação em vendas B2B na América Latina, com foco em tecnologia, aviação, telecom, big data e IA. Especialista em vendas de alto nível.",
+        "expertise": [
+            "International Sales",
+            "High Technology Sales",
+            "Aviation Services",
+            "B2B Sales"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/joeljunior"
+        }
+    },
+    {
+        "id": "ebce12e5-18ba-485e-9beb-32cfbaaed4ed",
+        "name": "Jorge Maia",
+        "title": "Especialista em Internet das Coisas, Palestrante, Professor, Premiado pela Microsoft como MVP em Azure, Mestre em Sistemas Mecatrônicos",
+        "company": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Jorge Maia.jpeg",
+        "bio": "Consultor e mentor com 20+ anos em .NET, foco em produtividade, qualidade e agilidade. Microsoft Certified Trainer, atua com C#, IoT, sistemas embarcados e financeiros. Palestrante, podcaster e fundador do CrazyTechGuys. Mestrando em Sistemas Mecatrônicos.",
+        "expertise": [
+            ".Net",
+            "Sistemas Embarcados",
+            "Internet das Coisas"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/jorgeasmaia",
+            "twitter": "https://x.com/jorgemaia",
+            "gitHub": "https://github.com/jorgemaia"
+        }
+    },
+    {
+        "id": "6aefee0d-4940-4e6b-bafb-bdec3a1dec98",
+        "name": "Juliana Maria Lopes",
+        "title": "Microsoft MVP | Top Data Architecture Voice | Data Architect | Big Data Architect | BI Specialist | Microsoft MCT | 2x Databricks Certified | 8x Azure Certified | 1x Oracle Certified",
+        "company": "GFT Technologies Brasil",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Juliana Maria Lopes.jpeg",
+        "bio": "Profissional com 20+ anos em TI, especialista em Big Data, BI e Azure. Atuou em grandes empresas e liderou times em projetos de dados. Instrutora certificada Microsoft, mentora ativa e autora de artigos sobre ingestão de dados e arquitetura em nuvem.",
+        "expertise": [
+            "Big Data",
+            "Azure Cloud",
+            "Arquitetura de Dados",
+            "Engenharia de Dados"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/julianamarialopes/",
+            "gitHub": "https://github.com/julianamarialopes"
+        }
+    },
+    {
+        "id": "d4b66773-b9a0-4220-b21c-c076e94e05ee",
+        "name": "Juliano Custódio",
+        "title": "7x Microsoft MVP | Green Software Champion",
+        "company": "Bayer",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Juliano Custodio.jpeg",
+        "bio": "",
+        "expertise": [],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/julianocustodio"
+        }
+    },
+    {
+        "id": "4e9d3383-21ef-42da-8a81-1836aa124025",
+        "name": "Leonardo Alves Zanré",
+        "title": "Especialista Microsoft Power Platform | Power Apps | Power Automate | SharePoint | Power BI | Power Pages | Low-Code | Automação | Dynamics 365 | RPA | Canvas e Model-Driven Apps",
+        "company": "Instrutor na Udemy",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Leonardo Alves Zanre.jpeg",
+        "bio": "Especialista em Microsoft Power Platform com foco em Power Apps (Canvas e Model-Driven), Power Automate, SharePoint, Power BI, Power Pages, RPA e Dynamics 365. Atuo com soluções low-code e automação para aumentar eficiência e agilidade nos negócios.",
+        "expertise": [
+            "Power Platform",
+            "Low-Code Solutions",
+            "Business Automation",
+            "Dynamics 365"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/leonardozanre"
+        }
+    },
+    {
+        "id": "749fc151-e432-460d-bd8b-5b58e104fa2d",
+        "name": "Leonardo Camargo Rossato",
+        "title": "President ICTQ Foton | Physicist | Quantum Computing and Econophysics Specialist | Developer of Educational Apps and Interactive Dashboard Tools",
+        "company": "ICTQ Foton",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Leonardo Camargo Rossato.jpeg",
+        "bio": "Físico e matemático especializado em computação quântica e análise de dados. Cria apps educacionais, ensina computação quântica e desenvolve ferramentas visuais como o ScatterGraph para simplificar conceitos usando ciência de dados e IA.",
+        "expertise": [
+            "Quantum Computing",
+            "Data Analysis",
+            "Educational Apps",
+            "Graph Theory"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/leonardocamargorossato",
+            "gitHub": "https://github.com/leonardocamargorossato"
+        }
+    },
+    {
+        "id": "c7aa6d6f-4962-4693-a815-c7c332485fdf",
+        "name": "Leonardo Ramos Russo",
+        "title": "Power Platform | Driving Innovation and Empowering Business Solutions",
+        "company": "Genaiera",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Leonardo Ramos Russo.jpeg",
+        "bio": "Desenvolvedor Power Apps com foco em processos de negócios, experiência em Power Automate, Dataverse e SharePoint. Crio apps personalizados com design intuitivo e visual atrativo, unindo estética e funcionalidade para otimizar processos e gerar valor.",
+        "expertise": [
+            "Power Apps",
+            "Power Automate",
+            "User Experience",
+            "Processos de Negócio"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/leonardorrusso/"
+        }
+    },
+    {
+        "id": "de03d6cf-3b8e-47f9-9d6b-926e80f39f12",
+        "name": "Lucas Cariello Massena",
+        "title": "Strategic Enterprise Cloud Solutions Architect at Optimus Information Inc. specialist in Cloud Modernization",
+        "company": "Optimus Information Inc",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Lucas Cariello Massena.jpeg",
+        "bio": "Enterprise Cloud Solutions Architect com foco em pré-vendas, adoção, modernização e migração para nuvem. Especialista em alinhar tecnologia à estratégia de negócios, criando soluções escaláveis, inovadoras e de alto impacto para transformação digital.",
+        "expertise": [
+            "Cloud Architecture",
+            "Digital Transformation",
+            "Cloud Migration",
+            "Solution Modernization"
+        ],
+        "social": {
+            "linkedin": "https://linkedin.com/in/lcmassena",
+            "twitter": "https://x.com/lcmassena",
+            "gitHub": "https://github.com/lcmassena"
+        }
+    },
+    {
+        "id": "d6179986-76eb-430d-985b-6c168ea016f5",
+        "name": "Marco Aurélio Gardini Lagoa",
+        "title": "CEO na Witec IT Solutions & Cofundador na BUDTI",
+        "company": "Witec IT Solutions",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Marco Aurelio Gardini Lagoa.jpeg",
+        "bio": "Velejador que se tornou Arquiteto de Soluções e cofundador da WITEC IT Solutions. Sócio em startups, lidera a Confraria do Empreendedor e é CEO do Congresso de TI Online. Atua com eventos como o EVOLUTI e é mentor voluntário na Atitude Infinita.",
+        "expertise": [
+            "Arquitetura de Soluções",
+            "Empreendedorismo Digital",
+            "Mentoria Profissional"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/marcolagoa",
+            "twitter": "https://x.com/marcolagoa",
+            "gitHub": "https://github.com/marcolagoa"
+        }
+    },
+    {
+        "id": "de166d04-ce08-4292-a0e5-82afc6470c85",
+        "name": "Márcio Rogério Nizzola",
+        "title": "Arquiteto de Sistemas na CI&T | Microsoft MVP | .NET | Angular | Python | PHP | SQL | Oracle | Azure | Docker | RabbitMq",
+        "company": "CI&T",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Marcio Rogerio Nizzola.jpeg",
+        "bio": "Arquiteto de Software na CI&T com 30+ anos de experiência. MVP em Developer Technologies. Especialista em .NET, Azure e integrações no setor de turismo. Professor no Centro Paula Souza e cofundador da Itu Developers. Apaixonado por ensinar e inovar.",
+        "expertise": [
+            ".Net",
+            "Oracle",
+            "Azure",
+            "Docker"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/nizzola/",
+            "gitHub": "https://github.com/NIZZOLA"
+        }
+    },
+    {
+        "id": "f6b9c669-4550-4322-822a-b911f1f78008",
+        "name": "Nathan Pinotti",
+        "title": "Microsoft 365 | Modern Workplace Security | Microsoft Endpoint Manager | Microsoft Defender | Compliance Microsoft | Azure Information Protection | Data Loss Prevention",
+        "company": "Itaú Unibanco",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Nathan Pinotti.jpeg",
+        "bio": "Com conhecimentos em tecnologia e gestão, atuo alinhando ambos para otimizar entregas com foco em valor ao negócio. Especialista em tecnologias Microsoft, como Modern Workplace Security, MEM, Defender, Compliance, AIP, DLP e Azure.",
+        "expertise": [
+            "Microsoft 365",
+            "Microsoft Defender",
+            "Modern Workplace Security"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/nathanpinotti/",
+            "gitHub": "https://github.com/nathanpinotti"
+        }
+    },
+    {
+        "id": "719d44a2-b9d9-41f1-8e24-6f0c46c5f7c0",
+        "name": "Pedro Ignácio",
+        "title": "Senior DevOps Engineer at Itaú Unibanco | Docker Captain | Cloud Security Microsoft MVP | Kubernetes | CK{A,AD} | Security | DevOps | Observability",
+        "company": "Itaú Unibanco",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Pedro Ignacio.jpeg",
+        "bio": "",
+        "expertise": [
+            "Docker",
+            "DevOps",
+            "Cloud Security",
+            "Kubernetes"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/pedroirufo"
+        }
+    },
+    {
+        "id": "644920e0-f93c-4556-80df-9ecc3efef48f",
+        "name": "Rafael Martin Alves Ferreira",
+        "title": "Senior Azure DevOps Solution Engineer | Microsoft MVP & MCT | DevOps Institute Ambassadors | Alura Star Embaixador | Green Software Champion | Cloud & Platform Engineer | Host LowOpsCast",
+        "company": "Softensity Inc",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Rafael Martin Alves Ferreira.jpeg",
+        "bio": "Sou Rafael, curioso e apaixonado por tecnologia desde cedo. Com 10+ anos de experiência, 18 certificações e formado em Ciência da Computação, atuo como Engenheiro DevOps especializado em Azure. MVP, MCT, focado em nuvem, DevOps, Terraform e Kubernetes.",
+        "expertise": [
+            "Azure DevOps",
+            "Cloud",
+            "Kubernetes"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/rafaelmaferreira/",
+            "gitHub": "https://github.com/rafaelmaferreira"
+        }
+    },
+    {
+        "id": "e469f744-75eb-4861-8908-20369dd236f4",
+        "name": "Raphael Rodrigo Ramos de Santana Santos",
+        "title": "O consultor Power Apps mais camarada da vizinhança | Transformação Digital | Power Apps | Power Automate| Power BI | Ferramentas Digitais | Digitalização de Processos Industriais | Automação Industrial",
+        "company": "CAMARO ELECTRIC AUTOMAÇÃO INDUSTRIAL",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Raphael Rodrigo Ramos de Santana Santos.jpeg",
+        "bio": "Sou o Consultor Power Apps mais Camarada da Vizinhança! Te ajudo a destravar aquele app enrolado com bom humor e proximidade. E se quiser aprender no seu tempo, tenho um curso na Hotmart ensinando a criar o Action Track com muita camaradagem!",
+        "expertise": [
+            "Power Apps",
+            "Power BI",
+            "Power Automate"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/raphael-camaro-powerplatform"
+        }
+    },
+    {
+        "id": "291924b2-ae8f-469a-ae4b-25f0ed136035",
+        "name": "Rebecca Paola Cesar Frade",
+        "title": "Cybersecurity Specialist | Hackers Hive Advocate | DPO | IAM | GRC | DLP | Azure & Microsoft 365 security | Microsoft Certified | Speaker",
+        "company": "Tecnocomp",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Rebecca Paola Cesar Frade.jpeg",
+        "bio": "Especialista em cibersegurança, GRC e compliance, com experiência em ISO 27000, LGPD, NIST, CIS, Azure, GCP e AWS. Atuo com IAM, infraestrutura híbrida, políticas de segurança e otimização. Mentora, palestrante e apoiadora da comunidade técnica.",
+        "expertise": [
+            "Cybersecurity",
+            "Azure",
+            "Microsoft 365 Security"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/rebecca-paola-cesar-frade/"
+        }
+    },
+    {
+        "id": "2d4f5e64-9978-4ca5-8022-06818aa472aa",
+        "name": "Renato José Ferreira Lira",
+        "title": "Microsoft MVP | Power BI | Fabric | DAX | M",
+        "company": "Petrobras",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Renato Jose Ferreira Lira.jpeg",
+        "bio": "Sou Renato Lira, especialista em Power BI, apaixonado por linguagens M e DAX. Já treinei centenas de pessoas e criei um método visual para ensinar DAX, descomplicando o que acontece “por trás dos panos” e ajudando alunos a entender e aplicar com clareza.",
+        "expertise": [
+            "Power BI",
+            "Microsoft Fabric"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/renatojflira/"
+        }
+    },
+    {
+        "id": "c14a7901-d0ca-456b-a99f-4ea11a60b33c",
+        "name": "Ana Carolina Manzan",
+        "title": "Cloud Analyst @ Bosch | Microsoft MVP | MLSA | DevOps Engineer Expert | 5x Microsoft Certified",
+        "company": "Bosch",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Ana Carolina Manzan.jpeg",
+        "bio": "Cloud Analyst com 10+ anos de experiência em tecnologia, especializado em Azure, Azure DevOps, .NET (Framework e Core), C# e web. Possui certificações Microsoft (AZ-900, AZ-400, AZ-104, SC-900) e Mestrado em Inovação Tecnológica. Focado em Cloud, DevOps e Arquitetura.",
+        "expertise": [
+            "DevOps",
+            "Cloud",
+            "Azure"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/anamanzandev/",
+            "gitHub": "https://github.com/devsnasnuvens"
+        }
+    },
+    {
+        "id": "6dad0bda-a90c-4b4b-8177-447f53a41cb1",
+        "name": "Renicius Pagotto Fostaini",
+        "title": "Lead Consultant at Thoughtworks | Microsoft MVP | .NET | Azure | DevOps | Cloud Engineer | Software Architecture",
+        "company": "Thoughtworks",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Renicius Pagotto Fostaini.jpeg",
+        "bio": "Com mais de 10 anos de experiência em tecnologia, sou especialista em Arquitetura de Sistemas Distribuídos e DevOps. Atuo com foco em excelência tecnológica, arquitetura evolutiva e performance, entregando soluções escaláveis com Azure e práticas ágeis.",
+        "expertise": [
+            ".Net",
+            "Azure",
+            "DevOps",
+            "Cloud"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/renicius-pagotto",
+            "gitHub": "https://github.com/reniciuspagotto"
+        }
+    },
+    {
+        "id": "fa1b2134-4191-469b-9488-d3fadae304c4",
+        "name": "Roberto Fonseca",
+        "title": "Senior Sql Server Database Administrator at Pythian",
+        "company": "Pythian",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Roberto Fonseca.jpeg",
+        "bio": "Com mais de 15 anos na área de bancos de dados e 9 como especialista em SQL Server, lidero projetos com foco em arquitetura, performance, alta disponibilidade, recuperação de desastres e migrações. Especialista em SQL Server 2005–2016, incluindo clustering, replicação e tuning.",
+        "expertise": [
+            "Sql Server"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/rffonseca/"
+        }
+    },
+    {
+        "id": "6c3f272a-099a-4cd9-8ba3-cb90eb939076",
+        "name": "Rodrigo Crespi",
+        "title": "CEO - CDB Data Solutions | Microsoft MVP Data Platform",
+        "company": "CDB Data Solutions",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Rodrigo Crespi.jpeg",
+        "bio": "Rodrigo Crespi é MVP Data Platform, MCT e especialista em SQL Server desde a versão 6.5. Com diversas certificações, é sócio da CrespiDB e professor na Uniftec – Caxias do Sul, atuando com foco em administração de bancos de dados e plataformas de dados.",
+        "expertise": [
+            "Sql Server"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/rodrigocrespi"
+        }
+    },
+    {
+        "id": "41c8666c-69a9-4217-8e2e-8da02c99fcd8",
+        "name": "Rodrigo Dornel",
+        "title": "Microsoft MVP Alumni, Microsoft MCT, Azure Data Engineer, Msc, Professor Universitário e Chief Operating Officer na CDB - Data Solutions",
+        "company": "CDB Data Solutions",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Rodrigo Dornel.jpeg",
+        "bio": "Microsoft Data Platform MVP, Power BI Expert, SQL Server Expert and Microsoft Certified Trainer!",
+        "expertise": [
+            "Power BI",
+            "SQL Server"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/rodrigodornel/"
+        }
+    },
+    {
+        "id": "aa562edf-3633-46f8-8ba9-50ee60e8d1a9",
+        "name": "Rosani Coutinho",
+        "title": "Cloud Sales Strategist",
+        "company": "Unikeer",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Rosani Coutinho.jpeg",
+        "bio": "Profissional com 20+ anos em tecnologia e liderança no ecossistema Microsoft. Fundadora da Unikeer, plataforma que integra automação, finops e APIs ao Partner Center para transformar operações de parceiros em resultados concretos.",
+        "expertise": [
+            "Cloud",
+            "Azure"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/rosanicoutinho/"
+        }
+    },
+    {
+        "id": "f1b19fc5-71d6-4e93-807a-baa73de036ab",
+        "name": "Sandro Jorge de Oliveira",
+        "title": "Data Scientist & Artificial Intelligente",
+        "company": "Prodesp",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/SANDRO JORGE DE OLIVEIRA.jpeg",
+        "bio": "Profissional com ampla experiência em TI, atuando como documentador, desenvolvedor .NET, instrutora, coordenador de soluções com SharePoint, gerente de software factory e gerente de projetos em soluções fiscais.",
+        "expertise": [
+            "AI",
+            ".NET",
+            "SharePoint"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/sandrojorge/"
+        }
+    },
+    {
+        "id": "912c9112-1361-497a-b02d-00050d5b9afd",
+        "name": "Thamirys Gameiro",
+        "title": "Dev .Net Sênior - BTG Pactual | 7x Microsoft MVP | Instrutora .Net - FIAP",
+        "company": "BTG Pactual",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Thamirys Gameiro.jpeg",
+        "bio": "Desenvolvedora com foco em C#, APIs, DDD e arquiteturas modernas (Hexagonal, Limpa). Atua com Azure, AWS, OpenAI e RabbitMQ. Estuda microsserviços e sistemas distribuídos. Fundadora da comunidade DevelopersBR.",
+        "expertise": [
+            ".Net"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/thamirys-gameiro",
+            "gitHub": "https://github.com/ThamirysGameiro"
+        }
+    },
+    {
+        "id": "83f6c9fe-c9e4-4cf5-a748-36727380118e",
+        "name": "Vinicius Apolinario",
+        "title": "Principal Cloud Advocate at Microsoft",
+        "company": "Microsoft",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Vinicius Apolinario.jpeg",
+        "bio": "Profissional de TI desde os anos 2000, com foco em Infra/Ops e DevOps. Microsoft Certified Trainer desde 2009 e colaborador ativo na comunidade com blogs, eventos e livros. Hoje atua como Sr. Program Manager na equipe de Windows Containers da Microsoft.",
+        "expertise": [
+            "Docker",
+            "Windows",
+            "Linux",
+            "WSL"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/vrapolinario/",
+            "twitter": "https://x.com/vrapolinario",
+            "gitHub": "https://github.com/vrapolinario"
+        }
+    },
+    {
+        "id": "12502096-89b5-46b8-9d0e-2f364845eb94",
+        "name": "Vitor Alves de Andrade",
+        "title": "Diretor Gerals",
+        "company": "Overflow Solutions",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Vitor Alves de Andrade.jpeg",
+        "bio": "Acredita na evolução contínua pessoal e profissional. Com trajetória que vai de áreas jurídicas à liderança como CEO da Overflow Solutions, acumula experiências em TI, projetos e gestão. Focado em compartilhar conhecimento e promover crescimento em equipe.",
+        "expertise": [],
+        "social": {
+            "linkedin": "http://linkedin.com/in/vitor-alves-de-andrade-72587532"
+        }
+    },
+    {
+        "id": "7110a1b8-489c-47c7-8415-ec387173b853",
+        "name": "William Santos",
+        "title": "Arquiteto de Software | Microsoft MVP | Evangelista de DDD",
+        "company": "Nubank",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/William Santos.jpeg",
+        "bio": "Arquiteto de software com 20+ anos de experiência em sistemas críticos e distribuídos. Atua em automação, integração e economia de custos. Compartilha conhecimento em blog e eventos, com foco em conteúdo técnico em português.",
+        "expertise": [
+            "Arquiteto de Software",
+            ".Net",
+            "DDD"
+        ],
+        "social": {
+            "linkedin": "https://linkedin.com/in/wsantosdev",
+            "twitter": "",
+            "gitHub": ""
+        }
+    },
+    {
+        "id": "fca35eaf-0809-4684-9c41-25fba8f4de80",
+        "name": "Wesley Camargo",
+        "title": "3x Microsoft MVP | Cloud Solutions Architect | Cloud/DevOps Technical Lead",
+        "company": "Tata Consultancy Services",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Wesley Camargo.jpeg",
+        "bio": "Arquiteto de Soluções Cloud especializado em Azure Landing Zones, com experiência em redes, segurança, governança e identidade, seguindo o Cloud Adoption Framework da Microsoft. MVP por 3 anos, com foco em automação, DevOps e projetos globais.",
+        "expertise": [
+            "Azure",
+            "Devops"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/wescamargo",
+            "gitHub": "https://github.com/wesleycamargo"
+        }
+    },
+    {
+        "id": "bb950666-e177-453a-b771-8d8a3d7e07b3",
+        "name": "Angelo Belchior",
+        "title": "10x Microsoft MVP Dev Tech | Staff Software Engineer na PicPay | .NET Enthusiast",
+        "company": "PicPay",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/angelo_belchior.png",
+        "bio": "20 anos de experiência em TI. Já atuou em projetos Desktop, Web, Mobile com Xamarin, Cognitive Services e Bots. Líder das comunidades técnicas Monkey Nights e Developers BR.  É Microsoft MVP em Developer Technologies e atua como Staff Engineer",
+        "expertise": [
+            ".Net",
+            "Azure"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/angelobelchior/",
+            "youtube": "https://www.youtube.com/@angelobelchior"
+        }
+    },
+    {
+        "id": "03befead-7314-4601-8e5b-301bfe4de083",
+        "name": "Renato Groffe",
+        "title": "Microsoft Most Valuable Professional (MVP), Docker Captain, Multi-Plataform Technical Audience Contributor (MTAC), Software Engineer, Technical Writer, Speaker",
+        "company": "Amil",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Renato Groffe.jpeg",
+        "bio": "Profissional com mais de 20 anos em desenvolvimento de software, bacharel em Sistemas de Informação e especialista em Engenharia de Software. Certificações Microsoft, Oracle, Sun, ITIL e Cobit. Autor de 100+ artigos em portais e comunidades técnicas.",
+        "expertise": [
+            "Azure",
+            "Docker",
+            ".Net",
+            "Devops"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/renatogroffe/",
+            "twitter": "https://x.com/RenatoGroff",
+            "gitHub": "https://github.com/renatogroffe",
+            "youtube": "https://www.youtube.com/@CanalDotNET"
+        }
+    },
+    {
+        "id": "c349f7c6-1699-40bf-af2e-e3b9a542ec42",
+        "name": "Jamil Lopes",
+        "title": "Comendador BR | Microsoft Regional Director | Azure Advisor, Windows Insider MVP | Microsoft for Startup Board Mentor | Executive Director MS-EDU Education & INVOKE IoT Technology",
+        "company": "MS-EDU Education & INVOKE IoT Technology",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Jamil Lopes.png",
+        "bio": "Recognized for 19 consecutive years with the Award Microsoft MVP (Most Valuable Professional), Microsoft Regional Director, Microsoft Windows Insider MVP, and Microsoft Azure Advisor.",
+        "expertise": [
+            "AI",
+            "Azure IoT",
+            "Microsoft Windows",
+            "Startups"
+        ],
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/jmaxbr/"
+        }
+    },
 ]
