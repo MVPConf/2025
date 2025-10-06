@@ -322,7 +322,8 @@
         "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Erick Maquine dos Santos.jpeg",
         "social": {
             "linkedin": "https://www.linkedin.com/in/erick-maquine/"
-        }
+        },
+        "enabled": false
     },
     {
         "id": "9b0651b0-14ad-4c89-91f2-9e40d1cd2404",
@@ -471,7 +472,8 @@
         ],
         "social": {
             "linkedin": "https://www.linkedin.com/in/fcotrim/"
-        }
+        },
+        "enabled": false
     },
     {
         "id": "dba46de4-9bf2-4652-a2c3-e7707dbd5667",
@@ -966,7 +968,8 @@
         ],
         "social": {
             "linkedin": "https://www.linkedin.com/in/rosanicoutinho/"
-        }
+        },
+        "enabled": false
     },
     {
         "id": "f1b19fc5-71d6-4e93-807a-baa73de036ab",
@@ -1016,7 +1019,8 @@
             "linkedin": "https://www.linkedin.com/in/vrapolinario/",
             "twitter": "https://x.com/vrapolinario",
             "gitHub": "https://github.com/vrapolinario"
-        }
+        },
+        "enabled": false
     },
     {
         "id": "12502096-89b5-46b8-9d0e-2f364845eb94",
