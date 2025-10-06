@@ -1,5 +1,63 @@
 [
-  { "id": 1, "name": "Associação Prato Cheio"       , "url": "https://pratocheio.org.br/"  , "current": true },
-  { "id": 2, "name": "Casa do Zezinho" , "url": "https://casadozezinho.org.br/" , "current": true },
-  { "id": 3, "name": "Associação Fênix", "url": "https://www.associacaofenix.org.br" , "current": true }
+  {
+    "id": 1,
+    "name": "Associação Prato Cheio",
+    "url": "https://pratocheio.org.br/",
+    "current": true
+  },
+  {
+    "id": 2,
+    "name": "Casa do Zezinho",
+    "url": "https://casadozezinho.org.br/",
+    "current": true
+  },
+  {
+    "id": 3,
+    "name": "Associação Fênix",
+    "url": "https://www.associacaofenix.org.br",
+    "current": true
+  },
+  {
+    "id": 4,
+    "name": "Lar da Criança Ninho de Paz",
+    "url": "#",
+    "current": false
+  },
+  {
+    "id": 5,
+    "name": "Same LAR de Idosos",
+    "url": "#",
+    "current": false
+  },
+  {
+    "id": 6,
+    "name": "Rede Feminina de Combate ao Câncer de Três Lagoas",
+    "url": "#",
+    "current": false
+  },
+  {
+    "id": 7,
+    "name": "Retiro dos Idosos Universina Carrera Machado",
+    "url": "#",
+    "current": false
+  },
+  {
+    "id": 8,
+    "name": "Associação Comunitária Fênix",
+    "url": "#",
+    "current": false
+  },
+  {
+    "id": 9,
+    "name": "Abrigo bom pastor",
+    "url": "#",
+    "current": false
+  },
+  {
+    "id": 10,
+    "name": "Associação de Pais e Amigos dos Excepcionais – APAE de Farroupilha",
+    "url": "#",
+    "current": false
+  }
 ]
+
