@@ -88,7 +88,7 @@
             "gitHub": "https://github.com/brunobritodev"
         },
         "isTrackCoordinator": true,
-        "trackName": "Developer Technologies" 
+        "trackName": "Developer Technologies"
     },
     {
         "id": "638c08d5-aecc-487f-87a6-83b4aea6fa21",
@@ -183,7 +183,7 @@
             "youtube": "https://www.youtube.com/@DanielDonda"
         },
         "isTrackCoordinator": true,
-        "trackName": "Security"       
+        "trackName": "Security"
     },
     {
         "id": "4291ffa0-ac15-40a0-86ca-9557c1da2767",
@@ -273,7 +273,7 @@
             "gitHub": "https://github.com/digomatos"
         },
         "isTrackCoordinator": true,
-        "trackName": "Microsoft 365" 
+        "trackName": "Microsoft 365"
     },
     {
         "id": "f4e840ea-15f2-4532-ad30-7ef3f19b3ec6",
@@ -506,7 +506,7 @@
             "youtube": "https://www.youtube.com/@PulodoGatti"
         },
         "isTrackCoordinator": true,
-        "trackName": "Microsoft 365" 
+        "trackName": "Microsoft 365"
     },
     {
         "id": "46b6a055-1280-4624-8d1d-179688b28d0f",
@@ -589,7 +589,7 @@
             "linkedin": "https://www.linkedin.com/in/hugoventurini-excel-and-powerbi/"
         },
         "isTrackCoordinator": true,
-        "trackName": "Data Platform" 
+        "trackName": "Data Platform"
     },
     {
         "id": "5c29ecb9-299f-49c9-86f5-bc20925c36b0",
@@ -886,7 +886,7 @@
             "linkedin": "https://www.linkedin.com/in/rebecca-paola-cesar-frade/"
         },
         "isTrackCoordinator": true,
-        "trackName": "Security"       
+        "trackName": "Security"
     },
     {
         "id": "2d4f5e64-9978-4ca5-8022-06818aa472aa",
@@ -938,7 +938,7 @@
             "gitHub": "https://github.com/reniciuspagotto"
         },
         "isTrackCoordinator": true,
-        "trackName": "Developer Technologies" 
+        "trackName": "Developer Technologies"
     },
     {
         "id": "fa1b2134-4191-469b-9488-d3fadae304c4",
@@ -1132,7 +1132,7 @@
             "youtube": "https://www.youtube.com/@CanalDotNET"
         },
         "isTrackCoordinator": true,
-        "trackName": "Microsoft Azure"  
+        "trackName": "Microsoft Azure"
     },
     {
         "id": "c349f7c6-1699-40bf-af2e-e3b9a542ec42",
@@ -1151,14 +1151,14 @@
             "linkedin": "https://www.linkedin.com/in/jmaxbr/"
         },
         "isTrackCoordinator": true,
-        "trackName": "Gestao de Negocios e Empreendedorismo" 
+        "trackName": "Gestao de Negocios e Empreendedorismo"
     },
-        {
+    {
         "id": "f8a3b2c1-4d5e-6f7a-8b9c-0d1e2f3a4b5c",
         "name": "Alessandro Silva Ferreira",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Alessandro Silva Ferreira.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1176,7 +1176,7 @@
         "name": "Alessandro Trovato",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Alessandro Trovato.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1194,7 +1194,7 @@
         "name": "Alexandra Regina Cavalleiros",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Alexandra Regina Cavalleiros.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1212,7 +1212,7 @@
         "name": "Alexandre Ballestero de Paula",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Alexandre Ballestero de Paula.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1230,7 +1230,7 @@
         "name": "Allan Prado de Oliveira Moura",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Allan Prado de Oliveira Moura.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1248,7 +1248,7 @@
         "name": "Amanda Silva",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Amanda Silva.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1266,7 +1266,7 @@
         "name": "Ana Andrade Gonsalves",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Ana Andrade Gonsalves.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1284,7 +1284,7 @@
         "name": "Ana Carolina Manzan",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Ana Carolina Manzan.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1302,7 +1302,7 @@
         "name": "Ana Clara de Andrade Mioto",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Ana Clara de Andrade Mioto.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1320,7 +1320,7 @@
         "name": "Anderson Fernandes Pereira dos Santos",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Anderson Fernandes Pereira dos Santos.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1338,7 +1338,7 @@
         "name": "André Melancia",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/André Melancia.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1356,7 +1356,7 @@
         "name": "Andre Racz",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Andre Racz.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1374,7 +1374,7 @@
         "name": "Andrea De La Rosa",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Andrea De La Rosa.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1392,7 +1392,7 @@
         "name": "Angelo Gustavo Dias Matias",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Angelo Gustavo Dias Matias.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1410,7 +1410,7 @@
         "name": "Arthur Luz",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Arthur Luz.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1428,7 +1428,7 @@
         "name": "Beatriz Oliveira",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Beatriz Oliveira.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1446,7 +1446,7 @@
         "name": "Bergson Lopes Rego",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Bergson Lopes Rego.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1464,7 +1464,7 @@
         "name": "Bruno Galvincio de Souza",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Bruno Galvincio de Souza.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1482,7 +1482,7 @@
         "name": "Bruno Lopes",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Bruno Lopes.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1500,7 +1500,7 @@
         "name": "Carlos dos Santos",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Carlos dos Santos.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1518,7 +1518,7 @@
         "name": "Carlos Rischioto",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Carlos Rischioto.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1536,7 +1536,7 @@
         "name": "Chesley Rocha Silva",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Chesley Rocha Silva.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1554,7 +1554,7 @@
         "name": "Claudenir Andrade",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Claudenir Andrade.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1572,7 +1572,7 @@
         "name": "Claudio André Cavalheiro Díaz",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Claudio André Cavalheiro Díaz.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1590,7 +1590,7 @@
         "name": "Claudio Damasceno",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Claudio Damasceno.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1608,7 +1608,7 @@
         "name": "Cynthia Michels",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Cynthia Michels.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1626,7 +1626,7 @@
         "name": "Danilo Ciciliotti",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Danilo Ciciliotti.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1644,7 +1644,7 @@
         "name": "Darlan Machado",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Darlan Machado.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1662,7 +1662,7 @@
         "name": "Denis Vinícius de Mello",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Denis Vinícius de Mello.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1680,7 +1680,7 @@
         "name": "Eder Cassettari",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Eder Cassettari.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1698,7 +1698,7 @@
         "name": "Eduardo Popovici",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Eduardo Popovici.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1716,7 +1716,7 @@
         "name": "Elemar Junior",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Elemar Junior.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1734,7 +1734,7 @@
         "name": "Eliézer Zarpelão",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Eliézer Zarpelão.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1752,7 +1752,7 @@
         "name": "Emilio da Costa Mansur",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Emilio da Costa Mansur.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1770,7 +1770,7 @@
         "name": "Engel Nynna Oliveira Trindade",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Engel Nynna Oliveira Trindade.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1788,7 +1788,7 @@
         "name": "Erick Macedo",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Erick Macedo.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1806,7 +1806,7 @@
         "name": "Erik Maran",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Erik Maran.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1824,7 +1824,7 @@
         "name": "Fábio Silva",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Fábio Silva.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1842,7 +1842,7 @@
         "name": "Felipe Mikio Ramos Nakamaru",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Felipe Mikio Ramos Nakamaru.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1860,7 +1860,7 @@
         "name": "Fernando Henrique da Silva",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Fernando Henrique da Silva.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1878,7 +1878,7 @@
         "name": "Flavio Ferreira",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Flavio Ferreira.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1896,7 +1896,7 @@
         "name": "Francisco Garré",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Francisco Garré.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1914,7 +1914,7 @@
         "name": "Gerson Viergutz",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Gerson Viergutz.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1932,7 +1932,7 @@
         "name": "Gustavo Antonio Leo",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Gustavo Antonio Leo.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1950,7 +1950,7 @@
         "name": "Gustavo Arruda",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Gustavo Arruda.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1968,7 +1968,7 @@
         "name": "Gustavo Marques Redol Baptista",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Gustavo Marques Redol Baptista.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -1986,7 +1986,7 @@
         "name": "Henrique Oliveira Melo",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Henrique Oliveira Melo.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2004,7 +2004,7 @@
         "name": "Henrique Souza",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Henrique Souza.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2022,7 +2022,7 @@
         "name": "Henry Jun Suzuki",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Henry Jun Suzuki.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2040,7 +2040,7 @@
         "name": "Hércules Pereira da Silva",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Hércules Pereira da Silva.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2058,7 +2058,7 @@
         "name": "Jennifer Oliveira",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Jennifer Oliveira.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2076,7 +2076,7 @@
         "name": "Jéssica Nathany",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Jéssica Nathany.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2094,7 +2094,7 @@
         "name": "Jimmy Zinizopoulos Passeti",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Jimmy Zinizopoulos Passeti.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2112,7 +2112,7 @@
         "name": "João Benito Savastano",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/João Benito Savastano.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2130,7 +2130,7 @@
         "name": "Joaquim José da Fonseca Viana",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Joaquim José da Fonseca Viana.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2148,7 +2148,7 @@
         "name": "Johnson Cruz",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Johnson Cruz.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2166,7 +2166,7 @@
         "name": "Jones de Souza Santos",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Jones de Souza Santos.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2184,7 +2184,7 @@
         "name": "Josue Vidal",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Josue Vidal.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2202,7 +2202,7 @@
         "name": "Júlio César Gonçalves Vasconcelos",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Júlio César Gonçalves Vasconcelos.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2220,7 +2220,7 @@
         "name": "Kamila Santos",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Kamila Santos.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2238,7 +2238,7 @@
         "name": "Karen Abecia",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Karen Abecia.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2256,7 +2256,7 @@
         "name": "Klinsmann Langhanz",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Klinsmann Langhanz.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2274,7 +2274,7 @@
         "name": "Landry Duailibe Salles Filho",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Landry Duailibe Salles Filho.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2292,7 +2292,7 @@
         "name": "Larissa Santos de Azevedo",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Larissa Santos de Azevedo.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2310,7 +2310,7 @@
         "name": "Laura de Alencar",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Laura de Alencar.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2328,7 +2328,7 @@
         "name": "Leandro Sampaio Procopio",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Leandro Sampaio Procopio.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2346,7 +2346,7 @@
         "name": "Leonardo Bonetto",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Leonardo Bonetto.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2364,7 +2364,7 @@
         "name": "Leonardo Camargo Rossato",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Leonardo Camargo Rossato.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2382,7 +2382,7 @@
         "name": "Leonardo Stellfeld",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Leonardo Stellfeld.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2400,7 +2400,7 @@
         "name": "Lucas da Silva Amorim Sá",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Lucas da Silva Amorim Sá.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2418,7 +2418,7 @@
         "name": "Luckas de Lima Faria Fernandes",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Luckas de Lima Faria Fernandes.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2436,7 +2436,7 @@
         "name": "Luis Claudio Ribeiro Junior",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Luis Claudio Ribeiro Junior.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2454,7 +2454,7 @@
         "name": "Luís Gustavo Nascimento Serra",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Luís Gustavo Nascimento Serra.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2472,7 +2472,7 @@
         "name": "Luiz Augusto",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Luiz Augusto.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2490,7 +2490,7 @@
         "name": "Luiz Guilherme Couto Motta",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Luiz Guilherme Couto Motta.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2508,7 +2508,7 @@
         "name": "Marcel Magalhães",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Marcel Magalhães.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2526,7 +2526,7 @@
         "name": "Marcelo Pacifico",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Marcelo Pacifico.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2544,7 +2544,7 @@
         "name": "Marcelo Paiva",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Marcelo Paiva.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2562,7 +2562,7 @@
         "name": "Marcelo Strippoli",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Marcelo Strippoli.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2580,7 +2580,7 @@
         "name": "Marco Aurélio Candido da Silva",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Marco Aurélio Candido da Silva.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2598,7 +2598,7 @@
         "name": "Milena Sousa Pinheiro",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Milena Sousa Pinheiro.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2616,7 +2616,7 @@
         "name": "Morganna Giovanelli",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Morganna Giovanelli.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2634,7 +2634,7 @@
         "name": "Murilo Beltrame",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Murilo Beltrame.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2652,7 +2652,7 @@
         "name": "Nagib Sabbag Filho",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Nagib Sabbag Filho.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2670,7 +2670,7 @@
         "name": "Nelson Edson Anchite Junior",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Nelson Edson Anchite Junior.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2688,7 +2688,7 @@
         "name": "Paulo André Trindade da Cunha",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Paulo André Trindade da Cunha.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2706,7 +2706,7 @@
         "name": "Pedro Paulo Ferreira",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Pedro Paulo Ferreira.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2724,7 +2724,7 @@
         "name": "Rafael Alves Amaral",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Rafael Alves Amaral.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2742,7 +2742,7 @@
         "name": "Rafael Cardoso",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Rafael Cardoso.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2760,7 +2760,7 @@
         "name": "Ramon Durães",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Ramon Durães.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2778,7 +2778,7 @@
         "name": "Raphael Andrade",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Raphael Andrade.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2796,7 +2796,7 @@
         "name": "Raquel Lemos",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Raquel Lemos.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2814,7 +2814,7 @@
         "name": "Rodrigo Tavares",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Rodrigo Tavares.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2832,7 +2832,7 @@
         "name": "Rogério Molina",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Rogério Molina.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2850,7 +2850,7 @@
         "name": "Rogerio Rodrigues",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Rogerio Rodrigues.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2868,7 +2868,7 @@
         "name": "Samyr Moisés",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Samyr Moisés.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2886,7 +2886,7 @@
         "name": "Sarah Akemi D'arc Saitu Campos",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Sarah Akemi D'arc Saitu Campos.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2904,7 +2904,7 @@
         "name": "Shirley Rios",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Shirley Rios.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2922,7 +2922,7 @@
         "name": "Sidney Oliveira Cirqueira",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Sidney Oliveira Cirqueira.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2940,7 +2940,7 @@
         "name": "Rafael Gobbi",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Rafael Gobbi.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2958,7 +2958,7 @@
         "name": "Talles Destani de Souza Valiatti",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Talles Destani de Souza Valiatti.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2976,7 +2976,7 @@
         "name": "Tania Stormovski",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Tania Stormovski.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -2994,7 +2994,7 @@
         "name": "Thamiris Adriano",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Thamiris Adriano.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -3012,7 +3012,7 @@
         "name": "Thiago Advincula de Sousa",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Thiago Advincula de Sousa.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -3030,7 +3030,7 @@
         "name": "Thiago Bertuzzi",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Thiago Bertuzzi.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -3048,7 +3048,7 @@
         "name": "Thiago Muniz dos Santos",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Thiago Muniz dos Santos.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -3066,7 +3066,7 @@
         "name": "Thomas Marcelo e Silva",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Thomas Marcelo e Silva.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -3084,7 +3084,7 @@
         "name": "Tiago Aguiar Moreira",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Tiago Aguiar Moreira.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -3102,7 +3102,7 @@
         "name": "Tiago Tartari",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Tiago Tartari.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -3120,7 +3120,7 @@
         "name": "Toshi Ossada",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Toshi Ossada.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -3138,7 +3138,7 @@
         "name": "Vinicius Deschamps",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Vinicius Deschamps.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -3156,7 +3156,7 @@
         "name": "Vinicius Mozart",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Vinicius Mozart.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -3174,7 +3174,7 @@
         "name": "Vinicius Santos Ventura",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Vinicius Santos Ventura.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -3192,7 +3192,7 @@
         "name": "Viviane Martins Ferreira",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Viviane Martins Ferreira.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -3210,7 +3210,7 @@
         "name": "Wanderlei Grizolli Junior",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Wanderlei Grizolli Junior.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -3228,7 +3228,7 @@
         "name": "Welington Oliveira da Silva",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Welington Oliveira da Silva.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -3246,7 +3246,7 @@
         "name": "Weslley Araújo",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Weslley Araújo.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -3264,7 +3264,7 @@
         "name": "Wilson Fonseca",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Wilson Fonseca.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -3282,7 +3282,7 @@
         "name": "Yago Angelini Candido",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Yago Angelini Candido.jpeg",
         "bio": "",
         "expertise": [
             "",
@@ -3300,7 +3300,7 @@
         "name": "Tania Stormovski",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Tania Stormovski.jpeg",
         "bio": "",
         "expertise": [],
         "social": {
@@ -3315,7 +3315,7 @@
         "name": "Thamiris Adriano",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Thamiris Adriano.jpeg",
         "bio": "",
         "expertise": [],
         "social": {
@@ -3330,7 +3330,7 @@
         "name": "Thiago Advincula de Sousa",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Thiago Advincula de Sousa.jpeg",
         "bio": "",
         "expertise": [],
         "social": {
@@ -3345,7 +3345,7 @@
         "name": "Thiago Bertuzzi",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Thiago Bertuzzi.jpeg",
         "bio": "",
         "expertise": [],
         "social": {
@@ -3360,7 +3360,7 @@
         "name": "Thiago Muniz dos Santos",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Thiago Muniz dos Santos.jpeg",
         "bio": "",
         "expertise": [],
         "social": {
@@ -3375,7 +3375,7 @@
         "name": "Thomas Marcelo e Silva",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Thomas Marcelo e Silva.jpeg",
         "bio": "",
         "expertise": [],
         "social": {
@@ -3390,7 +3390,7 @@
         "name": "Tiago Aguiar Moreira",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Tiago Aguiar Moreira.jpeg",
         "bio": "",
         "expertise": [],
         "social": {
@@ -3405,7 +3405,7 @@
         "name": "Tiago Tartari",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Tiago Tartari.jpeg",
         "bio": "",
         "expertise": [],
         "social": {
@@ -3420,7 +3420,7 @@
         "name": "Toshi Ossada",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Toshi Ossada.jpeg",
         "bio": "",
         "expertise": [],
         "social": {
@@ -3435,7 +3435,7 @@
         "name": "Vinicius Deschamps",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Vinicius Deschamps.jpeg",
         "bio": "",
         "expertise": [],
         "social": {
@@ -3450,7 +3450,7 @@
         "name": "Vinicius Mozart",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Vinicius Mozart.jpeg",
         "bio": "",
         "expertise": [],
         "social": {
@@ -3465,7 +3465,7 @@
         "name": "Vinicius Santos Ventura",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Vinicius Santos Ventura.jpeg",
         "bio": "",
         "expertise": [],
         "social": {
@@ -3480,7 +3480,7 @@
         "name": "Viviane Martins Ferreira",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Viviane Martins Ferreira.jpeg",
         "bio": "",
         "expertise": [],
         "social": {
@@ -3495,7 +3495,7 @@
         "name": "Wanderlei Grizolli Junior",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Wanderlei Grizolli Junior.jpeg",
         "bio": "",
         "expertise": [],
         "social": {
@@ -3510,7 +3510,7 @@
         "name": "Welington Oliveira da Silva",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Welington Oliveira da Silva.jpeg",
         "bio": "",
         "expertise": [],
         "social": {
@@ -3525,7 +3525,7 @@
         "name": "Weslley Araújo",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Weslley Araújo.jpeg",
         "bio": "",
         "expertise": [],
         "social": {
@@ -3540,7 +3540,7 @@
         "name": "Wilson Fonseca",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Wilson Fonseca.jpeg",
         "bio": "",
         "expertise": [],
         "social": {
@@ -3555,7 +3555,7 @@
         "name": "Yago Angelini Candido",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Yago Angelini Candido.jpeg",
         "bio": "",
         "expertise": [],
         "social": {
@@ -3570,7 +3570,7 @@
         "name": "Glauber Cini",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Glauber Cini.jpeg",
         "bio": "",
         "expertise": [],
         "social": {
@@ -3585,7 +3585,7 @@
         "name": "Milton Camara Gomes",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Milton Camara Gomes.jpeg",
         "bio": "",
         "expertise": [],
         "social": {
@@ -3600,7 +3600,7 @@
         "name": "Murilo Beltrame",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Murilo Beltrame.jpeg",
         "bio": "",
         "expertise": [],
         "social": {
@@ -3615,7 +3615,7 @@
         "name": "Sulamita Dantas",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Sulamita Dantas.jpeg",
         "bio": "",
         "expertise": [],
         "social": {
@@ -3630,7 +3630,7 @@
         "name": "Rafael Gobbi",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Rafael Gobbi.jpeg",
         "bio": "",
         "expertise": [],
         "social": {
@@ -3645,7 +3645,7 @@
         "name": "Talles Destani de Souza Valiatti",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Talles Destani de Souza Valiatti.jpeg",
         "bio": "",
         "expertise": [],
         "social": {
@@ -3660,7 +3660,7 @@
         "name": "Thais Mafra",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Thais Mafra.jpeg",
         "bio": "",
         "expertise": [],
         "social": {
@@ -3675,7 +3675,7 @@
         "name": "Rosangela Maraschin",
         "title": "",
         "company": "",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Rosangela Maraschin.jpeg",
         "bio": "",
         "expertise": [],
         "social": {
