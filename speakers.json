@@ -208,7 +208,7 @@
         {
             "id": "679ad4bf-2c76-4701-9cec-f8778674e272",
             "name": "Daniel Petrin",
-            "title": "Speaker",
+            "title": "Microsoft MVP | Fundador da Comunidade Mundo Power | Especialista em Power Apps, Power Automate e SharePoint | Capacito profissionais e estudantes para impulsionar a transformação digital no ambiente corporativo.",
             "company": "Mundo Power",
             "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Daniel Petrin.jpeg",
             "bio": "Iniciei na Engenharia Civil, atuei 15 anos em construtora e me tornei especialista em Power Apps e Power Automate. Fundador da Mundo Power, capacitei +900 alunos e criei +50 apps e 200 automações focadas em transformação digital corporativa.",
@@ -1318,7 +1318,7 @@
         {
             "id": "c9d0e1f2-a3b4-5678-9c0d-1e2f3a4b5c61",
             "name": "Anderson Fernandes Pereira dos Santos",
-            "title": "",
+            "title": "Quantum Research Scientist",
             "company": "",
             "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Anderson Fernandes Pereira dos Santos.jpeg",
             "bio": "",
@@ -1498,7 +1498,7 @@
         {
             "id": "a9b0c1d2-e3f4-5678-9a0b-1c2d3e4f5a61",
             "name": "Carlos dos Santos",
-            "title": "",
+            "title": "Dribion Software | Book Author | Cloud Architect | Software Architect | Speaker",
             "company": "",
             "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Carlos dos Santos.jpeg",
             "bio": "",
@@ -1624,7 +1624,7 @@
         {
             "id": "b6c7d8e9-f0a1-2345-6b7c-8d9e0f1a2b31",
             "name": "Danilo Ciciliotti",
-            "title": "",
+            "title": "Partner @Disruptivos | 3x Microsoft MVP | Power Apps Trainer | Technology Career & Business Mentor | Power Platform Developer | Low-Code Advocate | Machine Learning & Industrial Engineer",
             "company": "",
             "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Danilo Ciciliotti.jpeg",
             "bio": "",
@@ -2110,7 +2110,7 @@
         {
             "id": "e3f4a5b6-c7d8-9012-3e4f-5a6b7c8d9e0f",
             "name": "João Benito Savastano",
-            "title": "",
+            "title": "Diretor at IT28 Tecnologia e Produtividade | 21x Microsoft MVP Excel | MTAC",
             "company": "",
             "image": "https://github.com/MVPConf/2025/blob/main/speakers/Joa%CC%83o%20Benito%20Savastano.jpeg?raw=true",
             "bio": "",
@@ -2182,7 +2182,7 @@
         {
             "id": "3cff9438-7ae0-427c-983f-213e59d711d8",
             "name": "Josue Vidal",
-            "title": "",
+            "title": "15x Microsoft MVP | Senior Cloud Solution Architect | Cloud Technical Trainer | International Speaker | Tech Community Lead | MBA",
             "company": "",
             "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Josue Vidal.jpeg",
             "bio": "",
@@ -2360,24 +2360,6 @@
             "trackName": ""
         },
         {
-            "id": "a7b8c9d0-e1f2-3456-7a8b-9c0d1e2f3a4b",
-            "name": "Leonardo Camargo Rossato",
-            "title": "",
-            "company": "",
-            "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Leonardo Camargo Rossato.jpeg",
-            "bio": "",
-            "expertise": [
-                "",
-                ""
-            ],
-            "social": {
-                "linkedin": "https://www.linkedin.com/in/leonardocamargorossato"
-            },
-            "enabled": true,
-            "isTrackCoordinator": true,
-            "trackName": "Quantum Computing"
-        },
-        {
             "id": "b8c9d0e1-f2a3-4567-8b9c-0d1e2f3a4b52",
             "name": "Leonardo Stellfeld",
             "title": "",
@@ -2452,7 +2434,7 @@
         {
             "id": "f2a3b4c5-d6e7-8901-2f3a-4b5c6d7e8f9a",
             "name": "Luís Gustavo Nascimento Serra",
-            "title": "",
+            "title": "CEO Excelência Consultoria e Educação | Microsoft MVP | Business Intelligence Specialist | MCT | PUG Brasil Leader | Power Bi Expert | Writer | Speaker",
             "company": "",
             "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Lui%CC%81s%20Gustavo%20Nascimento%20Serra.jpeg",
             "bio": "",
@@ -2524,7 +2506,7 @@
         {
             "id": "d6e7f8a9-b0c1-2345-6d7e-8f9a0b1c2d3e",
             "name": "Marcelo Pacifico",
-            "title": "",
+            "title": "1x Microsoft MVP & 2x MCT Community Lead | M365 | Copilot | AI | Head of Modern Work at OneFactory & Instructor at NextGen Skills",
             "company": "",
             "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Marcelo Pacifico.jpeg",
             "bio": "",
@@ -2956,7 +2938,7 @@
         {
             "id": "d0e1f2a3-b4c5-6789-0d1e-2f3a4b5c6d70",
             "name": "Talles Destani de Souza Valiatti",
-            "title": "",
+            "title": "Microsoft MVP | .NET | Azure",
             "company": "",
             "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Talles Destani de Souza Valiatti.jpeg",
             "bio": "",
@@ -2974,7 +2956,7 @@
         {
             "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
             "name": "Tania Stormovski",
-            "title": "",
+            "title": "Principal Software Architect @Ambev Tech | Microsoft MVP",
             "company": "",
             "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Tania Stormovski.jpeg",
             "bio": "",
@@ -3079,7 +3061,7 @@
         {
             "id": "b6c2d3e4-f5a6-4b7c-8d9e-0f1a2b3c4d5e",
             "name": "Milton Camara Gomes",
-            "title": "",
+            "title": "Microsoft MVP (Azure & DevOps), MCP & MCSA, Arquiteto .NET, Community Leader & Speaker, Cloud & DevOps Consultant, Instrutor (DevOps e Developer) do Azure na Prática",
             "company": "",
             "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Milton Camara Gomes.jpeg",
             "bio": "",
@@ -3094,8 +3076,8 @@
         {
             "id": "d8e4f5a6-b7c8-4d9e-0f1a-2b3c4d5e6f7a",
             "name": "Sulamita Dantas",
-            "title": "",
-            "company": "",
+            "title": "Database Engineer",
+            "company": "PicPay",
             "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Sulamita Dantas.jpeg",
             "bio": "",
             "expertise": [],
@@ -3109,7 +3091,7 @@
         {
             "id": "a1b7c8d9-e0f1-4a2b-3c4d-5e6f7a8b9c0d",
             "name": "Thais Mafra",
-            "title": "",
+            "title": "Microsoft MVP for Office Apps & Services | MCT | MCSE | MCSA | Change Management",
             "company": "",
             "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Thais Mafra.jpeg",
             "bio": "",
@@ -3124,7 +3106,7 @@
         {
             "id": "b2c8d9e0-f1a2-4b3c-4d5e-6f7a8b9c0d1e",
             "name": "Rosangela Maraschin",
-            "title": "",
+            "title": "PhD in Economics / Creativity, Sustainability and Innovation / ICTQ FÓTON",
             "company": "",
             "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Rosangela Maraschin.jpeg",
             "bio": "",
