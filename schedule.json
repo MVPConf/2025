@@ -4,7 +4,7 @@
     "date": "Sexta-feira",
     "tracks": [
       {
-        "name": "Business Application ",
+        "name": "Business Application",
         "coordinators": ["Daniel Petrin, Danilo Ciciliotti, Marcelo Pacifico "],
         "talks": [
         ]
@@ -35,7 +35,7 @@
       },
       {
         "name": "Inteligencia Artificial",
-        "coordinators": ["Felipe Chikuji, Jorge Maia, Sulamita Dantas"],
+        "coordinators": ["Felipe Kenji Chikuji, Jorge Maia, Sulamita Dantas"],
         "talks": [
         ]
       },
@@ -53,7 +53,7 @@
       },
       {
         "name": "Quantum Computing",
-        "coordinators": ["Anderson Santos, Leonardo Rossato, Rosangela Maraschin"],
+        "coordinators": ["Anderson Fernandes Pereira dos Santos, Leonardo Rossato, Rosangela Maraschin"],
         "talks": [
         ]
       },
@@ -70,7 +70,7 @@
     "date": "Sábado",
     "tracks": [
       {
-        "name": "Business Application ",
+        "name": "Business Application",
         "coordinators": ["Daniel Petrin, Danilo Ciciliotti, Marcelo Pacifico "],
         "talks": [
         ]
@@ -89,13 +89,13 @@
       },
       {
         "name": "Developer Technologies",
-        "coordinators": ["Bruno Brito, Carlos dos Santos,  Renicius Pagottto, Talles Valiatti, Tania Stormovsky, Vinicius Moura"],
+        "coordinators": ["Bruno Brito, Carlos dos Santos,  Renicius Pagottto, Talles Destani de Souza Valiatti, Tania Stormovski, Vinicius Moura"],
         "talks": [
         ]
       },
       {
         "name": "Gestao de Negocios e Empreendedorismo",
-        "coordinators": ["Jamil Lopes, Marco Lagoa"],
+        "coordinators": ["Jamil Lopes, Marco Aurélio Gardini Lagoa"],
         "talks": [
         ]
       },
@@ -107,13 +107,13 @@
       },
       {
         "name": "Microsoft 365",
-        "coordinators": ["Fábio Gatti, João Benito, Thais Mafra"],
+        "coordinators": ["Fábio de Carvalho Gatti, João Benito, Thais Mafra"],
         "talks": [
         ]
       },
       {
         "name": "Microsoft Azure",
-        "coordinators": ["Diego Matos, Renato Groffe"],
+        "coordinators": ["Diego Moreira Matos, Renato Groffe"],
         "talks": [
         ]
       },
@@ -125,7 +125,7 @@
       },
       {
         "name": "Security",
-        "coordinators": ["Daniel Donda, Rebecca Frade"],
+        "coordinators": ["Daniel Donda, Rebecca Paola Cesar Frade"],
         "talks": [
         ]
       }
