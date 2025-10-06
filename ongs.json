@@ -1,5 +1,5 @@
 [
-  { "id": 1, "name": "ONG Exemplo 2025"       , "url": "https://exemplo.com"  , "current": true },
-  { "id": 2, "name": "Instituto Exemplo 2024" , "url": "https://exemplo2.com" , "current": false },
-  { "id": 3, "name": "Associação Exemplo 2023", "url": "https://exemplo3.com" , "current": false },
+  { "id": 1, "name": "Associação Prato Cheio"       , "url": "https://pratocheio.org.br/"  , "current": true },
+  { "id": 2, "name": "Casa do Zezinho" , "url": "https://casadozezinho.org.br/" , "current": true },
+  { "id": 3, "name": "Associação Fênix", "url": "https://www.associacaofenix.org.br" , "current": true }
 ]
