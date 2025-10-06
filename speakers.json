@@ -86,7 +86,9 @@
             "linkedin": "https://www.linkedin.com/in/brunobritodev/",
             "twitter": "https://x.com/brunobritodev",
             "gitHub": "https://github.com/brunobritodev"
-        }
+        },
+        "isTrackCoordinator": true,
+        "trackName": "Developer Technologies" 
     },
     {
         "id": "638c08d5-aecc-487f-87a6-83b4aea6fa21",
@@ -179,7 +181,9 @@
             "twitter": "https://x.com/danieldonda",
             "gitHub": "https://github.com/danieldonda",
             "youtube": "https://www.youtube.com/@DanielDonda"
-        }
+        },
+        "isTrackCoordinator": true,
+        "trackName": "Security"       
     },
     {
         "id": "4291ffa0-ac15-40a0-86ca-9557c1da2767",
@@ -216,7 +220,9 @@
         ],
         "social": {
             "linkedin": "https://www.linkedin.com/in/danielpetrinbertini/"
-        }
+        },
+        "isTrackCoordinator": true,
+        "trackName": "Business Application"
     },
     {
         "id": "fd4ba439-0961-485f-9554-ea25fe6027dc",
@@ -247,7 +253,9 @@
         ],
         "social": {
             "linkedin": "https://www.linkedin.com/in/danilonogueira/"
-        }
+        },
+        "isTrackCoordinator": true,
+        "trackName": "Business Application"
     },
     {
         "id": "2216af32-e6c1-4398-b8bd-70fe9ad36d2a",
@@ -263,7 +271,9 @@
         "social": {
             "linkedin": "https://www.linkedin.com/in/digomatos/",
             "gitHub": "https://github.com/digomatos"
-        }
+        },
+        "isTrackCoordinator": true,
+        "trackName": "Microsoft 365" 
     },
     {
         "id": "f4e840ea-15f2-4532-ad30-7ef3f19b3ec6",
@@ -294,7 +304,9 @@
         ],
         "social": {
             "linkedin": "https://www.linkedin.com/in/elton-bordim/"
-        }
+        },
+        "isTrackCoordinator": true,
+        "trackName": "Cloud & Datacenter"
     },
     {
         "id": "3e6fe57d-d572-4ae5-a9cd-1f3778af527a",
@@ -421,7 +433,9 @@
         ],
         "social": {
             "linkedin": "https://www.linkedin.com/in/felipe-kenji-chikuji/"
-        }
+        },
+        "isTrackCoordinator": true,
+        "trackName": "Inteligencia Artificial"
     },
     {
         "id": "8e1f6030-586a-4ad5-afe3-833498516db6",
@@ -490,7 +504,9 @@
         "social": {
             "linkedin": "https://www.linkedin.com/in/fabiocgatti/",
             "youtube": "https://www.youtube.com/@PulodoGatti"
-        }
+        },
+        "isTrackCoordinator": true,
+        "trackName": "Microsoft 365" 
     },
     {
         "id": "46b6a055-1280-4624-8d1d-179688b28d0f",
@@ -571,7 +587,9 @@
         ],
         "social": {
             "linkedin": "https://www.linkedin.com/in/hugoventurini-excel-and-powerbi/"
-        }
+        },
+        "isTrackCoordinator": true,
+        "trackName": "Data Platform" 
     },
     {
         "id": "5c29ecb9-299f-49c9-86f5-bc20925c36b0",
@@ -640,7 +658,9 @@
             "linkedin": "https://www.linkedin.com/in/jorgeasmaia",
             "twitter": "https://x.com/jorgemaia",
             "gitHub": "https://github.com/jorgemaia"
-        }
+        },
+        "isTrackCoordinator": true,
+        "trackName": "Inteligencia Artificial"
     },
     {
         "id": "6aefee0d-4940-4e6b-bafb-bdec3a1dec98",
@@ -705,7 +725,9 @@
         "social": {
             "linkedin": "https://www.linkedin.com/in/leonardocamargorossato",
             "gitHub": "https://github.com/leonardocamargorossato"
-        }
+        },
+        "isTrackCoordinator": true,
+        "trackName": "Quantum Computing"
     },
     {
         "id": "c7aa6d6f-4962-4693-a815-c7c332485fdf",
@@ -759,7 +781,9 @@
             "linkedin": "https://www.linkedin.com/in/marcolagoa",
             "twitter": "https://x.com/marcolagoa",
             "gitHub": "https://github.com/marcolagoa"
-        }
+        },
+        "isTrackCoordinator": true,
+        "trackName": "Gestao de Negocios e Empreendedorismo"
     },
     {
         "id": "de166d04-ce08-4292-a0e5-82afc6470c85",
@@ -860,7 +884,9 @@
         ],
         "social": {
             "linkedin": "https://www.linkedin.com/in/rebecca-paola-cesar-frade/"
-        }
+        },
+        "isTrackCoordinator": true,
+        "trackName": "Security"       
     },
     {
         "id": "2d4f5e64-9978-4ca5-8022-06818aa472aa",
@@ -910,7 +936,9 @@
         "social": {
             "linkedin": "https://www.linkedin.com/in/renicius-pagotto",
             "gitHub": "https://github.com/reniciuspagotto"
-        }
+        },
+        "isTrackCoordinator": true,
+        "trackName": "Developer Technologies" 
     },
     {
         "id": "fa1b2134-4191-469b-9488-d3fadae304c4",
@@ -1102,7 +1130,9 @@
             "twitter": "https://x.com/RenatoGroff",
             "gitHub": "https://github.com/renatogroffe",
             "youtube": "https://www.youtube.com/@CanalDotNET"
-        }
+        },
+        "isTrackCoordinator": true,
+        "trackName": "Microsoft Azure"  
     },
     {
         "id": "c349f7c6-1699-40bf-af2e-e3b9a542ec42",
@@ -1119,6 +1149,8 @@
         ],
         "social": {
             "linkedin": "https://www.linkedin.com/in/jmaxbr/"
-        }
+        },
+        "isTrackCoordinator": true,
+        "trackName": "Gestao de Negocios e Empreendedorismo" 
     }
 ]
