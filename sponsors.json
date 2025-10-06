@@ -12,5 +12,19 @@
       "logo": "https://cdn-jjoep.nitrocdn.com/sgmxKhQbZSaxqarKrbitkQgdyjfxLmYw/assets/images/optimized/rev-76163d3/witec.com.br/wp-content/uploads/2021/05/witec-logo-azul.png",
       "tier": "gold",
       "website": "https://witec.com.br/"
+    },
+    {
+      "id": "f85e0a0e-9f65-4b94-a690-4e98b7775c05",
+      "name": "Microsoft",
+      "logo": "https://msftstories.thesourcemediaassets.com/2022/05/Microsoft-logo_rgb_c-gray-768x344.png",
+      "tier": "gold",
+      "website": "https://microsoft.com.br/"
+    },
+    {
+      "id": "f85e0a0e-9f65-4b94-a690-4e98b7775c05",
+      "name": "Grupo Oakmont",
+      "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHJze830jocpA/company-logo_200_200/company-logo_200_200/0/1630595958349?e=1762387200&v=beta&t=YD6sRw27-OIEctK-nJDENLanOhVLREBjtVuiT5RJWvM",
+      "tier": "gold",
+      "website": "https://oakmontgroup.com.br/"
     }
-  ]
+]
