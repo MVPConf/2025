@@ -1330,8 +1330,8 @@
                 "linkedin": "https://www.linkedin.com/in/professoranderson/"
             },
             "enabled": true,
-            "isTrackCoordinator": false,
-            "trackName": ""
+            "isTrackCoordinator": true,
+            "trackName": "Quantum Computing"
         },
         {
             "id": "d0e1f2a3-b4c5-6789-0d1e-2f3a4b5c6d7e",
@@ -1510,8 +1510,8 @@
                 "linkedin": "https://www.linkedin.com/in/carlosdribion/"
             },
             "enabled": true,
-            "isTrackCoordinator": false,
-            "trackName": ""
+            "isTrackCoordinator": true,
+            "trackName": "Developer Technologies"
         },
         {
             "id": "b0c1d2e3-f4a5-6789-0b1c-2d3e4f5a6b7c",
@@ -1636,8 +1636,8 @@
                 "linkedin": "https://www.linkedin.com/in/danilociciliotti/"
             },
             "enabled": true,
-            "isTrackCoordinator": false,
-            "trackName": ""
+            "isTrackCoordinator": true,
+            "trackName": "Business Application"
         },
         {
             "id": "c7d8e9f0-a1b2-3456-7c8d-9e0f1a2b3c4d",
@@ -2122,8 +2122,8 @@
                 "linkedin": "https://www.linkedin.com/in/joaobenito/"
             },
             "enabled": true,
-            "isTrackCoordinator": false,
-            "trackName": ""
+            "isTrackCoordinator": true,
+            "trackName": "Microsoft 365"
         },
         {
             "id": "f4a5b6c7-d8e9-0123-4f5a-6b7c8d9e0f1a",
@@ -2194,8 +2194,8 @@
                 "linkedin": "https://www.linkedin.com/in/josuevidal/"
             },
             "enabled": true,
-            "isTrackCoordinator": false,
-            "trackName": ""
+            "isTrackCoordinator": true,
+            "trackName": "Cloud & Datacenter"
         },
         {
             "id": "d8e9f0a1-b2c3-4567-8d9e-0f1a2b3c4d5e",
@@ -2374,8 +2374,8 @@
                 "linkedin": "https://www.linkedin.com/in/leonardocamargorossato"
             },
             "enabled": true,
-            "isTrackCoordinator": false,
-            "trackName": ""
+            "isTrackCoordinator": true,
+            "trackName": "Quantum Computing"
         },
         {
             "id": "b8c9d0e1-f2a3-4567-8b9c-0d1e2f3a4b5c",
@@ -2968,8 +2968,8 @@
                 "linkedin": "https://www.linkedin.com/in/tallesvaliatti/"
             },
             "enabled": true,
-            "isTrackCoordinator": false,
-            "trackName": ""
+            "isTrackCoordinator": true,
+            "trackName": "Developer Technologies"
         },
         {
             "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
@@ -2986,8 +2986,8 @@
                 "linkedin": "https://www.linkedin.com/in/taniastormovski/"
             },
             "enabled": true,
-            "isTrackCoordinator": false,
-            "trackName": ""
+            "isTrackCoordinator": true,
+            "trackName": "Developer Technologies"
         },
         {
             "id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
@@ -3088,8 +3088,8 @@
                 "linkedin": "https://www.linkedin.com/in/miltoncamara/"
             },
             "enabled": true,
-            "isTrackCoordinator": false,
-            "trackName": ""
+            "isTrackCoordinator": true,
+            "trackName": "Microsoft Azure"
         },
         {
             "id": "d8e4f5a6-b7c8-4d9e-0f1a-2b3c4d5e6f7a",
@@ -3133,8 +3133,8 @@
                 "linkedin": "https://www.linkedin.com/in/rosangela-viegas-maraschin/"
             },
             "enabled": true,
-            "isTrackCoordinator": false,
-            "trackName": ""
+            "isTrackCoordinator": true,
+            "trackName": "Quantum Computing"
         },
         {
             "id": "b2c8d9e0-f1a2-4b3c-4d5e-6f7a8b9c0d10",
@@ -3317,5 +3317,24 @@
             "enabled": true,
             "isTrackCoordinator": false,
             "trackName": ""
+        }
+        ,
+        {
+            "id": "cdef1234-5678-4abc-9def-012345678900",
+            "name": "Vinicius Moura",
+            "title": "Gerente de DevOps & Infraestrutura | Cloud Computing | Azure | AWS | Observabilidade | MVP Microsoft Developer Technologies",
+            "company": "Vitat - Uma empresa RD Saúde",
+            "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Vinicius Moura.jpeg",
+            "bio": "",
+            "expertise": [
+                "",
+                ""
+            ],
+            "social": {
+                "linkedin": "https://www.linkedin.com/in/wellwelwel/"
+            },
+            "enabled": true,
+            "isTrackCoordinator": true,
+            "trackName": "Developer Technologies"
         }
     ]
