@@ -2522,24 +2522,6 @@
             "trackName": "Business Application"
         },
         {
-            "id": "e7f8a9b0-c1d2-3456-7e8f-9a0b1c2d3e4f",
-            "name": "Marcelo Paiva",
-            "title": "CTO at Softprime | Microsoft MVP AI | AWS Hero | Microsoft Certified Trainer | AWS Academy Certified Educator",
-            "company": "",
-            "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Marcelo Paiva.jpeg",
-            "bio": "",
-            "expertise": [
-                "",
-                ""
-            ],
-            "social": {
-                "linkedin": "https://www.linkedin.com/in/marcelopaiva/"
-            },
-            "enabled": true,
-            "isTrackCoordinator": false,
-            "trackName": ""
-        },
-        {
             "id": "3f686dc3-cb9c-4b65-9ac4-471dd6940f60",
             "name": "Marcelo Strippoli",
             "title": "IT Lead | 8x MVP Microsoft | Especialista de Infraestrutura | Modern Workplace | SCCM | Intune | ITIL | MCT | MCSE | MD-102 | AZ-304 | MS-500 | MS-700 | MS-100 | MS-101 | AZ-900 | MS-900 | AI-900 | SC-900",
