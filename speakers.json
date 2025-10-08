@@ -273,7 +273,7 @@
                 "gitHub": "https://github.com/digomatos"
             },
             "isTrackCoordinator": true,
-            "trackName": "Microsoft 365"
+            "trackName": "Microsoft Azure"
         },
         {
             "id": "f4e840ea-15f2-4532-ad30-7ef3f19b3ec6",
@@ -526,7 +526,7 @@
             "id": "0eac2a3b-bd7f-4023-ba3f-85edb2052e3b",
             "name": "Guilherme Maia",
             "title": "Cloud Architect, Microsoft MVP, Trainer",
-            "company": "",
+            "company": "High Expert",
             "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Guilherme Maia.jpeg",
             "bio": "Cloud Specialist, Consultant e Arquiteto focado em Apps & Infra para médias e grandes empresas. Microsoft Azure MVP, MTAC e MCT. Capacita profissionais de TI a se tornarem especialistas em Azure via treinamentos online, workshops e mentoria.",
             "expertise": [
@@ -646,7 +646,7 @@
             "id": "ebce12e5-18ba-485e-9beb-32cfbaaed4ed",
             "name": "Jorge Maia",
             "title": "Especialista em Internet das Coisas, Palestrante, Professor, Premiado pela Microsoft como MVP em Azure, Mestre em Sistemas Mecatrônicos",
-            "company": "",
+            "company": "CrazyTechLabs",
             "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Jorge Maia.jpeg",
             "bio": "Consultor e mentor com 20+ anos em .NET, foco em produtividade, qualidade e agilidade. Microsoft Certified Trainer, atua com C#, IoT, sistemas embarcados e financeiros. Palestrante, podcaster e fundador do CrazyTechGuys. Mestrando em Sistemas Mecatrônicos.",
             "expertise": [
@@ -1157,7 +1157,7 @@
             "id": "f8a3b2c1-4d5e-6f7a-8b9c-0d1e2f3a4b5c",
             "name": "Alessandro Silva Ferreira",
             "title": "Professor / Engenheiro da Computação",
-            "company": "",
+            "company": "CECyber",
             "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Alessandro Silva Ferreira.jpeg",
             "bio": "",
             "expertise": [
@@ -1175,7 +1175,7 @@
             "id": "a1b2c3d4-e5f6-7890-1a2b-3c4d5e6f7a80",
             "name": "Alessandro Trovato",
             "title": "Instrutor LinkedIn Learning, MVP Microsoft, Analista de Desenvolvimento e Treinamento na MLF, associado i2AI e MTAC, compartilhador de conhecimento e incentivador de pessoas.",
-            "company": "",
+            "company": "MLF Soluções Tecnológicas e Educação Corporativa",
             "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Alessandro Trovato.jpeg",
             "bio": "",
             "expertise": [
@@ -1193,7 +1193,7 @@
             "id": "b2c3d4e5-f6a7-8901-2b3c-4d5e6f7a8b92",
             "name": "Alexandra Regina Cavalleiros",
             "title": "Ajudando e Ensinando pessoas a terem sucesso na Carreira Profissional",
-            "company": "",
+            "company": "Fatec Campinas",
             "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Alexandra Regina Cavalleiros.jpeg",
             "bio": "",
             "expertise": [
@@ -1211,7 +1211,7 @@
             "id": "c3d4e5f6-a7b8-9012-3c4d-5e6f7a8b9c00",
             "name": "Alexandre Ballestero de Paula",
             "title": "Gerente de Projetos | Community Advocate",
-            "company": "",
+            "company": "Projeto ACBr",
             "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Alexandre Ballestero de Paula.jpeg",
             "bio": "",
             "expertise": [
@@ -1229,7 +1229,7 @@
             "id": "d4e5f6a7-b8c9-0123-4d5e-6f7a8b9c0d1e",
             "name": "Allan Prado de Oliveira Moura",
             "title": "MCT | Desenvolvedor Power Platform | PowerAutomate | PowerApps | Copilot Studio | Dataverse",
-            "company": "",
+            "company": "AlfaPeople",
             "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Allan Prado de Oliveira Moura.jpeg",
             "bio": "",
             "expertise": [
@@ -1247,7 +1247,7 @@
             "id": "e5f6a7b8-c9d0-1234-5e6f-7a8b9c0d1e20",
             "name": "Amanda Silva",
             "title": "Front End Software Engineer | Google Women Techmakers Ambassador | Palestrante | Professora técnica",
-            "company": "",
+            "company": "iFood",
             "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Amanda Silva.jpeg",
             "bio": "",
             "expertise": [
@@ -1265,7 +1265,7 @@
             "id": "f6a7b8c9-d0e1-2345-6f7a-8b9c0d1e2f31",
             "name": "Ana Andrade Gonsalves",
             "title": "Developer Low Code | Microsoft Power Platform Specialist | UX&UI | MBA in Management, Innovation and Digital Transformation",
-            "company": "",
+            "company": "DBC Company ",
             "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Ana Andrade Gonsalves.jpeg",
             "bio": "",
             "expertise": [
@@ -1283,7 +1283,7 @@
             "id": "a7b8c9d0-e1f2-3456-7a8b-9c0d1e2f3a4b",
             "name": "Ana Carolina Manzan",
             "title": "Cloud Analyst @ Bosch | Microsoft MVP | MLSA | DevOps Engineer Expert | 5x Microsoft Certified",
-            "company": "",
+            "company": "Bosch",
             "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Ana Carolina Manzan.jpeg",
             "bio": "",
             "expertise": [
@@ -1301,7 +1301,7 @@
             "id": "b8c9d0e1-f2a3-4567-8b9c-0d1e2f3a4b50",
             "name": "Ana Clara de Andrade Mioto",
             "title": "Senior Data Scientist at Bradesco | Microsoft MVP AI Platform | Alura Star | Tech Speaker | Co-founder and Community Manager at Data Girls",
-            "company": "",
+            "company": "Bradesco",
             "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Ana Clara de Andrade Mioto.jpeg",
             "bio": "",
             "expertise": [
@@ -1319,7 +1319,7 @@
             "id": "c9d0e1f2-a3b4-5678-9c0d-1e2f3a4b5c61",
             "name": "Anderson Fernandes Pereira dos Santos",
             "title": "Quantum Research Scientist",
-            "company": "",
+            "company": "Venturus",
             "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Anderson Fernandes Pereira dos Santos.jpeg",
             "bio": "",
             "expertise": [
@@ -1337,7 +1337,7 @@
             "id": "d0e1f2a3-b4c5-6789-0d1e-2f3a4b5c6d71",
             "name": "André Melancia",
             "title": "Human Being 🌈 / Developer / DBA / Microsoft Certified Trainer / Doing AI stuff since before it was cool",
-            "company": "",
+            "company": "Planet Earth",
             "image": "https://github.com/MVPConf/2025/blob/main/speakers/Andre%CC%81%20Melancia.jpeg?raw=true",
             "bio": "",
             "expertise": [
@@ -1355,7 +1355,7 @@
             "id": "e1f2a3b4-c5d6-7890-1e2f-3a4b5c6d7e81",
             "name": "Andre Racz",
             "title": "IT Director - Center of Excellence @ CERC",
-            "company": "",
+            "company": "CERC",
             "image": "https://github.com/MVPConf/2025/blob/main/speakers/Andre%20Racz.png?raw=true",
             "bio": "",
             "expertise": [
