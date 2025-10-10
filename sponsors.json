@@ -26,5 +26,12 @@
       "logo": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/sponsors/logo-oakmont.png",
       "tier": "gold",
       "website": "https://oakmontgroup.com.br/"
+    },
+    {
+      "id": "d43e26b0-267b-4ce9-ad43-a2aabb6cfeab",
+      "name": "Microkids",
+      "logo": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/sponsors/microkids.png",
+      "tier": "gold",
+      "website": "https://microkids.com.br/"
     }
 ]
