@@ -5,63 +5,313 @@
     "tracks": [
       {
         "name": "Business Application",
-        "coordinators": ["Daniel Petrin, Danilo Ciciliotti, Marcelo Pacifico "],
-        "talks": [
-        ]
+        "coordinators": [
+          "Daniel Petrin, Danilo Ciciliotti, Marcelo Pacifico "
+        ],
+        "talks": []
       },
       {
         "name": "Cloud & Datacenter",
-        "coordinators": ["Elton Bordim, Josue Vidal, Vinicius Mozart"],
-        "talks": [
-        ]
+        "coordinators": [
+          "Elton Bordim, Josue Vidal, Vinicius Mozart"
+        ],
+        "talks": []
       },
       {
         "name": "Data Platform",
-        "coordinators": ["Guilherme Salles,  Hugo Venturini, Luiz Gustavo Serra"],
-        "talks": [
-        ]
+        "coordinators": [
+          "Guilherme Salles,  Hugo Venturini, Luiz Gustavo Serra"
+        ],
+        "talks": []
       },
       {
         "name": "Developer Technologies",
-        "coordinators": ["Bruno Brito, Carlos Santos,  Renicius Pagotto, Talles Valiatti, Tania Stormovsky, Vinicius Moura"],
-        "talks": [
-        ]
+        "coordinators": [
+          "Bruno Brito, Carlos Santos,  Renicius Pagotto, Talles Valiatti, Tania Stormovsky, Vinicius Moura"
+        ],
+        "talks": []
       },
       {
         "name": "Gestao de Negocios e Empreendedorismo",
-        "coordinators": ["Jamil Lopes, Marco Lagoa"],
-        "talks": [
-        ]
+        "coordinators": [
+          "Jamil Lopes, Marco Lagoa"
+        ],
+        "talks": []
       },
       {
         "name": "Inteligencia Artificial",
-        "coordinators": ["Felipe Kenji Chikuji, Jorge Maia, Sulamita Dantas"],
+        "coordinators": [
+          "Felipe Kenji Chikuji, Jorge Maia, Sulamita Dantas"
+        ],
         "talks": [
+          {
+            "title": "A Nova Stack do Desenvolvedor Humano  IA ou o Início do Caos",
+            "time": "-",
+            "speakers": [
+              "Marcelo Paiva"
+            ]
+          },
+          {
+            "title": "AI Builder Modelos x Prompts Personalizados como usar e qual usar",
+            "time": "-",
+            "speakers": [
+              "Allan Prado de Oliveira Moura"
+            ]
+          },
+          {
+            "title": "Como Construir seu Próprio Copilot com a Stack de IA da Microsoft",
+            "time": "-",
+            "speakers": [
+              "Shirley Rios"
+            ]
+          },
+          {
+            "title": "Como criar um sistema multiagentes",
+            "time": "-",
+            "speakers": [
+              "Henrique Oliveira Melo"
+            ]
+          },
+          {
+            "title": "Copilot e Microsoft 365 para Presales arquitetos e gestores de negócios",
+            "time": "-",
+            "speakers": [
+              "Fábio Silva"
+            ]
+          },
+          {
+            "title": "Copilot no mundo real como a IA está empoderando profissionais além do Dev",
+            "time": "-",
+            "speakers": [
+              "Angelo Gustavo Dias Matias"
+            ]
+          },
+          {
+            "title": "Criando Aplicações Multi Agentes com o Azure AI Foundry",
+            "time": "-",
+            "speakers": [
+              "Talles Destani de Souza Valiatti",
+              "Carlos Tiago Machel da Silva"
+            ]
+          },
+          {
+            "title": "De Estudante ao Mundo Minha Jornada como Estudante Embaixador Microsoft e MVP",
+            "time": "-",
+            "speakers": [
+              "Felipe Chikuji"
+            ]
+          },
+          {
+            "title": "Desenvolve para Inclusão com IA An Azure Story",
+            "time": "-",
+            "speakers": [
+              "André Melancia"
+            ]
+          },
+          {
+            "title": "Desmistificando a IA Responsável Da Teoria à Implementação",
+            "time": "-",
+            "speakers": [
+              "Ana Clara de Andrade Mioto"
+            ]
+          },
+          {
+            "title": "Do protótipo NoCode ao Código",
+            "time": "-",
+            "speakers": [
+              "Joaquim José da Fonseca Viana"
+            ]
+          },
+          {
+            "title": "Do Raciocínio à Execução Engenharia de Prompt Avançada para Programadores",
+            "time": "-",
+            "speakers": [
+              "Glaucio Daniel"
+            ]
+          },
+          {
+            "title": "Elevando a maturidade operacional com AIOps em ambientes críticos",
+            "time": "-",
+            "speakers": [
+              "Rafael Cardoso"
+            ]
+          },
+          {
+            "title": "Em um mundo de IAs quem tem Agentes é Rei",
+            "time": "-",
+            "speakers": [
+              "Henrique Souza"
+            ]
+          },
+          {
+            "title": "Governança de Dados O pilar fundamental para o sucesso da IA nas empresas",
+            "time": "-",
+            "speakers": [
+              "Bergson Lopes Rego"
+            ]
+          },
+          {
+            "title": "Governança sem frescuras Itens indispensáveis para modelos de IA Eficientes",
+            "time": "-",
+            "speakers": [
+              "Nelson Edson Anchite Junior"
+            ]
+          },
+          {
+            "title": "Hacking Azure AI",
+            "time": "-",
+            "speakers": [
+              "André Melancia"
+            ]
+          },
+          {
+            "title": "Human Extended Cognition  How Natural Language Interface Unlocks Unprecedent Levels of Intelligence",
+            "time": "-",
+            "speakers": [
+              "Rogerio Rodrigues"
+            ]
+          },
+          {
+            "title": "IA Back to Basics  Primeiros passo com Computer Vision",
+            "time": "-",
+            "speakers": [
+              "Claudenir Andrade"
+            ]
+          },
+          {
+            "title": "IA nas empresas Como as empresas estão se reinventando e o que isso significa para você",
+            "time": "-",
+            "speakers": [
+              "Carlos Citrangulo"
+            ]
+          },
+          {
+            "title": "IA no ambiente empresarial como estratégia de negócio",
+            "time": "-",
+            "speakers": [
+              "Vitor Alves de Andrade"
+            ]
+          },
+          {
+            "title": "Integrando o Microsoft GraphRAG no Neo4j",
+            "time": "-",
+            "speakers": [
+              "Eliézer Zarpelão"
+            ]
+          },
+          {
+            "title": "Introdução ao Copilot no Microsoft Fabric",
+            "time": "-",
+            "speakers": [
+              "Sidney Oliveira Cirqueira"
+            ]
+          },
+          {
+            "title": "Melting AI Foundry An Evil Azure Story",
+            "time": "-",
+            "speakers": [
+              "André Melancia"
+            ]
+          },
+          {
+            "title": "Minha jornada aplicando IA com IoT e Gêmeos Digitais",
+            "time": "-",
+            "speakers": [
+              "Jorge Maia"
+            ]
+          },
+          {
+            "title": "O Agente de IA que Conversa com Seus Dados no Power BI",
+            "time": "-",
+            "speakers": [
+              "Gerson Viergutz"
+            ]
+          },
+          {
+            "title": "O Futuro da Administração do 365 com Copilot O Que Esperar",
+            "time": "-",
+            "speakers": [
+              "Bruno Leires"
+            ]
+          },
+          {
+            "title": "O Poder dos Agentes Crie Ações com Microsoft 365 Copilot e Copilot Studio",
+            "time": "-",
+            "speakers": [
+              "Danilo Nogueira"
+            ]
+          },
+          {
+            "title": "O poder e a mágica do MCP",
+            "time": "-",
+            "speakers": [
+              "Morganna Giovanelli"
+            ]
+          },
+          {
+            "title": "Orquestração de Agentes com MCP e A2A",
+            "time": "-",
+            "speakers": [
+              "Glaucio Daniel"
+            ]
+          },
+          {
+            "title": "Plugins no Semantic Kernel A Ponte entre IA e Sistemas Corporativos",
+            "time": "-",
+            "speakers": [
+              "Felipe Augusto"
+            ]
+          },
+          {
+            "title": "Por onde começar O Básico da Inteligência Artificial e os vários usos prontos na Azure",
+            "time": "-",
+            "speakers": [
+              "Felipe Chikuji"
+            ]
+          },
+          {
+            "title": "RAG RetrievalAugmented Generation Avançado com AI Search e Copilot Studio",
+            "time": "-",
+            "speakers": [
+              "Pedro Paulo Ferreira"
+            ]
+          },
+          {
+            "title": "Você está utilizando a IA da maneira correta",
+            "time": "-",
+            "speakers": [
+              "Felipe Mikio Ramos Nakamaru"
+            ]
+          }
         ]
       },
       {
         "name": "Microsoft 365",
-        "coordinators": ["Fábio Gatti, João Benito, Thais Mafra"],
-        "talks": [
-        ]
+        "coordinators": [
+          "Fábio Gatti, João Benito, Thais Mafra"
+        ],
+        "talks": []
       },
       {
         "name": "Microsoft Azure",
-        "coordinators": ["Diego Matos, Renato Groffe, Milton Camara"],
-        "talks": [
-        ]
+        "coordinators": [
+          "Diego Matos, Renato Groffe, Milton Camara"
+        ],
+        "talks": []
       },
       {
         "name": "Quantum Computing",
-        "coordinators": ["Anderson Fernandes Pereira dos Santos, Leonardo Rossato, Rosangela Maraschin"],
-        "talks": [
-        ]
+        "coordinators": [
+          "Anderson Fernandes Pereira dos Santos, Leonardo Rossato, Rosangela Maraschin"
+        ],
+        "talks": []
       },
       {
         "name": "Security",
-        "coordinators": ["Daniel Donda, Rebecca Frade"],
-        "talks": [
-        ]
+        "coordinators": [
+          "Daniel Donda, Rebecca Frade"
+        ],
+        "talks": []
       }
     ]
   },
@@ -71,63 +321,73 @@
     "tracks": [
       {
         "name": "Business Application",
-        "coordinators": ["Daniel Petrin, Danilo Ciciliotti, Marcelo Pacifico "],
-        "talks": [
-        ]
+        "coordinators": [
+          "Daniel Petrin, Danilo Ciciliotti, Marcelo Pacifico "
+        ],
+        "talks": []
       },
       {
         "name": "Cloud & Datacenter",
-        "coordinators": ["Elton Bordim, Josue Vidal, Vinicius Mozart"],
-        "talks": [
-        ]
+        "coordinators": [
+          "Elton Bordim, Josue Vidal, Vinicius Mozart"
+        ],
+        "talks": []
       },
       {
         "name": "Data Platform",
-        "coordinators": ["Guilherme Salles,  Hugo Venturini, Luiz Gustavo Serra"],
-        "talks": [
-        ]
+        "coordinators": [
+          "Guilherme Salles,  Hugo Venturini, Luiz Gustavo Serra"
+        ],
+        "talks": []
       },
       {
         "name": "Developer Technologies",
-        "coordinators": ["Bruno Brito, Carlos dos Santos,  Renicius Pagottto, Talles Destani de Souza Valiatti, Tania Stormovski, Vinicius Moura"],
-        "talks": [
-        ]
+        "coordinators": [
+          "Bruno Brito, Carlos dos Santos,  Renicius Pagottto, Talles Destani de Souza Valiatti, Tania Stormovski, Vinicius Moura"
+        ],
+        "talks": []
       },
       {
         "name": "Gestao de Negocios e Empreendedorismo",
-        "coordinators": ["Jamil Lopes, Marco Aurélio Gardini Lagoa"],
-        "talks": [
-        ]
+        "coordinators": [
+          "Jamil Lopes, Marco Aurélio Gardini Lagoa"
+        ],
+        "talks": []
       },
       {
         "name": "Inteligencia Artificial",
-        "coordinators": ["Felipe Chikuji, Jorge Maia, Sulamita Dantas"],
-        "talks": [
-        ]
+        "coordinators": [
+          "Felipe Chikuji, Jorge Maia, Sulamita Dantas"
+        ],
+        "talks": []
       },
       {
         "name": "Microsoft 365",
-        "coordinators": ["Fábio de Carvalho Gatti, João Benito, Thais Mafra"],
-        "talks": [
-        ]
+        "coordinators": [
+          "Fábio de Carvalho Gatti, João Benito, Thais Mafra"
+        ],
+        "talks": []
       },
       {
         "name": "Microsoft Azure",
-        "coordinators": ["Diego Moreira Matos, Renato Groffe"],
-        "talks": [
-        ]
+        "coordinators": [
+          "Diego Moreira Matos, Renato Groffe"
+        ],
+        "talks": []
       },
       {
         "name": "Quantum Computing",
-        "coordinators": ["Anderson Santos, Leonardo Rossato, Rosangela Maraschin"],
-        "talks": [
-        ]
+        "coordinators": [
+          "Anderson Santos, Leonardo Rossato, Rosangela Maraschin"
+        ],
+        "talks": []
       },
       {
         "name": "Security",
-        "coordinators": ["Daniel Donda, Rebecca Paola Cesar Frade"],
-        "talks": [
-        ]
+        "coordinators": [
+          "Daniel Donda, Rebecca Paola Cesar Frade"
+        ],
+        "talks": []
       }
     ]
   }
