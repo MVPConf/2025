@@ -276,6 +276,20 @@
             "trackName": "Microsoft Azure"
         },
         {
+            "id": "b76a15f3-1ff1-46a4-b59a-d67ff1743fa6",
+            "name": "Diego Souza",
+            "title": "Product Owner",
+            "company": "Followorker Aplicativos para Negócios",
+            "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Diego Souza.jpeg",
+            "bio": "Product Owner",
+            "expertise": [
+                "Microsoft 365"
+            ],
+            "social": {
+                "linkedin": "https://www.linkedin.com/in/diego-souza-409ba490/"
+            }
+        },
+        {
             "id": "f4e840ea-15f2-4532-ad30-7ef3f19b3ec6",
             "name": "Eduardo Pires",
             "title": "Microsoft Regional Director | MVP | Owner @ desenvolvedor.io",
