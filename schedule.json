@@ -8,35 +8,845 @@
         "coordinators": [
           "Daniel Petrin, Danilo Ciciliotti, Marcelo Pacifico "
         ],
-        "talks": []
+        "talks": [
+          {
+            "title": "Como o time de Marcom da DSM LATAM gerencia os custos de OPEX através do Power Apps",
+            "time": "-",
+            "speakers": [
+              "Raphael Rodrigo Ramos de Santana Santos"
+            ]
+          },
+          {
+            "title": "Boas práticas e performance no Power Apps",
+            "time": "-",
+            "speakers": [
+              "Daniel Petrin"
+            ]
+          },
+          {
+            "title": "Criando Prototipos com IA Generativa",
+            "time": "-",
+            "speakers": [
+              "Leonardo Ramos Russo"
+            ]
+          },
+          {
+            "title": "Como a Power Platform pode mudar seu negócio",
+            "time": "-",
+            "speakers": [
+              "Leonardo Alves Zanré"
+            ]
+          },
+          {
+            "title": "Dicas e boas práticas recomendadas para o desenvolvimento com Power Automate",
+            "time": "-",
+            "speakers": [
+              "Jimmy Zinizopoulos Passeti"
+            ]
+          },
+          {
+            "title": "O Segredo das Equipes que Escalam com Power Apps Parametrização  Modularidade",
+            "time": "-",
+            "speakers": [
+              "Danilo Ciciliotti"
+            ]
+          },
+          {
+            "title": "Produtividade com Microsoft IA e Metodologias Ágeis",
+            "time": "-",
+            "speakers": [
+              "Leonardo Stellfeld  /  Yves Cruzato"
+            ]
+          },
+          {
+            "title": "Do Canvas ao Dataverse Como Escolher a Arquitetura Certa no Power Apps",
+            "time": "-",
+            "speakers": [
+              "Allan Prado de Oliveira Moura"
+            ]
+          },
+          {
+            "title": "Case AgroTech  Inovação no Agro com Power Apps e Integração Protheus",
+            "time": "-",
+            "speakers": [
+              "Erick Macedo / Diego Giovanni Souza / Júlia Giovanni"
+            ]
+          },
+          {
+            "title": "Copilot Studio ou Azure AI Foundry Escolhendo a solução certa para o seu projeto de IA",
+            "time": "-",
+            "speakers": [
+              "Marcelo Pacifico"
+            ]
+          },
+          {
+            "title": "Como fazer seus Power Apps se destacarem com design",
+            "time": "-",
+            "speakers": [
+              "Ana Andrade Gonsalves"
+            ]
+          }
+        ]
       },
       {
         "name": "Cloud & Datacenter",
         "coordinators": [
           "Elton Bordim, Josue Vidal, Vinicius Mozart"
         ],
-        "talks": []
+        "talks": [
+          {
+            "title": "Seu Azure está errado e eu posso provar Como ganhar escalar na nuvem da maneira correta",
+            "time": "-",
+            "speakers": [
+              "Emmanuel Brandão / Wesley Camargo"
+            ]
+          },
+          {
+            "title": "Segurança em Camadas no Azure Do Perímetro à Identidade",
+            "time": "-",
+            "speakers": [
+              "Igor Humberto Monte Marques de Lima"
+            ]
+          },
+          {
+            "title": "Containerização no Azure",
+            "time": "-",
+            "speakers": [
+              "Renicius Pagotto / Ana Carolina Manzan"
+            ]
+          },
+          {
+            "title": "Jornada de sucesso de migração para o Windows 11 business case",
+            "time": "-",
+            "speakers": [
+              "Marcelo Strippoli"
+            ]
+          },
+          {
+            "title": "Jornada para a nuvem Como garantir uma migração bem sucedida e eficiente",
+            "time": "-",
+            "speakers": [
+              "Beatriz Oliveira"
+            ]
+          },
+          {
+            "title": "Azure ARC Nuvem Híbrida e Multicloud com Governança Agilidade",
+            "time": "-",
+            "speakers": [
+              "Josue Vidal"
+            ]
+          },
+          {
+            "title": "3 Formas de Backup no Microsoft 365",
+            "time": "-",
+            "speakers": [
+              "Vinicius Mozart"
+            ]
+          },
+          {
+            "title": "Active Directory no Windows Server 2025",
+            "time": "-",
+            "speakers": [
+              "Eduardo Popovici"
+            ]
+          },
+          {
+            "title": "Como otimizar e diminuir custos de Extra File no Microsoft SharePoint",
+            "time": "-",
+            "speakers": [
+              "Vinicius Mozart"
+            ]
+          },
+          {
+            "title": "Segurança inteligente como o Purview protege sua infraestrutura em nuvem e onpremises",
+            "time": "-",
+            "speakers": [
+              "Júlio César Gonçalves Vasconcelos"
+            ]
+          },
+          {
+            "title": "Como implementar Disaster Recovery de VMs do Windows Server",
+            "time": "-",
+            "speakers": [
+              "Thiago Advincula de Sousa"
+            ]
+          },
+          {
+            "title": "Elevando Maturidade de Infraestrutura com AIOps",
+            "time": "-",
+            "speakers": [
+              "Rafael Cardoso"
+            ]
+          },
+          {
+            "title": "Desafios e Planejamento de atualização para o Windows 11",
+            "time": "-",
+            "speakers": [
+              "Marcelo Strippoli"
+            ]
+          },
+          {
+            "title": "Do Chão de Fábrica à Nuvem Caminhos da Convergência OTIT",
+            "time": "-",
+            "speakers": [
+              "Erik Maran"
+            ]
+          },
+          {
+            "title": "Acelerando Aplicações no Windows Containers com Karpenter e EC2 Fast Launch no Amazon EKS",
+            "time": "-",
+            "speakers": [
+              "Bruno Lopes"
+            ]
+          },
+          {
+            "title": "Kubernetes no mundo real 7 dúvidas que travam seus projetos em AKS e como resolvêlas",
+            "time": "-",
+            "speakers": [
+              "Wanderlei Grizolli Junior"
+            ]
+          },
+          {
+            "title": "Os desafios por trás da migração para Cloud com Azure VMware Solution um case Microsoft Global",
+            "time": "-",
+            "speakers": [
+              "Luckas de Lima Faria Fernandes"
+            ]
+          }
+        ]
       },
       {
         "name": "Data Platform",
         "coordinators": [
           "Guilherme Salles,  Hugo Venturini, Luiz Gustavo Serra"
         ],
-        "talks": []
+        "talks": [
+          {
+            "title": "Microsoft Power BI não versus mas plus Microsoft Fabric",
+            "time": "-",
+            "speakers": [
+              "Alison Pezzott"
+            ]
+          },
+          {
+            "title": "Potencializando seus insights com Copilot e Power BI",
+            "time": "-",
+            "speakers": [
+              "Rodrigo Dornel"
+            ]
+          },
+          {
+            "title": "Descobrindo o Directlake A nova era do Power BI",
+            "time": "-",
+            "speakers": [
+              "Renato José Ferreira Lira"
+            ]
+          },
+          {
+            "title": "Microsoft Fabric de forma conceitual",
+            "time": "-",
+            "speakers": [
+              "Renato José Ferreira Lira"
+            ]
+          },
+          {
+            "title": "O Power BI Desktop como tecnologia autônoma para Análise de Dados",
+            "time": "-",
+            "speakers": [
+              "Hugo Venturini"
+            ]
+          },
+          {
+            "title": "Streaming no Microsoft Fabric  A linha de produção do futuro",
+            "time": "-",
+            "speakers": [
+              "Juliana Maria Lopes"
+            ]
+          },
+          {
+            "title": "Implementação de Validações e Notifcações em uma solução de dados no Fabric Great Expectations  Teams",
+            "time": "-",
+            "speakers": [
+              "Sandro Jorge de Oliveira"
+            ]
+          },
+          {
+            "title": "Alta disponibilidade de PostgreSQL no Azure",
+            "time": "-",
+            "speakers": [
+              "Rodrigo Crespi"
+            ]
+          },
+          {
+            "title": "Insights dos Dados com IA Azure SQL Server e Microsoft Copilot Studio",
+            "time": "-",
+            "speakers": [
+              "Fabio Menezes Santos"
+            ]
+          },
+          {
+            "title": "Always On Lições que a Microsoft não te contou",
+            "time": "-",
+            "speakers": [
+              "Roberto Fonseca"
+            ]
+          },
+          {
+            "title": "The Injection Game Expondo Vulnerabilidades de SQL Injection com ScriptDom",
+            "time": "-",
+            "speakers": [
+              "Fabiano Neves Amorim"
+            ]
+          },
+          {
+            "title": "Microsoft Fabric A Revolução do Analytics  O Que Mudou Desde o Lançamento e o Futuro da Plataforma",
+            "time": "-",
+            "speakers": [
+              "Sidney Oliveira Cirqueira"
+            ]
+          },
+          {
+            "title": "Modelagem Relacional X Modelagem Dimensional  aspectos quase sempre negligenciados na construção de DataWarehouses",
+            "time": "-",
+            "speakers": [
+              "Hugo Venturini"
+            ]
+          },
+          {
+            "title": "Visual Intelligence Sinergia entre Espaço e Dados com Power BI",
+            "time": "-",
+            "speakers": [
+              "Alexandra Regina Cavalleiros"
+            ]
+          },
+          {
+            "title": "Banco de Dados com Inteligência Artificial",
+            "time": "-",
+            "speakers": [
+              "Sulamita Dantas / Rafael Gobbi"
+            ]
+          },
+          {
+            "title": "Fabric sob Controle Como Automatizar o Scaleup e Scaledown para Cortar Gastos em Tempo Real",
+            "time": "-",
+            "speakers": [
+              "Sulamita Dantas / Rafael Gobbi"
+            ]
+          },
+          {
+            "title": "SQL Server 2025  Novidades e Inovações",
+            "time": "-",
+            "speakers": [
+              "Rodrigo Crespi"
+            ]
+          },
+          {
+            "title": "Microsoft Fabric e Purview  O Futuro da Análise de Dados com Governança de dados",
+            "time": "-",
+            "speakers": [
+              "Bruno Galvincio de Souza"
+            ]
+          },
+          {
+            "title": "Sai da faculdade e agora",
+            "time": "-",
+            "speakers": [
+              "Lucas da Silva Amorim Sá"
+            ]
+          },
+          {
+            "title": "Do OnPrem ao Azure em Tempo Real Arquitetura de CDC com Debezium e Azure Event Hub",
+            "time": "-",
+            "speakers": [
+              "Luis Claudio Ribeiro Junior"
+            ]
+          },
+          {
+            "title": "CICD com Microsoft Fabric",
+            "time": "-",
+            "speakers": [
+              "Alison Pezzott"
+            ]
+          },
+          {
+            "title": "Da ideia ao Dashboard",
+            "time": "-",
+            "speakers": [
+              "Engel Nynna Oliveira Trindade"
+            ]
+          },
+          {
+            "title": "Conversando com os dados do Power BI",
+            "time": "-",
+            "speakers": [
+              "Gerson Viergutz"
+            ]
+          },
+          {
+            "title": "Descomplicando a TempDB no MS SQL Server O Que é e por que você precisa cuidar bem dela",
+            "time": "-",
+            "speakers": [
+              "Landry Duailibe Salles Filho"
+            ]
+          },
+          {
+            "title": "Concorrência no SQL Server 2025 Como o Optimized Locking Vai Mudar o Jogo",
+            "time": "-",
+            "speakers": [
+              "Landry Duailibe Salles Filho"
+            ]
+          },
+          {
+            "title": "Do Caos ao Cubo Usando Metadados para Construir um DWH do Zero com Excel DuckDB e SQL Server",
+            "time": "-",
+            "speakers": [
+              "Gustavo Antonio Leo"
+            ]
+          },
+          {
+            "title": "O Futuro da Governança de Dados no Azure Da Ingestão à Visualização",
+            "time": "-",
+            "speakers": [
+              "Andrea De La Rosa"
+            ]
+          },
+          {
+            "title": "Dados não mentem mas podem confundir  Aprenda a não transformar dados em Fake News",
+            "time": "-",
+            "speakers": [
+              "Luís Gustavo Nascimento Serra"
+            ]
+          },
+          {
+            "title": "Do Consumo ao Controle Como Evitar Surpresas na Fatura do Power BI e Fabric",
+            "time": "-",
+            "speakers": [
+              "Samyr Moisés"
+            ]
+          },
+          {
+            "title": "Da Visão ao Valor Um Caso Real de Migração de Tableau para Power BI",
+            "time": "-",
+            "speakers": [
+              "Samyr Moisés"
+            ]
+          },
+          {
+            "title": "Do PBIX ao Código Explorando TMDL e DAX Query View no Power BI",
+            "time": "-",
+            "speakers": [
+              "Marcel Magalhães"
+            ]
+          },
+          {
+            "title": "Customizações Escaláveis em Power BI Baseline  Customizações sem Perder Governança",
+            "time": "-",
+            "speakers": [
+              "Marcel Magalhães"
+            ]
+          },
+          {
+            "title": "Além do CALCULATE contexto janelas e tabelas virtuais",
+            "time": "-",
+            "speakers": [
+              "Darlan Machado"
+            ]
+          },
+          {
+            "title": "DataOps Inteligente Reduzindo custo no Microsoft Fabric",
+            "time": "-",
+            "speakers": [
+              "Jones de Souza Santos"
+            ]
+          },
+          {
+            "title": "Dos Balancetes aos Dashboards Como o Power BI Está Transformando a Área Contábil",
+            "time": "-",
+            "speakers": [
+              "Claudio André Cavalheiro Díaz"
+            ]
+          },
+          {
+            "title": "Fundamentos da Engenharia de Dados",
+            "time": "-",
+            "speakers": [
+              "Arthur Luz"
+            ]
+          },
+          {
+            "title": "Missão Crítica em Dados Resiliência Segurança e Alta Disponibilidade",
+            "time": "-",
+            "speakers": [
+              "Raquel Lemos"
+            ]
+          },
+          {
+            "title": "Expurgando TB de dados com Polybase do SQL Server",
+            "time": "-",
+            "speakers": [
+              "Leandro Sampaio Procopio"
+            ]
+          },
+          {
+            "title": "Database Watcher Um novo olhar para o monitoramento do Azure SQL",
+            "time": "-",
+            "speakers": [
+              "Hércules Pereira da Silva"
+            ]
+          },
+          {
+            "title": "Nunca foi só um Dash bonitinho o que vem antes do Power BI",
+            "time": "-",
+            "speakers": [
+              "Viviane Martins Ferreira"
+            ]
+          },
+          {
+            "title": "SQL Server na Prática Transformando Dados em Insights",
+            "time": "-",
+            "speakers": [
+              "Claudio Damasceno"
+            ]
+          },
+          {
+            "title": "Azure SQL Hyperscale 10 pontos essenciais para desenvolvedores",
+            "time": "-",
+            "speakers": [
+              "Glauber Cini"
+            ]
+          },
+          {
+            "title": "MCP  Bases Relacionais gerenciando e explorando seus dados com Inteligência Artificial",
+            "time": "-",
+            "speakers": [
+              "Renato Groffe / Murilo Beltrame"
+            ]
+          }
+        ]
       },
       {
         "name": "Developer Technologies",
         "coordinators": [
           "Bruno Brito, Carlos Santos,  Renicius Pagotto, Talles Valiatti, Tania Stormovsky, Vinicius Moura"
         ],
-        "talks": []
+        "talks": [
+          {
+            "title": "Arquitetura multitenant com NET do jeito certo",
+            "time": "-",
+            "speakers": [
+              "Alexandre Felipe Malavasi Cardoso"
+            ]
+          },
+          {
+            "title": "Aplicações web reativas com Blazor e Server Side Events e SignalR",
+            "time": "-",
+            "speakers": [
+              "Gustavo Bellini Bigardi"
+            ]
+          },
+          {
+            "title": "Descomplicando Kubernetes OnPremises Lições Reais de Quem Colocou em Produção",
+            "time": "-",
+            "speakers": [
+              "Cristiano Joaquim dos Santos"
+            ]
+          },
+          {
+            "title": "Desvendando o Poder das Sagas Transforme Suas Functions as a Service FaaS com Arquitetura de Alto Impacto",
+            "time": "-",
+            "speakers": [
+              "Cláudio Filipe Lima Rapôso"
+            ]
+          },
+          {
+            "title": "Aplicação Orientada a Eventos com C",
+            "time": "-",
+            "speakers": [
+              "Thamirys Gameiro"
+            ]
+          },
+          {
+            "title": "Automatizando suas rotinas e backup no Azure com Terraform",
+            "time": "-",
+            "speakers": [
+              "Jefferson Castilho"
+            ]
+          },
+          {
+            "title": "Resolvendo Problemas Complexos Como HLS e DASH Tornaram o Vídeo na Web Possível",
+            "time": "-",
+            "speakers": [
+              "Bruno Brito"
+            ]
+          },
+          {
+            "title": "GreenOps Reduzindo a pegada de carbono na nuvem",
+            "time": "-",
+            "speakers": [
+              "Juliano Custódio"
+            ]
+          },
+          {
+            "title": "GitHub Copilot Seu Assistente no Desenvolvimento",
+            "time": "-",
+            "speakers": [
+              "Renicius Pagotto Fostaini"
+            ]
+          },
+          {
+            "title": "Vamos falar de Inteligência Artificial Desenvolvendo Apps inteligentes com Flutter e Gemini",
+            "time": "-",
+            "speakers": [
+              "Toshi Ossada"
+            ]
+          },
+          {
+            "title": "Vibe Coding  Esse treco funciona",
+            "time": "-",
+            "speakers": [
+              "Andre Racz"
+            ]
+          },
+          {
+            "title": "Turbinando e descomplicando a automação de Testes de Integração com Testcontainers",
+            "time": "-",
+            "speakers": [
+              "Renato Groffe / Milton Camara Gomes"
+            ]
+          },
+          {
+            "title": "Boas práticas para escrever um código atualizado",
+            "time": "-",
+            "speakers": [
+              "Márcio Rogério Nizzola"
+            ]
+          },
+          {
+            "title": "Migrando uma aplicação para NET 9 e publicando no Linux",
+            "time": "-",
+            "speakers": [
+              "Welington Oliveira da Silva"
+            ]
+          },
+          {
+            "title": "Implementando MCP Server e MCP Client para NET Developers",
+            "time": "-",
+            "speakers": [
+              "Ramon Durães"
+            ]
+          },
+          {
+            "title": "Performance Extrema com MessagePack",
+            "time": "-",
+            "speakers": [
+              "William Santos"
+            ]
+          },
+          {
+            "title": "IoT  Programando para ESP32 com Particle IO",
+            "time": "-",
+            "speakers": [
+              "Claudenir Andrade"
+            ]
+          },
+          {
+            "title": "Arquitetura de Observabilidade Lições do Campo de Batalha do Varejo com OpenTelemetry",
+            "time": "-",
+            "speakers": [
+              "Tiago Tartari"
+            ]
+          },
+          {
+            "title": "MessagePack  NET Construindo um Cache UltraRápido com Arquivos bin",
+            "time": "-",
+            "speakers": [
+              "Nagib Sabbag Filho"
+            ]
+          },
+          {
+            "title": "Construindo APIs performáticas com RavenDB",
+            "time": "-",
+            "speakers": [
+              "Daniel Jesus"
+            ]
+          },
+          {
+            "title": "Autenticação com Entra ID em NET escolhendo o fluxo certo para cada cenário",
+            "time": "-",
+            "speakers": [
+              "Vinicius Santos Ventura"
+            ]
+          },
+          {
+            "title": "Clean Code no FrontEnd Escrevendo código JavaScript de alta qualidade",
+            "time": "-",
+            "speakers": [
+              "Larissa Santos de Azevedo"
+            ]
+          },
+          {
+            "title": "The making of greener software",
+            "time": "-",
+            "speakers": [
+              "Murilo Beltrame"
+            ]
+          },
+          {
+            "title": "Aumente Sua Produtividade com Templates Customizados no NET",
+            "time": "-",
+            "speakers": [
+              "Tiago Aguiar Moreira"
+            ]
+          },
+          {
+            "title": "Do Legado ao EventDriven Integrações Modernas com Azure Integration Services",
+            "time": "-",
+            "speakers": [
+              "Lucas Massena"
+            ]
+          },
+          {
+            "title": "Event Sourcing explicado por Mustelas",
+            "time": "-",
+            "speakers": [
+              "Murilo Beltrame"
+            ]
+          },
+          {
+            "title": "Vertical Slice Architecture em NET Dos pitfalls às melhores práticas",
+            "time": "-",
+            "speakers": [
+              "Luiz Guilherme Couto Motta"
+            ]
+          },
+          {
+            "title": "Para além do React Projetos frontend estruturados com Microfrontends",
+            "time": "-",
+            "speakers": [
+              "Amanda Silva"
+            ]
+          },
+          {
+            "title": "Messaging Patterns na Arquitetura de Software Como os Padrões Guiam a Escolha da Tecnologia",
+            "time": "-",
+            "speakers": [
+              "Tania Stormovski"
+            ]
+          },
+          {
+            "title": "Carreira Dev  hábitos pra evoluir na carreira tech além do código",
+            "time": "-",
+            "speakers": [
+              "Jéssica Nathany"
+            ]
+          },
+          {
+            "title": "Do estado à escala Angular Signals e Standalone Components com TypeScript",
+            "time": "-",
+            "speakers": [
+              "Thamiris Adriano"
+            ]
+          },
+          {
+            "title": "Integrando o SDK do NET com o Serviço OpenAI do Azure",
+            "time": "-",
+            "speakers": [
+              "Laura de Alencar / Thamirys Gameiro"
+            ]
+          },
+          {
+            "title": "SDLC e IA quanto isso trás de resultado para o Negócio ",
+            "time": "-",
+            "speakers": [
+              "Henrique Souza"
+            ]
+          },
+          {
+            "title": "Emissão de Documentos Fiscais no Universo NET Como a ACBrLib Facilita a Sua Vida e Garante a Conformidade na Reforma Tributária",
+            "time": "-",
+            "speakers": [
+              "Alexandre Ballestero de Paula"
+            ]
+          },
+          {
+            "title": "Do Open Source ao Microsoft MVP Interoperabilidade Segurança e Impacto Global",
+            "time": "-",
+            "speakers": [
+              "Weslley Araújo"
+            ]
+          },
+          {
+            "title": "O Novo Papel do Arquiteto de Software na Era da IA",
+            "time": "-",
+            "speakers": [
+              "Elemar Junior"
+            ]
+          },
+          {
+            "title": "Dissecando a IA o que não te contam",
+            "time": "-",
+            "speakers": [
+              "Carlos dos Santos"
+            ]
+          }
+        ]
       },
       {
-        "name": "Gestao de Negocios e Empreendedorismo",
+        "name": "Gestão de Negócios e Empreendedorismo",
         "coordinators": [
           "Jamil Lopes, Marco Lagoa"
         ],
-        "talks": []
+        "talks": [
+          {
+            "title": "Papel da Gestão de Mudança para adoção de Tecnologias para Gestão de Negócios",
+            "time": "-",
+            "speakers": [
+              "Andre Azevedo"
+            ]
+          },
+          {
+            "title": "Tecnologia sem propósito é vazia",
+            "time": "-",
+            "speakers": [
+              "Joel de Oliveira junior"
+            ]
+          },
+          {
+            "title": "Desafios técnicos para colaboração no trabalho híbrido",
+            "time": "-",
+            "speakers": [
+              "Marco Lagoa"
+            ]
+          },
+          {
+            "title": "Uma conversa sobre patentes em 4 pontos",
+            "time": "-",
+            "speakers": [
+              "Henry Jun Suzuki"
+            ]
+          },
+          {
+            "title": "Marketing Sem Desculpas Como a IA Pode Otimizar Sua Comunicação e Gerar Resultado Real",
+            "time": "-",
+            "speakers": [
+              "Francisco Garré"
+            ]
+          },
+          {
+            "title": "Tirando sua startup do papel com github spark  github copilot",
+            "time": "-",
+            "speakers": [
+              "Kamila Santos"
+            ]
+          },
+          {
+            "title": "Comunidade tech o poder da colaboração",
+            "time": "-",
+            "speakers": [
+              "Alexandre Ballestero de Paula"
+            ]
+          }
+        ]
       },
       {
         "name": "Inteligencia Artificial",
@@ -45,137 +855,24 @@
         ],
         "talks": [
           {
-            "title": "A Nova Stack do Desenvolvedor Humano  IA ou o Início do Caos",
+            "title": "O Poder dos Agentes Crie Ações com Microsoft 365 Copilot e Copilot Studio",
             "time": "-",
             "speakers": [
-              "Marcelo Paiva"
+              "Danilo Nogueira"
             ]
           },
           {
-            "title": "AI Builder Modelos x Prompts Personalizados como usar e qual usar",
+            "title": "O Futuro da Administração do 365 com Copilot O Que Esperar",
             "time": "-",
             "speakers": [
-              "Allan Prado de Oliveira Moura"
+              "Bruno Leires"
             ]
           },
           {
-            "title": "Como Construir seu Próprio Copilot com a Stack de IA da Microsoft",
+            "title": "Plugins no Semantic Kernel A Ponte entre IA e Sistemas Corporativos",
             "time": "-",
             "speakers": [
-              "Shirley Rios"
-            ]
-          },
-          {
-            "title": "Como criar um sistema multiagentes",
-            "time": "-",
-            "speakers": [
-              "Henrique Oliveira Melo"
-            ]
-          },
-          {
-            "title": "Copilot e Microsoft 365 para Presales arquitetos e gestores de negócios",
-            "time": "-",
-            "speakers": [
-              "Fábio Silva"
-            ]
-          },
-          {
-            "title": "Copilot no mundo real como a IA está empoderando profissionais além do Dev",
-            "time": "-",
-            "speakers": [
-              "Angelo Gustavo Dias Matias"
-            ]
-          },
-          {
-            "title": "Criando Aplicações Multi Agentes com o Azure AI Foundry",
-            "time": "-",
-            "speakers": [
-              "Talles Destani de Souza Valiatti",
-              "Carlos Tiago Machel da Silva"
-            ]
-          },
-          {
-            "title": "De Estudante ao Mundo Minha Jornada como Estudante Embaixador Microsoft e MVP",
-            "time": "-",
-            "speakers": [
-              "Felipe Chikuji"
-            ]
-          },
-          {
-            "title": "Desenvolve para Inclusão com IA An Azure Story",
-            "time": "-",
-            "speakers": [
-              "André Melancia"
-            ]
-          },
-          {
-            "title": "Desmistificando a IA Responsável Da Teoria à Implementação",
-            "time": "-",
-            "speakers": [
-              "Ana Clara de Andrade Mioto"
-            ]
-          },
-          {
-            "title": "Do protótipo NoCode ao Código",
-            "time": "-",
-            "speakers": [
-              "Joaquim José da Fonseca Viana"
-            ]
-          },
-          {
-            "title": "Do Raciocínio à Execução Engenharia de Prompt Avançada para Programadores",
-            "time": "-",
-            "speakers": [
-              "Glaucio Daniel"
-            ]
-          },
-          {
-            "title": "Elevando a maturidade operacional com AIOps em ambientes críticos",
-            "time": "-",
-            "speakers": [
-              "Rafael Cardoso"
-            ]
-          },
-          {
-            "title": "Em um mundo de IAs quem tem Agentes é Rei",
-            "time": "-",
-            "speakers": [
-              "Henrique Souza"
-            ]
-          },
-          {
-            "title": "Governança de Dados O pilar fundamental para o sucesso da IA nas empresas",
-            "time": "-",
-            "speakers": [
-              "Bergson Lopes Rego"
-            ]
-          },
-          {
-            "title": "Governança sem frescuras Itens indispensáveis para modelos de IA Eficientes",
-            "time": "-",
-            "speakers": [
-              "Nelson Edson Anchite Junior"
-            ]
-          },
-          {
-            "title": "Hacking Azure AI",
-            "time": "-",
-            "speakers": [
-              "André Melancia"
-            ]
-          },
-          {
-            "title": "Human Extended Cognition  How Natural Language Interface Unlocks Unprecedent Levels of Intelligence",
-            "time": "-",
-            "speakers": [
-              "Rogerio Rodrigues"
-            ]
-          },
-          {
-            "title": "IA Back to Basics  Primeiros passo com Computer Vision",
-            "time": "-",
-            "speakers": [
-              "Claudenir Andrade"
+              "Felipe Augusto"
             ]
           },
           {
@@ -193,24 +890,10 @@
             ]
           },
           {
-            "title": "Integrando o Microsoft GraphRAG no Neo4j",
+            "title": "De Estudante ao Mundo Minha Jornada como Estudante Embaixador Microsoft e MVP",
             "time": "-",
             "speakers": [
-              "Eliézer Zarpelão"
-            ]
-          },
-          {
-            "title": "Introdução ao Copilot no Microsoft Fabric",
-            "time": "-",
-            "speakers": [
-              "Sidney Oliveira Cirqueira"
-            ]
-          },
-          {
-            "title": "Melting AI Foundry An Evil Azure Story",
-            "time": "-",
-            "speakers": [
-              "André Melancia"
+              "Felipe Chikuji"
             ]
           },
           {
@@ -221,52 +904,10 @@
             ]
           },
           {
-            "title": "O Agente de IA que Conversa com Seus Dados no Power BI",
-            "time": "-",
-            "speakers": [
-              "Gerson Viergutz"
-            ]
-          },
-          {
-            "title": "O Futuro da Administração do 365 com Copilot O Que Esperar",
-            "time": "-",
-            "speakers": [
-              "Bruno Leires"
-            ]
-          },
-          {
-            "title": "O Poder dos Agentes Crie Ações com Microsoft 365 Copilot e Copilot Studio",
-            "time": "-",
-            "speakers": [
-              "Danilo Nogueira"
-            ]
-          },
-          {
-            "title": "O poder e a mágica do MCP",
-            "time": "-",
-            "speakers": [
-              "Morganna Giovanelli"
-            ]
-          },
-          {
             "title": "Orquestração de Agentes com MCP e A2A",
             "time": "-",
             "speakers": [
               "Glaucio Daniel"
-            ]
-          },
-          {
-            "title": "Plugins no Semantic Kernel A Ponte entre IA e Sistemas Corporativos",
-            "time": "-",
-            "speakers": [
-              "Felipe Augusto"
-            ]
-          },
-          {
-            "title": "Por onde começar O Básico da Inteligência Artificial e os vários usos prontos na Azure",
-            "time": "-",
-            "speakers": [
-              "Felipe Chikuji"
             ]
           },
           {
@@ -277,10 +918,178 @@
             ]
           },
           {
+            "title": "A Nova Stack do Desenvolvedor Humano  IA ou o Início do Caos",
+            "time": "-",
+            "speakers": [
+              "Marcelo Paiva"
+            ]
+          },
+          {
+            "title": "Criando Aplicações Multi Agentes com o Azure AI Foundry",
+            "time": "-",
+            "speakers": [
+              "Talles Destani de Souza Valiatti / Carlos Tiago Machel da Silva"
+            ]
+          },
+          {
+            "title": "IA Back to Basics  Primeiros passo com Computer Vision",
+            "time": "-",
+            "speakers": [
+              "Claudenir Andrade"
+            ]
+          },
+          {
+            "title": "O Agente de IA que Conversa com Seus Dados no Power BI",
+            "time": "-",
+            "speakers": [
+              "Gerson Viergutz"
+            ]
+          },
+          {
+            "title": "Hacking Azure AI",
+            "time": "-",
+            "speakers": [
+              "André Melancia"
+            ]
+          },
+          {
+            "title": "Desenvolve para Inclusão com IA An Azure Story",
+            "time": "-",
+            "speakers": [
+              "André Melancia"
+            ]
+          },
+          {
+            "title": "Melting AI Foundry An Evil Azure Story",
+            "time": "-",
+            "speakers": [
+              "André Melancia"
+            ]
+          },
+          {
+            "title": "AI Builder Modelos x Prompts Personalizados como usar e qual usar",
+            "time": "-",
+            "speakers": [
+              "Allan Prado de Oliveira Moura"
+            ]
+          },
+          {
+            "title": "Governança de Dados O pilar fundamental para o sucesso da IA nas empresas",
+            "time": "-",
+            "speakers": [
+              "Bergson Lopes Rego"
+            ]
+          },
+          {
+            "title": "Desmistificando a IA Responsável Da Teoria à Implementação",
+            "time": "-",
+            "speakers": [
+              "Ana Clara de Andrade Mioto"
+            ]
+          },
+          {
+            "title": "Copilot e Microsoft 365 para Presales arquitetos e gestores de negócios",
+            "time": "-",
+            "speakers": [
+              "Fábio Silva"
+            ]
+          },
+          {
+            "title": "Em um mundo de IAs quem tem Agentes é Rei",
+            "time": "-",
+            "speakers": [
+              "Henrique Souza"
+            ]
+          },
+          {
+            "title": "Como Construir seu Próprio Copilot com a Stack de IA da Microsoft",
+            "time": "-",
+            "speakers": [
+              "Shirley Rios"
+            ]
+          },
+          {
+            "title": "O poder e a mágica do MCP",
+            "time": "-",
+            "speakers": [
+              "Morganna Giovanelli"
+            ]
+          },
+          {
+            "title": "Elevando a maturidade operacional com AIOps em ambientes críticos",
+            "time": "-",
+            "speakers": [
+              "Rafael Cardoso"
+            ]
+          },
+          {
+            "title": "Introdução ao Copilot no Microsoft Fabric",
+            "time": "-",
+            "speakers": [
+              "Sidney Oliveira Cirqueira"
+            ]
+          },
+          {
+            "title": "Integrando o Microsoft GraphRAG no Neo4j",
+            "time": "-",
+            "speakers": [
+              "Eliézer Zarpelão"
+            ]
+          },
+          {
+            "title": "Governança sem frescuras Itens indispensáveis para modelos de IA Eficientes",
+            "time": "-",
+            "speakers": [
+              "Nelson Edson Anchite Junior"
+            ]
+          },
+          {
+            "title": "Human Extended Cognition  How Natural Language Interface Unlocks Unprecedent Levels of Intelligence",
+            "time": "-",
+            "speakers": [
+              "Rogerio Rodrigues"
+            ]
+          },
+          {
+            "title": "Copilot no mundo real como a IA está empoderando profissionais além do Dev",
+            "time": "-",
+            "speakers": [
+              "Angelo Gustavo Dias Matias"
+            ]
+          },
+          {
+            "title": "Como criar um sistema multiagentes",
+            "time": "-",
+            "speakers": [
+              "Henrique Oliveira Melo"
+            ]
+          },
+          {
             "title": "Você está utilizando a IA da maneira correta",
             "time": "-",
             "speakers": [
               "Felipe Mikio Ramos Nakamaru"
+            ]
+          },
+          {
+            "title": "Por onde começar O Básico da Inteligência Artificial e os vários usos prontos na Azure",
+            "time": "-",
+            "speakers": [
+              "Felipe Chikuji"
+            ]
+          },
+          {
+            "title": "Do protótipo NoCode ao Código",
+            "time": "-",
+            "speakers": [
+              "Joaquim José da Fonseca Viana"
+            ]
+          },
+          {
+            "title": "Do Raciocínio à Execução Engenharia de Prompt Avançada para Programadores",
+            "time": "-",
+            "speakers": [
+              "Glaucio Daniel"
             ]
           }
         ]
@@ -290,28 +1099,417 @@
         "coordinators": [
           "Fábio Gatti, João Benito, Thais Mafra"
         ],
-        "talks": []
+        "talks": [
+          {
+            "title": "O Poder das Matrizes Dinâmicas no Excel 365",
+            "time": "-",
+            "speakers": [
+              "Fábio Gatti"
+            ]
+          }
+        ]
       },
       {
         "name": "Microsoft Azure",
         "coordinators": [
           "Diego Matos, Renato Groffe, Milton Camara"
         ],
-        "talks": []
+        "talks": [
+          {
+            "title": "Descomplicando Migrações Cloud",
+            "time": "-",
+            "speakers": [
+              "Everaldo Oliveira da Silva"
+            ]
+          },
+          {
+            "title": "GreenOps Da Fundação à Inovação Sustentável na Cloud Azure",
+            "time": "-",
+            "speakers": [
+              "Rafael Martin Alves Ferreira"
+            ]
+          },
+          {
+            "title": "Infraestrutura moderna com Azure Local e Azure Arc",
+            "time": "-",
+            "speakers": [
+              "Elton Bordim"
+            ]
+          },
+          {
+            "title": "Azure para Recuperação de Desastres O Caso da Enchente no RS",
+            "time": "-",
+            "speakers": [
+              "Diego Moreira Matos"
+            ]
+          },
+          {
+            "title": "Migrando sua Infraestrutura para Nuvem  Projeto Real",
+            "time": "-",
+            "speakers": [
+              "Francisco José Ferreira"
+            ]
+          },
+          {
+            "title": "BlueGreen Deployment no App Service",
+            "time": "-",
+            "speakers": [
+              "Renicius Pagotto / Ana Carolina Manzan"
+            ]
+          },
+          {
+            "title": "Azure VMware Solution Acelerando a Modernização de Data Centers com Escalabilidade e Agilidade na Nuvem",
+            "time": "-",
+            "speakers": [
+              "Daniel Ribeiro"
+            ]
+          },
+          {
+            "title": "Aposentando seu WSUS com o Azure ARC",
+            "time": "-",
+            "speakers": [
+              "Andre Luiz Mattos Oliveira"
+            ]
+          },
+          {
+            "title": "Chega de Sofrer com Kubernetes Como Escalar Containers com Simplicidade usando o Azure Container Apps",
+            "time": "-",
+            "speakers": [
+              "Guilherme Maia"
+            ]
+          },
+          {
+            "title": "Event Driven da forma correta com Azure Service Bus e Functions",
+            "time": "-",
+            "speakers": [
+              "Lucas Massena"
+            ]
+          },
+          {
+            "title": "Governança e Segurança em APIs REST tirando o melhor proveito de APIs Gateways",
+            "time": "-",
+            "speakers": [
+              "Renato Groffe / Angelo Belchior"
+            ]
+          },
+          {
+            "title": "Message Broker com Azure Service Bus",
+            "time": "-",
+            "speakers": [
+              "Felipe Augusto"
+            ]
+          },
+          {
+            "title": "Microsoft Entra Private Access em Ação O Fim da VPN como Você Conhece",
+            "time": "-",
+            "speakers": [
+              "Raphael Andrade"
+            ]
+          },
+          {
+            "title": "Hacking Azure cloud security session",
+            "time": "-",
+            "speakers": [
+              "André Melancia"
+            ]
+          },
+          {
+            "title": "Olha mãe sem senhas  Como utilizar Managed Identity no Azure",
+            "time": "-",
+            "speakers": [
+              "Vinicius Deschamps"
+            ]
+          },
+          {
+            "title": "Finops no Azure por onde começar",
+            "time": "-",
+            "speakers": [
+              "Rafael Alves Amaral"
+            ]
+          },
+          {
+            "title": "Devops com Azure e seu ecosistema",
+            "time": "-",
+            "speakers": [
+              "Fábio Silva"
+            ]
+          },
+          {
+            "title": "Azure Front Door na Arquitetura Global Otimizando Roteamento Segurança e Escalabilidade",
+            "time": "-",
+            "speakers": [
+              "Ana Carolina Manzan"
+            ]
+          },
+          {
+            "title": "Desvendando o Azure Functions Java vs TypeScript vs C na prática",
+            "time": "-",
+            "speakers": [
+              "Rodrigo Tavares"
+            ]
+          }
+        ]
       },
       {
         "name": "Quantum Computing",
         "coordinators": [
           "Anderson Fernandes Pereira dos Santos, Leonardo Rossato, Rosangela Maraschin"
         ],
-        "talks": []
+        "talks": [
+          {
+            "title": "Aplicações tecnológicas da Computação Quântica que futuro esperamos",
+            "time": "-",
+            "speakers": [
+              "Leonardo Camargo Rossato"
+            ]
+          },
+          {
+            "title": "Desafios para a Segurança Cibernética a partir da Computação Quântica",
+            "time": "-",
+            "speakers": [
+              "Anderson Fernandes Pereira dos Santos"
+            ]
+          },
+          {
+            "title": "O Código Invisível do Vale do Silício Os Bastidores do Ecossistema que Constrói o Futuro",
+            "time": "-",
+            "speakers": [
+              "Cynthia Michels"
+            ]
+          },
+          {
+            "title": "Impactos das Tecnologias do Futuro Computação Quântica Inteligência Artificial e Robotização",
+            "time": "-",
+            "speakers": [
+              "Wilson Fonseca"
+            ]
+          },
+          {
+            "title": "O que é Computação e Tecnologias Quânticas",
+            "time": "-",
+            "speakers": [
+              "Carlos Rischioto"
+            ]
+          },
+          {
+            "title": "Quantum Agro e Modelagem Climática Fina com Algoritmos Quânticos",
+            "time": "-",
+            "speakers": [
+              "Gustavo Arruda"
+            ]
+          },
+          {
+            "title": "Criptografia em Xeque O Futuro da Segurança na Era da Computação Quântica",
+            "time": "-",
+            "speakers": [
+              "Luiz Augusto"
+            ]
+          },
+          {
+            "title": "Da Computação Quântica à Sociedade Desafios e Curiosidades de um Projeto Brasileiro",
+            "time": "-",
+            "speakers": [
+              "Leonardo Rossato / Luiz Augusto / Heber Lopes / Cynthia Michels / Carlos Rischioto"
+            ]
+          }
+        ]
       },
       {
         "name": "Security",
         "coordinators": [
           "Daniel Donda, Rebecca Frade"
         ],
-        "talks": []
+        "talks": [
+          {
+            "title": "O Jogo dos Hackers  Como os Hackers de Elite Atacam e Como Caçálos",
+            "time": "-",
+            "speakers": [
+              "Daniel Donda"
+            ]
+          },
+          {
+            "title": "Utilizando o Microsoft Defender for Cloud para proteger a sua estratégia multicloud",
+            "time": "-",
+            "speakers": [
+              "Pedro Ignácio"
+            ]
+          },
+          {
+            "title": "Protegendo Contas Privilegiadas com PIM Access Review e Passkey",
+            "time": "-",
+            "speakers": [
+              "Nathan Pinotti"
+            ]
+          },
+          {
+            "title": "Jornada Zero Trust com Microsoft 365",
+            "time": "-",
+            "speakers": [
+              "Nathan Pinotti"
+            ]
+          },
+          {
+            "title": "Gestão de Identidade com o Entra ID",
+            "time": "-",
+            "speakers": [
+              "Nathan Pinotti"
+            ]
+          },
+          {
+            "title": "Explorando o Defender for Identity",
+            "time": "-",
+            "speakers": [
+              "Nathan Pinotti"
+            ]
+          },
+          {
+            "title": "Entra ID e Intune Gerenciando dispositivos com base no modelo Zero Trust",
+            "time": "-",
+            "speakers": [
+              "Henver Rodrigo Gomes Soares"
+            ]
+          },
+          {
+            "title": "Threat Hunting baseado na MITRE ATTCK com KQL no Microsoft Sentinel",
+            "time": "-",
+            "speakers": [
+              "Rebecca Frade"
+            ]
+          },
+          {
+            "title": "Segurança em containers boas práticas ferramentas pontos de atenção",
+            "time": "-",
+            "speakers": [
+              "Renato Groffe / Diego Moreira Matos"
+            ]
+          },
+          {
+            "title": "Como o MS Purview se Integra no Ecossistema Microsoft",
+            "time": "-",
+            "speakers": [
+              "Chesley Rocha Silva"
+            ]
+          },
+          {
+            "title": "OWASP API Security Top 10 recomendações importantes para tornar suas APIs mais seguras",
+            "time": "-",
+            "speakers": [
+              "Thiago Bertuzzi"
+            ]
+          },
+          {
+            "title": "Elevando a Segurança do seu Windows Server",
+            "time": "-",
+            "speakers": [
+              "Thiago Muniz dos Santos"
+            ]
+          },
+          {
+            "title": "Ransomware Phishing e o Fim da Inocência Digital Como blindar sua empresa em tempos de Ataques Inteligentes",
+            "time": "-",
+            "speakers": [
+              "Flavio Ferreira"
+            ]
+          },
+          {
+            "title": "Proteção da Informação na era da IA",
+            "time": "-",
+            "speakers": [
+              "Chesley Rocha Silva"
+            ]
+          },
+          {
+            "title": "Segurança pontaaponta na era da IA",
+            "time": "-",
+            "speakers": [
+              "Fernando Henrique da Silva"
+            ]
+          },
+          {
+            "title": "Purview  DSPM for AI O Futuro da Proteção de Dados",
+            "time": "-",
+            "speakers": [
+              "Júlio César Gonçalves Vasconcelos"
+            ]
+          },
+          {
+            "title": "Thundera Tecnicas de recon para ver além do alcance",
+            "time": "-",
+            "speakers": [
+              "Gustavo Marques Redol Baptista"
+            ]
+          },
+          {
+            "title": "Nossa Missão Invisível Como o Microsoft Sentinel pode reforçar o que ainda não vemos",
+            "time": "-",
+            "speakers": [
+              "Felipe Mikio Ramos Nakamaru"
+            ]
+          },
+          {
+            "title": "OffenseDrive Detection Engineering",
+            "time": "-",
+            "speakers": [
+              "Paulo André Trindade da Cunha"
+            ]
+          },
+          {
+            "title": "Microsoft Security  Defendendose contra ameaças Cibernéticas antes que ocorram",
+            "time": "-",
+            "speakers": [
+              "Denis Vinícius de Mello"
+            ]
+          },
+          {
+            "title": "Wazuh  SIEM  Desmistificando",
+            "time": "-",
+            "speakers": [
+              "Alessandro Silva Ferreira"
+            ]
+          },
+          {
+            "title": "Intensivão SC900",
+            "time": "-",
+            "speakers": [
+              "Eduardo Popovici"
+            ]
+          },
+          {
+            "title": "O que é Zero Trust e como o Intune protege dispositivos Windows e móveis",
+            "time": "-",
+            "speakers": [
+              "Henver Rodrigo Gomes Soares"
+            ]
+          },
+          {
+            "title": "Implementando Zero Trust no dia a dia com o Microsoft Intune",
+            "time": "-",
+            "speakers": [
+              "Henver Rodrigo Gomes Soares"
+            ]
+          },
+          {
+            "title": "Zero Trust avançado Integrações entre Intune Defender Endpoint e Entra ID",
+            "time": "-",
+            "speakers": [
+              "Henver Rodrigo Gomes Soares"
+            ]
+          },
+          {
+            "title": "Zero Trust de ponta a ponta com Microsoft Intune Entra ID e Endpoint DLP",
+            "time": "-",
+            "speakers": [
+              "Henver Rodrigo Gomes Soares"
+            ]
+          },
+          {
+            "title": "Zero Trust sem mistério Como aplicar no dia a dia",
+            "time": "-",
+            "speakers": [
+              "Sarah Akemi D’arc Saitu Campos"
+            ]
+          }
+        ]
       }
     ]
   },
@@ -324,70 +1522,70 @@
         "coordinators": [
           "Daniel Petrin, Danilo Ciciliotti, Marcelo Pacifico "
         ],
-        "talks": []
+        "talks": [ ]
       },
       {
         "name": "Cloud & Datacenter",
         "coordinators": [
           "Elton Bordim, Josue Vidal, Vinicius Mozart"
         ],
-        "talks": []
+        "talks": [ ]
       },
       {
         "name": "Data Platform",
         "coordinators": [
           "Guilherme Salles,  Hugo Venturini, Luiz Gustavo Serra"
         ],
-        "talks": []
+        "talks": [ ]
       },
       {
         "name": "Developer Technologies",
         "coordinators": [
-          "Bruno Brito, Carlos dos Santos,  Renicius Pagottto, Talles Destani de Souza Valiatti, Tania Stormovski, Vinicius Moura"
+          "Bruno Brito, Carlos Santos,  Renicius Pagotto, Talles Valiatti, Tania Stormovsky, Vinicius Moura"
         ],
-        "talks": []
+        "talks": [ ]
       },
       {
         "name": "Gestao de Negocios e Empreendedorismo",
         "coordinators": [
-          "Jamil Lopes, Marco Aurélio Gardini Lagoa"
+          "Jamil Lopes, Marco Lagoa"
         ],
-        "talks": []
+        "talks": [ ]
       },
       {
         "name": "Inteligencia Artificial",
         "coordinators": [
-          "Felipe Chikuji, Jorge Maia, Sulamita Dantas"
+          "Felipe Kenji Chikuji, Jorge Maia, Sulamita Dantas"
         ],
-        "talks": []
+        "talks": [ ]
       },
       {
         "name": "Microsoft 365",
         "coordinators": [
-          "Fábio de Carvalho Gatti, João Benito, Thais Mafra"
+          "Fábio Gatti, João Benito, Thais Mafra"
         ],
-        "talks": []
+        "talks": [ ]
       },
       {
         "name": "Microsoft Azure",
         "coordinators": [
-          "Diego Moreira Matos, Renato Groffe"
+          "Diego Matos, Renato Groffe, Milton Camara"
         ],
-        "talks": []
+        "talks": [ ]
       },
       {
         "name": "Quantum Computing",
         "coordinators": [
-          "Anderson Santos, Leonardo Rossato, Rosangela Maraschin"
+          "Anderson Fernandes Pereira dos Santos, Leonardo Rossato, Rosangela Maraschin"
         ],
-        "talks": []
+        "talks": [ ]
       },
       {
         "name": "Security",
         "coordinators": [
-          "Daniel Donda, Rebecca Paola Cesar Frade"
+          "Daniel Donda, Rebecca Frade"
         ],
-        "talks": []
+        "talks": [ ]
       }
     ]
   }
