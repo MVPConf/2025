@@ -5,6 +5,19 @@
         "tracks": [
             {
                 "name": "Business Application",
+                "ui": {
+                    "mainColor": "#2B579A",
+                    "shadowColor": "#0f172a",
+                    "leftAccentDefault": "#2B579A",
+                    "timeText": "#056ACB",
+                    "timeBadgeBg": "rgba(5,106,203,0.08)",
+                    "roomBadgeBg": "rgba(107,114,128,0.06)",
+                    "roomText": "#6b7280",
+                    "titleText": "#0f172a",
+                    "speakerPillBg": "rgba(5,106,203,0.12)",
+                    "speakerPillLabel": "#056ACB",
+                    "descriptionText": "#374151"
+                },
                 "coordinators": [
                     "Daniel Petrin, Danilo Ciciliotti, Marcelo Pacifico "
                 ],
@@ -79,6 +92,19 @@
             },
             {
                 "name": "Cloud \u0026 Datacenter",
+                "ui": {
+                    "mainColor": "#217346",
+                    "shadowColor": "#0f172a",
+                    "leftAccentDefault": "#217346",
+                    "timeText": "#056ACB",
+                    "timeBadgeBg": "rgba(5,106,203,0.08)",
+                    "roomBadgeBg": "rgba(107,114,128,0.06)",
+                    "roomText": "#6b7280",
+                    "titleText": "#0f172a",
+                    "speakerPillBg": "rgba(5,106,203,0.12)",
+                    "speakerPillLabel": "#056ACB",
+                    "descriptionText": "#374151"
+                },
                 "coordinators": [
                     "Elton Bordim, Josue Vidal, Vinicius Mozart"
                 ],
@@ -208,6 +234,19 @@
             },
             {
                 "name": "Data Platform",
+                "ui": {
+                    "mainColor": "#ED6C47",
+                    "shadowColor": "#0f172a",
+                    "leftAccentDefault": "#ED6C47",
+                    "timeText": "#056ACB",
+                    "timeBadgeBg": "rgba(5,106,203,0.08)",
+                    "roomBadgeBg": "rgba(107,114,128,0.06)",
+                    "roomText": "#6b7280",
+                    "titleText": "#0f172a",
+                    "speakerPillBg": "rgba(5,106,203,0.12)",
+                    "speakerPillLabel": "#056ACB",
+                    "descriptionText": "#374151"
+                },
                 "coordinators": [
                     "Hugo Venturini, Luiz Gustavo Serra"
                 ],
@@ -458,6 +497,19 @@
             },
             {
                 "name": "Developer Technologies",
+                "ui": {
+                    "mainColor": "#0078D4",
+                    "shadowColor": "#0f172a",
+                    "leftAccentDefault": "#0078D4",
+                    "timeText": "#056ACB",
+                    "timeBadgeBg": "rgba(5,106,203,0.08)",
+                    "roomBadgeBg": "rgba(107,114,128,0.06)",
+                    "roomText": "#6b7280",
+                    "titleText": "#0f172a",
+                    "speakerPillBg": "rgba(5,106,203,0.12)",
+                    "speakerPillLabel": "#056ACB",
+                    "descriptionText": "#374151"
+                },
                 "coordinators": [
                     "Bruno Brito, Carlos Santos,  Renicius Pagotto, Talles Valiatti, Tania Stormovsky, Vinicius Moura"
                 ],
@@ -532,6 +584,19 @@
             },
             {
                 "name": "Gest\u00E3o de Neg\u00F3cios e Empreendedorismo",
+                "ui": {
+                    "mainColor": "#7719AA",
+                    "shadowColor": "#0f172a",
+                    "leftAccentDefault": "#7719AA",
+                    "timeText": "#056ACB",
+                    "timeBadgeBg": "rgba(5,106,203,0.08)",
+                    "roomBadgeBg": "rgba(107,114,128,0.06)",
+                    "roomText": "#6b7280",
+                    "titleText": "#0f172a",
+                    "speakerPillBg": "rgba(5,106,203,0.12)",
+                    "speakerPillLabel": "#056ACB",
+                    "descriptionText": "#374151"
+                },
                 "coordinators": [
                     "Jamil Lopes, Marco Lagoa"
                 ],
@@ -606,6 +671,19 @@
             },
             {
                 "name": "Inteligencia Artificial",
+                "ui": {
+                    "mainColor": "#6264A7",
+                    "shadowColor": "#0f172a",
+                    "leftAccentDefault": "#6264A7",
+                    "timeText": "#056ACB",
+                    "timeBadgeBg": "rgba(5,106,203,0.08)",
+                    "roomBadgeBg": "rgba(107,114,128,0.06)",
+                    "roomText": "#6b7280",
+                    "titleText": "#0f172a",
+                    "speakerPillBg": "rgba(5,106,203,0.12)",
+                    "speakerPillLabel": "#056ACB",
+                    "descriptionText": "#374151"
+                },
                 "coordinators": [
                     "Felipe Kenji Chikuji, Jorge Maia, Sulamita Dantas"
                 ],
@@ -790,6 +868,19 @@
             },
             {
                 "name": "Microsoft 365",
+                "ui": {
+                    "mainColor": "#008272",
+                    "shadowColor": "#0f172a",
+                    "leftAccentDefault": "#008272",
+                    "timeText": "#056ACB",
+                    "timeBadgeBg": "rgba(5,106,203,0.08)",
+                    "roomBadgeBg": "rgba(107,114,128,0.06)",
+                    "roomText": "#6b7280",
+                    "titleText": "#0f172a",
+                    "speakerPillBg": "rgba(5,106,203,0.12)",
+                    "speakerPillLabel": "#056ACB",
+                    "descriptionText": "#374151"
+                },
                 "coordinators": [
                     "F\u00E1bio Gatti, Jo\u00E3o Benito, Thais Mafra"
                 ],
@@ -919,6 +1010,19 @@
             },
             {
                 "name": "Microsoft Azure",
+                "ui": {
+                    "mainColor": "#0364B8",
+                    "shadowColor": "#0f172a",
+                    "leftAccentDefault": "#0364B8",
+                    "timeText": "#056ACB",
+                    "timeBadgeBg": "rgba(5,106,203,0.08)",
+                    "roomBadgeBg": "rgba(107,114,128,0.06)",
+                    "roomText": "#6b7280",
+                    "titleText": "#0f172a",
+                    "speakerPillBg": "rgba(5,106,203,0.12)",
+                    "speakerPillLabel": "#056ACB",
+                    "descriptionText": "#374151"
+                },
                 "coordinators": [
                     "Diego Matos, Renato Groffe, Milton Camara"
                 ],
@@ -1059,6 +1163,19 @@
             },
             {
                 "name": "Quantum Computing",
+                "ui": {
+                    "mainColor": "#A4373A",
+                    "shadowColor": "#0f172a",
+                    "leftAccentDefault": "#A4373A",
+                    "timeText": "#056ACB",
+                    "timeBadgeBg": "rgba(5,106,203,0.08)",
+                    "roomBadgeBg": "rgba(107,114,128,0.06)",
+                    "roomText": "#6b7280",
+                    "titleText": "#0f172a",
+                    "speakerPillBg": "rgba(5,106,203,0.12)",
+                    "speakerPillLabel": "#056ACB",
+                    "descriptionText": "#374151"
+                },
                 "coordinators": [
                     "Anderson Fernandes Pereira dos Santos, Leonardo Rossato, Rosangela Maraschin"
                 ],
@@ -1133,6 +1250,19 @@
             },
             {
                 "name": "Security",
+                "ui": {
+                    "mainColor": "#00B294",
+                    "shadowColor": "#0f172a",
+                    "leftAccentDefault": "#00B294",
+                    "timeText": "#056ACB",
+                    "timeBadgeBg": "rgba(5,106,203,0.08)",
+                    "roomBadgeBg": "rgba(107,114,128,0.06)",
+                    "roomText": "#6b7280",
+                    "titleText": "#0f172a",
+                    "speakerPillBg": "rgba(5,106,203,0.12)",
+                    "speakerPillLabel": "#056ACB",
+                    "descriptionText": "#374151"
+                },
                 "coordinators": [
                     "Daniel Donda, Rebecca Frade, Eduardo Popovici"
                 ],
@@ -1301,6 +1431,19 @@
         "tracks": [
             {
                 "name": "Business Application",
+                "ui": {
+                    "mainColor": "#2B579A",
+                    "shadowColor": "#0f172a",
+                    "leftAccentDefault": "#2B579A",
+                    "timeText": "#056ACB",
+                    "timeBadgeBg": "rgba(5,106,203,0.08)",
+                    "roomBadgeBg": "rgba(107,114,128,0.06)",
+                    "roomText": "#6b7280",
+                    "titleText": "#0f172a",
+                    "speakerPillBg": "rgba(5,106,203,0.12)",
+                    "speakerPillLabel": "#056ACB",
+                    "descriptionText": "#374151"
+                },
                 "coordinators": [
                     "Daniel Petrin, Danilo Ciciliotti, Marcelo Pacifico "
                 ],
@@ -1364,6 +1507,19 @@
             },
             {
                 "name": "Cloud \u0026 Datacenter",
+                "ui": {
+                    "mainColor": "#217346",
+                    "shadowColor": "#0f172a",
+                    "leftAccentDefault": "#217346",
+                    "timeText": "#056ACB",
+                    "timeBadgeBg": "rgba(5,106,203,0.08)",
+                    "roomBadgeBg": "rgba(107,114,128,0.06)",
+                    "roomText": "#6b7280",
+                    "titleText": "#0f172a",
+                    "speakerPillBg": "rgba(5,106,203,0.12)",
+                    "speakerPillLabel": "#056ACB",
+                    "descriptionText": "#374151"
+                },
                 "coordinators": [
                     "Elton Bordim, Josue Vidal, Vinicius Mozart"
                 ],
@@ -1438,6 +1594,19 @@
             },
             {
                 "name": "Data Platform",
+                "ui": {
+                    "mainColor": "#ED6C47",
+                    "shadowColor": "#0f172a",
+                    "leftAccentDefault": "#ED6C47",
+                    "timeText": "#056ACB",
+                    "timeBadgeBg": "rgba(5,106,203,0.08)",
+                    "roomBadgeBg": "rgba(107,114,128,0.06)",
+                    "roomText": "#6b7280",
+                    "titleText": "#0f172a",
+                    "speakerPillBg": "rgba(5,106,203,0.12)",
+                    "speakerPillLabel": "#056ACB",
+                    "descriptionText": "#374151"
+                },
                 "coordinators": [
                     "Hugo Venturini, Luiz Gustavo Serra"
                 ],
@@ -1677,6 +1846,19 @@
             },
             {
                 "name": "Developer Technologies",
+                "ui": {
+                    "mainColor": "#0078D4",
+                    "shadowColor": "#0f172a",
+                    "leftAccentDefault": "#0078D4",
+                    "timeText": "#056ACB",
+                    "timeBadgeBg": "rgba(5,106,203,0.08)",
+                    "roomBadgeBg": "rgba(107,114,128,0.06)",
+                    "roomText": "#6b7280",
+                    "titleText": "#0f172a",
+                    "speakerPillBg": "rgba(5,106,203,0.12)",
+                    "speakerPillLabel": "#056ACB",
+                    "descriptionText": "#374151"
+                },
                 "coordinators": [
                     "Bruno Brito, Carlos Santos,  Renicius Pagotto, Talles Valiatti, Tania Stormovsky, Vinicius Moura"
                 ],
@@ -1762,6 +1944,19 @@
             },
             {
                 "name": "Gestao de Negocios e Empreendedorismo",
+                "ui": {
+                    "mainColor": "#7719AA",
+                    "shadowColor": "#0f172a",
+                    "leftAccentDefault": "#7719AA",
+                    "timeText": "#056ACB",
+                    "timeBadgeBg": "rgba(5,106,203,0.08)",
+                    "roomBadgeBg": "rgba(107,114,128,0.06)",
+                    "roomText": "#6b7280",
+                    "titleText": "#0f172a",
+                    "speakerPillBg": "rgba(5,106,203,0.12)",
+                    "speakerPillLabel": "#056ACB",
+                    "descriptionText": "#374151"
+                },
                 "coordinators": [
                     "Jamil Lopes, Marco Lagoa"
                 ],
@@ -1769,6 +1964,19 @@
             },
             {
                 "name": "Inteligencia Artificial",
+                "ui": {
+                    "mainColor": "#6264A7",
+                    "shadowColor": "#0f172a",
+                    "leftAccentDefault": "#6264A7",
+                    "timeText": "#056ACB",
+                    "timeBadgeBg": "rgba(5,106,203,0.08)",
+                    "roomBadgeBg": "rgba(107,114,128,0.06)",
+                    "roomText": "#6b7280",
+                    "titleText": "#0f172a",
+                    "speakerPillBg": "rgba(5,106,203,0.12)",
+                    "speakerPillLabel": "#056ACB",
+                    "descriptionText": "#374151"
+                },
                 "coordinators": [
                     "Felipe Kenji Chikuji, Jorge Maia, Sulamita Dantas"
                 ],
@@ -1953,6 +2161,19 @@
             },
             {
                 "name": "Microsoft 365",
+                "ui": {
+                    "mainColor": "#008272",
+                    "shadowColor": "#0f172a",
+                    "leftAccentDefault": "#008272",
+                    "timeText": "#056ACB",
+                    "timeBadgeBg": "rgba(5,106,203,0.08)",
+                    "roomBadgeBg": "rgba(107,114,128,0.06)",
+                    "roomText": "#6b7280",
+                    "titleText": "#0f172a",
+                    "speakerPillBg": "rgba(5,106,203,0.12)",
+                    "speakerPillLabel": "#056ACB",
+                    "descriptionText": "#374151"
+                },
                 "coordinators": [
                     "F\u00E1bio Gatti, Jo\u00E3o Benito, Thais Mafra"
                 ],
@@ -2082,6 +2303,19 @@
             },
             {
                 "name": "Microsoft Azure",
+                "ui": {
+                    "mainColor": "#0364B8",
+                    "shadowColor": "#0f172a",
+                    "leftAccentDefault": "#0364B8",
+                    "timeText": "#056ACB",
+                    "timeBadgeBg": "rgba(5,106,203,0.08)",
+                    "roomBadgeBg": "rgba(107,114,128,0.06)",
+                    "roomText": "#6b7280",
+                    "titleText": "#0f172a",
+                    "speakerPillBg": "rgba(5,106,203,0.12)",
+                    "speakerPillLabel": "#056ACB",
+                    "descriptionText": "#374151"
+                },
                 "coordinators": [
                     "Diego Matos, Renato Groffe, Milton Camara"
                 ],
@@ -2167,6 +2401,19 @@
             },
             {
                 "name": "Quantum Computing",
+                "ui": {
+                    "mainColor": "#A4373A",
+                    "shadowColor": "#0f172a",
+                    "leftAccentDefault": "#A4373A",
+                    "timeText": "#056ACB",
+                    "timeBadgeBg": "rgba(5,106,203,0.08)",
+                    "roomBadgeBg": "rgba(107,114,128,0.06)",
+                    "roomText": "#6b7280",
+                    "titleText": "#0f172a",
+                    "speakerPillBg": "rgba(5,106,203,0.12)",
+                    "speakerPillLabel": "#056ACB",
+                    "descriptionText": "#374151"
+                },
                 "coordinators": [
                     "Anderson Fernandes Pereira dos Santos, Leonardo Rossato, Rosangela Maraschin"
                 ],
@@ -2197,6 +2444,19 @@
             },
             {
                 "name": "Security",
+                "ui": {
+                    "mainColor": "#00B294",
+                    "shadowColor": "#0f172a",
+                    "leftAccentDefault": "#00B294",
+                    "timeText": "#056ACB",
+                    "timeBadgeBg": "rgba(5,106,203,0.08)",
+                    "roomBadgeBg": "rgba(107,114,128,0.06)",
+                    "roomText": "#6b7280",
+                    "titleText": "#0f172a",
+                    "speakerPillBg": "rgba(5,106,203,0.12)",
+                    "speakerPillLabel": "#056ACB",
+                    "descriptionText": "#374151"
+                },
                 "coordinators": [
                     "Daniel Donda, Rebecca Frade, Eduardo Popovici"
                 ],
