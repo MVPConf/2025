@@ -28,7 +28,7 @@
                         "time": "11:00",
                         "room": "Business Application  Sala 1",
                         "speakers": [
-                            "Leonardo Stellfeld  /  Yves Cruzato"
+                            "Leonardo Stellfeld", "Yves Cruzato"
                         ]
                     },
                     {
@@ -39,7 +39,7 @@
                         "time": "14:00",
                         "room": "Business Application  Sala 1",
                         "speakers": [
-                            "Erick Macedo / Diego Giovanni Souza / J\u00FAlia Giovanni"
+                            "Erick Macedo", "Diego Giovanni Souza", "J\u00FAlia Giovanni"
                         ]
                     },
                     {
@@ -124,7 +124,7 @@
                         "time": "11:00",
                         "room": "Cloud  Datacenter Management  Sala 2",
                         "speakers": [
-                            "Renicius Pagotto / Ana Carolina Manzan"
+                            "Renicius Pagotto", "Ana Carolina Manzan"
                         ]
                     },
                     {
@@ -157,7 +157,7 @@
                         "time": "15:00",
                         "room": "Cloud  Datacenter Management  Sala 1",
                         "speakers": [
-                            "Emmanuel Brand\u00E3o / Wesley Camargo"
+                            "Emmanuel Brand\u00E3o", "Wesley Camargo"
                         ]
                     },
                     {
@@ -385,7 +385,7 @@
                         "time": "15:00",
                         "room": "Data Platform  Sala 4",
                         "speakers": [
-                            "Renato Groffe / Murilo Beltrame"
+                            "Renato Groffe", "Murilo Beltrame"
                         ]
                     },
                     {
@@ -964,7 +964,7 @@
                         "time": "11:00",
                         "room": "Microsoft Azure  Sala 2",
                         "speakers": [
-                            "Renicius Pagotto / Ana Carolina Manzan"
+                            "Renicius Pagotto", "Ana Carolina Manzan"
                         ]
                     },
                     {
@@ -1593,7 +1593,7 @@
                         "time": "15:00",
                         "room": "Data Platform  Sala 3",
                         "speakers": [
-                            "Sulamita Dantas / Rafael Gobbi"
+                            "Sulamita Dantas", "Rafael Gobbi"
                         ]
                     },
                     {
@@ -1626,7 +1626,7 @@
                         "time": "16:00",
                         "room": "Data Platform  Sala 3",
                         "speakers": [
-                            "Sulamita Dantas / Rafael Gobbi"
+                            "Sulamita Dantas", "Rafael Gobbi"
                         ]
                     },
                     {
@@ -1814,7 +1814,7 @@
                         "time": "10:00",
                         "room": "Inteligencia Artificial  Sala 2",
                         "speakers": [
-                            "Talles Destani de Souza Valiatti / Carlos Tiago Machel da Silva"
+                            "Talles Destani de Souza Valiatti", "Carlos Tiago Machel da Silva"
                         ]
                     },
                     {
@@ -2138,7 +2138,7 @@
                         "time": "15:00",
                         "room": "Microsoft Azure  Sala 1",
                         "speakers": [
-                            "Renato Groffe / Angelo Belchior"
+                            "Renato Groffe", "Angelo Belchior"
                         ]
                     },
                     {
@@ -2190,7 +2190,7 @@
                         "time": "10:00",
                         "room": "Quantum Computing  Sala 1",
                         "speakers": [
-                            "Leonardo Rossato / Luiz Augusto / Heber Lopes / Cynthia Michels / Carlos Rischioto"
+                            "Leonardo Rossato", "Luiz Augusto", "Heber Lopes", "Cynthia Michels", "Carlos Rischioto"
                         ]
                     }
                 ]
@@ -2242,7 +2242,7 @@
                         "time": "10:00",
                         "room": "Security  Sala 2",
                         "speakers": [
-                            "Renato Groffe / Diego Moreira Matos"
+                            "Renato Groffe", "Diego Moreira Matos"
                         ]
                     },
                     {
