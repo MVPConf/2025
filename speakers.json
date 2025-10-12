@@ -3309,10 +3309,26 @@
                 ""
             ],
             "social": {
-                "linkedin": "https://www.linkedin.com/in/wellwelwel/"
+                "linkedin": "https://www.linkedin.com/in/vinijmoura/"
             },
             "enabled": true,
             "isTrackCoordinator": true,
             "trackName": "Developer Technologies"
+        } ,
+        {
+            "id": "cdef1234-5678-4abc-9def-012345678900",
+            "name": "Maycon Alves",
+            "title": "Senior Consultant on Microsoft Data Platform | Microsoft MVP | MCT Alumni | MTAC",
+            "company": "Ynsize Consultoria",
+            "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Maycon Alves.jpeg",
+            "bio": "",
+            "expertise": [
+                "",
+                ""
+            ],
+            "social": {
+                "linkedin": "https://www.linkedin.com/in/maycon--alves/"
+            },
+            "enabled": true
         }
     ]
