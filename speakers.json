@@ -1722,8 +1722,8 @@
                 "linkedin": "https://www.linkedin.com/in/edupopovhtbraz/"
             },
             "enabled": true,
-            "isTrackCoordinator": false,
-            "trackName": ""
+            "isTrackCoordinator": true,
+            "trackName": "Security"
         },
         {
             "id": "a1b2c3d4-e5f6-7890-1a2b-3c4d5e6f7a81",
