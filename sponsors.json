@@ -33,5 +33,47 @@
       "logo": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/sponsors/microkids.png",
       "tier": "gold",
       "website": "https://microkids.com.br/"
+    },
+    {
+      "id": "f5887ed6-d816-4e6e-8245-77deb37ac7e0",
+      "name": "Hub Connect Eventos",
+      "logo": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/sponsors/hub.jpeg",
+      "tier": "gold",
+      "website": "https://hubconnecteventos.com.br"
+    },
+    {
+      "id": "06f09c9a-2521-4cbf-82a5-bd6cb6309579",
+      "name": "Mundo 365",
+      "logo": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/sponsors/mundo365.png",
+      "tier": "gold",
+      "website": "https://mundo365.com.br"
+    },
+    {
+      "id": "06f09c9a-2521-4cbf-82a5-bd6cb6309579",
+      "name": "TD SYNNEX",
+      "logo": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/sponsors/tdsynnex.png",
+      "tier": "gold",
+      "website": "https://lac.tdsynnex.com/br/pt-br"
+    },
+    {
+      "id": "9f77dfaa-c6f1-4cf6-aefa-3f258e25576f",
+      "name": "ITCore",
+      "logo": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/sponsors/itcore.png",
+      "tier": "gold",
+      "website": "https://www.itcore.com.br"
+    },
+    {
+      "id": "0fab615a-5004-4765-9e9d-b27803464eb4",
+      "name": "Repiper Academy",
+      "logo": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/sponsors/repiper.png",
+      "tier": "gold",
+      "website": "https://www.linkedin.com/company/repiper-academy"
+    },
+    {
+      "id": "cda3c62f-2956-4bea-b018-57263f749aa9",
+      "name": "Advanced Info",
+      "logo": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/sponsors/advancedinfo.svg",
+      "tier": "gold",
+      "website": "https://advancedinfo.com.br/"
     }
 ]
