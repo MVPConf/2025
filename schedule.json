@@ -2845,7 +2845,7 @@
                         "slotId": "202510251400",
                         "title": "Azure para Recupera\u00E7\u00E3o de Desastres O Caso da Enchente no RS",
                         "description": "Em meio ao desastre clim\u00E1tico que atingiu o Rio Grande do Sul muitas empresas se viram diante de uma crise sem precedentes perda de acesso f\u00EDsico aos seus datacenters interrup\u00E7\u00E3o de opera\u00E7\u00F5es cr\u00EDticas e riscos iminentes \u00E0 continuidade dos neg\u00F3cios Nesta palestra voc\u00EA vai conhecer os bastidores t\u00E9cnicos da r\u00E1pida recupera\u00E7\u00E3o de uma opera\u00E7\u00E3o de grande porte que utilizou recursos de infraestrutura do Microsoft Azure para restaurar seus sistemas com agilidade seguran\u00E7a e resili\u00EAncia Vamos explorar as decis\u00F5es t\u00E9cnicas os aprendizados sobre recupera\u00E7\u00E3o de desastres e as boas pr\u00E1ticas aplicadas no mundo real com foco em disponibilidade automa\u00E7\u00E3o e resposta em momentos cr\u00EDticos Uma jornada pr\u00E1tica sobre como a nuvem pode ser a linha de vida quando tudo parece ruir",
-                        "time": "14:00",
+                        "time": "16:00",
                         "room": "Microsoft Azure  Sala 2",
                         "speakers": [
                             "Diego Matos"
@@ -2867,8 +2867,8 @@
                         "slotId": "202510251600",
                         "title": "Hacking Azure cloud security session",
                         "description": "Tudo \u00E9 hacke\u00E1vel ent\u00E3o por que n\u00E3o a nuvem Se voc\u00EA administra ambientes em qualquer nuvem o que pode fazer para se proteger contra ataques Aviso Nuvens s\u00E3o feitas de HO e podem ser facilmente hackeadas em H e O Com um pouco mais de esfor\u00E7o seu trabalho tamb\u00E9m pode ser hackeado",
-                        "time": "16:00",
-                        "room": "Microsoft Azure  Sala 1",
+                        "time": "14:00",
+                        "room": "Microsoft Azure Sala 2",
                         "speakers": [
                             "Andr\u00E9 Melancia"
                         ]
