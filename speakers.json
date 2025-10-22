@@ -3616,5 +3616,229 @@
     },
     "enabled": true,
     "isSpeaker": true
+  },
+  {
+    "id": "aa4625e8-6c88-4bb2-a5df-ccb0ad634c5b",
+    "name": "Michel Cessi",
+    "title": "Microsoft Azure | Data | AI",
+    "company": "Microsoft",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Michel Cessi.jpeg",
+    "bio": "",
+    "expertise": [
+      "Microsoft Azure", "AI", "Data"
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/michelangelocessi/"
+    },
+    "enabled": true,
+    "isSpeaker": true
+  },
+  {
+    "id": "e5868ee1-a44b-4d8b-9b42-ed0ca0a812a4",
+    "name": "Junior Urban",
+    "title": "Hacker do Bem",
+    "company": "",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Junior Urban.jpeg",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/juniorurban/"
+    },
+    "enabled": true,
+    "isSpeaker": true
+  },
+  {
+    "id": "84ad11d1-a407-4791-a039-e0c033bf5754",
+    "name": "Oberdan Schaider",
+    "title": "Database Administrator at CDB - Data Solutions | MCSE | MCSA",
+    "company": "CDB - Data Solutions",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Oberdan Schaider.jpeg",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/oberdanschaider/"
+    },
+    "enabled": true,
+    "isSpeaker": true
+  },
+  {
+    "id": "4773957e-a9bd-4470-a3a3-03a12e3c3d9e",
+    "name": "Thiago Aguiar Moreira",
+    "title": "Analista de Infraestrutura e Segurança da Informação | Membro ANPPD®| Membro da CBTSi®| PDPF | PDPP| ISO/IEC 27001| DPO Exin| LGPD| GDPR| Clouding Computing| Gestor de T.I a mais de 16 Anos| Apollo| Bravos| NBS e DR.",
+    "company": "Uniggerl Sementes",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Thiago Aguiar Moreira.jpeg",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/thiago-m-a-aguiar-08753620/"
+    },
+    "enabled": true,
+    "isSpeaker": true
+  },
+  {
+    "id": "815034f7-283b-4d67-ba76-0851e22cd623",
+    "name": "Tiago Tartari",
+    "title": "Tech Advisor - 4x Microsoft MVP",
+    "company": "WatchZ",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Tiago Tartari.jpeg",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/tiago-tartari/"
+    },
+    "enabled": true,
+    "isSpeaker": true
+  },
+  {
+    "id": "7e0ad456-be64-4f8c-8506-0c1e46a686ba",
+    "name": "Rebecca Frade",
+    "title": "Cybersecurity Specialist | Hackers Hive Advocate | Cloud Security | DevSecOps | IAM | DLP | Azure & Microsoft 365 security | Microsoft Certified | Speaker.",
+    "company": "Tecnocomp Tecnologia e Serviços",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Rebecca Frade.jpeg",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/rebecca-paola-cesar-frade/"
+    },
+    "enabled": true,
+    "isSpeaker": true
+  },
+  {
+    "id": "bdb59bde-d94b-4f92-86c5-013f9c061230",
+    "name": "Renicius Pagotto",
+    "title": "Lead Software Engineer @ Thoughtworks | Microsoft MVP | Solutions & Software Architect | Azure | .NET | DevOps",
+    "company": "Thoughtworks",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Renicius Pagotto.jpeg",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/renicius-pagotto/"
+    },
+    "enabled": true,
+    "isSpeaker": true
+  },
+  {
+    "id": "ab90031b-0cfc-4750-8d80-b4f292af7ac7",
+    "name": "Sarah Akemi D’arc Saitu Campos",
+    "title": "CSIRT Analyst Sênior| SOC | Blue Team | Speaker & Tech Mentor",
+    "company": "RANSecurity",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Sarah Saitu Campos.jpeg",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/sarahakemi/"
+    },
+    "enabled": true,
+    "isSpeaker": true
+  },
+  {
+    "id": "07664d74-bd36-4494-889e-79aba4dc2fd2",
+    "name": "Teles Souza",
+    "title": "Potencializo a transformação digital de empresas facilitando o acesso a um ecossistema completo de soluções e serviços",
+    "company": "TD SYNNEX",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Teles Souza.jpeg",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/teles-souza/"
+    },
+    "enabled": true,
+    "isSpeaker": true
+  },
+  {
+    "id": "70a2beda-cd1b-4fa5-bb8c-ef3647be5779",
+    "name": "Thomas Marcelo e Silva",
+    "title": "Potencializo a transformação digital de empresas facilitando o acesso a um ecossistema completo de soluções e serviços",
+    "company": "TD SYNNEX",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Thomas Marcelo e Silva.jpeg",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/thomas-marcelo/"
+    },
+    "enabled": true,
+    "isSpeaker": true
+  },
+  {
+    "id": "66df1c60-565c-4f96-9558-add3fb24fbf8",
+    "name": "Toshi Ossada",
+    "title": "Google Developer Expert | Microsoft MVP | Flutter Líder Técnico | Especialista | Programador |",
+    "company": "Farmácias APP",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Toshi Ossada.jpeg",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/toshiossada/"
+    },
+    "enabled": true,
+    "isSpeaker": true
+  },
+  {
+    "id": "716e38f4-12b2-41c3-b6e2-ef251aeb4eee",
+    "name": "Tiago Mafra",
+    "title": "CTO @Mundo365 | AI & Power Platform Products that transform business | Microsoft MCT | Azure AI Engineer | Power BI & Copilot 365",
+    "company": "Mundo 365",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Tiago Mafra.jpeg",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/tiago-mafra-de-castro-ferreira-b34a4568/"
+    },
+    "enabled": true,
+    "isSpeaker": true
+  },
+  {
+    "id": "652bf21c-fb9a-4ede-bce9-3ae6212d48d3",
+    "name": "Iverson Barreto Manfrinato",
+    "title": "MCT Microsoft | Professor Senac PR | Mestre em Desenvolvimento de Tecnologia | POWER BI | Data Analyst | Excel Expert",
+    "company": "Mundo 365",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Iverson Barreto Manfrinato.jpeg",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/iversonbarreto/"
+    },
+    "enabled": true,
+    "isSpeaker": true
+  },
+  {
+    "id": "60d660af-2f3d-43df-9bfd-f463a2bd4a27",
+    "name": "Jardiel Euflázio Felismino",
+    "title": "MCT Microsoft | Professor Senac PR | Mestre em Desenvolvimento de Tecnologia | POWER BI | Data Analyst | Excel Expert",
+    "company": "Mundo 365",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Jardiel Euflazio Felismino.jpeg",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/jardieleufl%C3%A1zio/"
+    },
+    "enabled": true,
+    "isSpeaker": true
   }
 ]
