@@ -2678,25 +2678,6 @@
     "isSpeaker": true
   },
   {
-    "id": "d6e7f8a9-b0c1-2345-6d7e-8f9a0b1c2d3e",
-    "name": "Marcelo Pacifico",
-    "title": "1x Microsoft MVP & 2x MCT Community Lead | M365 | Copilot | AI | Head of Modern Work at OneFactory & Instructor at NextGen Skills",
-    "company": "",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Marcelo Pacifico.jpeg",
-    "bio": "",
-    "expertise": [
-      "",
-      ""
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/marcelopacificooficial/"
-    },
-    "enabled": true,
-    "isTrackCoordinator": true,
-    "trackName": "Business Application",
-    "isSpeaker": true
-  },
-  {
     "id": "3f686dc3-cb9c-4b65-9ac4-471dd6940f60",
     "name": "Marcelo Strippoli",
     "title": "IT Lead | 8x MVP Microsoft | Especialista de Infraestrutura | Modern Workplace | SCCM | Intune | ITIL | MCT | MCSE | MD-102 | AZ-304 | MS-500 | MS-700 | MS-100 | MS-101 | AZ-900 | MS-900 | AI-900 | SC-900",
