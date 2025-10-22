@@ -1,5 +1,21 @@
 [
   {
+    "id": "534bbd62-05fb-434c-8e95-2c93528e1a2a",
+    "name": "Marcello Vannini",
+    "title": "CIO na Universidade Paulista (UNIP)",
+    "company": "Universidade Paulista (UNIP)",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Marcello Vannini.jpeg",
+    "bio": "CIO na Universidade Paulista (UNIP)",
+    "expertise": [
+      "",
+      ""
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/mvannini76/",
+    },
+    "isSpeaker": true
+  },
+  {
     "id": "cd6a9846-d854-4bb1-b321-0d62fa24286f",
     "name": "Alexandre Felipe Malavasi Cardoso",
     "title": "CTO | 4x Author | International Logisticts | 4x Microsoft MVP Awards | MBA | MCPD | ITIL | Azure | .NET |",
