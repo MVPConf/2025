@@ -3519,5 +3519,102 @@
     },
     "enabled": true,
     "isSpeaker": true
+  },
+  {
+    "id": "63af953c-e1b3-47f9-9d66-9d2956091547",
+    "name": "Yves Cruzato",
+    "title": "Venture Capital | Finance-Driven PM | Power Platform Expert | BI & Data Strategy | LEAN Execution",
+    "company": "Gaingels",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Yves Cruzato.jpeg",
+    "bio": "",
+    "expertise": [
+      "Power Automate"
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/yvescruzato/"
+    },
+    "enabled": true,
+    "isSpeaker": true
+  },
+  {
+    "id": "41bec88f-2aa9-4e1b-8867-6a5b002a1977",
+    "name": "Johnson de Souza Cruz",
+    "title": "Microsoft Most Valuable Professional (MVP) em M365 Copilot, Microsoft 365 Expert (MS-102, MS-203, MS-700). Microsoft Certified Trainer (MCT), Azure Expert (AZ-104, AZ-140, AZ-305). CyberSecurity (SC-100, SC-300, SC-401).",
+    "company": "Reply",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Johnson de Souza Cruz.jpeg",
+    "bio": "",
+    "expertise": [
+      "M365 Copilot",
+      "Microsoft 365"
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/johnsonsouzacruz/"
+    },
+    "enabled": true,
+    "isSpeaker": true
+  },
+  {
+    "id": "a6122bae-28c4-4fbb-9389-0ffbbc29a2ad",
+    "name": "Luis Gustavo Nascimento Serra",
+    "title": "CEO Excelência Consultoria e Educação | Microsoft MVP | Business Intelligence Specialist | MCT | PUG Brasil Leader | Power Bi Expert | Writer | Speaker",
+    "company": "Excelência Consultoria e Educação",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Luis Gustavo Nascimento Serra.jpeg",
+    "bio": "",
+    "expertise": [
+      "Power BI"
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/luisgnserra/"
+    },
+    "enabled": true,
+    "isSpeaker": true
+  },
+  {
+    "id": "71ab9a04-a082-47a9-a495-163062e0f1fa",
+    "name": "Leonardo Rossato",
+    "title": "President ICTQ Foton | Physicist | Quantum Computing and Econophysics Specialist | Developer of Educational Apps and Interactive Dashboard Tools",
+    "company": "ICTQ Foton",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Leonardo Rossato.jpeg",
+    "bio": "",
+    "expertise": [
+      "Physicist", "Quantum Computing", "Econophysics Specialist"
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/leonardocamargorossato/"
+    },
+    "enabled": true,
+    "isSpeaker": true
+  },
+  {
+    "id": "d7599870-8c15-4953-b23e-a2c7cd550707",
+    "name": "Maisa Moreira",
+    "title": "Power Platform | Power Apps | Power BI | Power Automate | SharePoint | Dataverse | PL 900 | PL 100 | PL 300",
+    "company": "ICTQ Foton",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Maisa Moreira.jpeg",
+    "bio": "",
+    "expertise": [
+      "Power Platform", "Power Apps", "Power BI", "Power Automate"
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/maisa-moreira-5537a11a2/"
+    },
+    "enabled": true,
+    "isSpeaker": true
+  },
+  {
+    "id": "cbced708-0d23-470c-b8ce-3ddd1238053c",
+    "name": "Marco Lagoa",
+    "title": "CEO na Witec IT Solutions & Cofundador na BUDTI",
+    "company": "Witec IT Solutions",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Marco Lagoa.jpeg",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/marcolagoa/"
+    },
+    "enabled": true,
+    "isSpeaker": true
   }
 ]
