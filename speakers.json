@@ -1,5 +1,21 @@
 [
   {
+    "id": "534bbd62-05fb-434c-8e95-2c93528e1a2a",
+    "name": "Marcello Vannini",
+    "title": "CIO na Universidade Paulista (UNIP)",
+    "company": "Universidade Paulista (UNIP)",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Marcello Vannini.jpeg",
+    "bio": "CIO na Universidade Paulista (UNIP)",
+    "expertise": [
+      "",
+      ""
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/mvannini76/"
+    },
+    "isSpeaker": true
+  },
+  {
     "id": "cd6a9846-d854-4bb1-b321-0d62fa24286f",
     "name": "Alexandre Felipe Malavasi Cardoso",
     "title": "CTO | 4x Author | International Logisticts | 4x Microsoft MVP Awards | MBA | MCPD | ITIL | Azure | .NET |",
@@ -921,10 +937,10 @@
   },
   {
     "id": "e469f744-75eb-4861-8908-20369dd236f4",
-    "name": "Raphael Rodrigo Ramos de Santana Santos",
+    "name": "Raphael Camaro",
     "title": "O consultor Power Apps mais camarada da vizinhança | Transformação Digital | Power Apps | Power Automate| Power BI | Ferramentas Digitais | Digitalização de Processos Industriais | Automação Industrial",
     "company": "CAMARO ELECTRIC AUTOMAÇÃO INDUSTRIAL",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Raphael Rodrigo Ramos de Santana Santos.jpeg",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Raphael Camaro.jpeg",
     "bio": "Sou o Consultor Power Apps mais Camarada da Vizinhança! Te ajudo a destravar aquele app enrolado com bom humor e proximidade. E se quiser aprender no seu tempo, tenho um curso na Hotmart ensinando a criar o Action Track com muita camaradagem!",
     "expertise": [
       "Power Apps",
@@ -1773,7 +1789,7 @@
     "name": "Denis Vinícius de Mello",
     "title": "PSA Cibersegurança na Microsoft. Gestor Ambiental (USP), Mestre e Doutorando em Ciências Biológias (Zoologia) na UNESP. CISSP, CISM, CCSP | MBA.",
     "company": "",
-    "image": "https://github.com/MVPConf/2025/blob/main/speakers/Denis%20Vini%CC%81cius%20de%20Mello.jpeg?raw=true",
+    "image": "https://github.com/MVPConf/2025/blob/main/speakers/Denis Vinicius de Mello.jpeg",
     "bio": "",
     "expertise": [
       "",
@@ -2659,25 +2675,6 @@
     "enabled": true,
     "isTrackCoordinator": false,
     "trackName": "",
-    "isSpeaker": true
-  },
-  {
-    "id": "d6e7f8a9-b0c1-2345-6d7e-8f9a0b1c2d3e",
-    "name": "Marcelo Pacifico",
-    "title": "1x Microsoft MVP & 2x MCT Community Lead | M365 | Copilot | AI | Head of Modern Work at OneFactory & Instructor at NextGen Skills",
-    "company": "",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Marcelo Pacifico.jpeg",
-    "bio": "",
-    "expertise": [
-      "",
-      ""
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/marcelopacificooficial/"
-    },
-    "enabled": true,
-    "isTrackCoordinator": true,
-    "trackName": "Business Application",
     "isSpeaker": true
   },
   {
