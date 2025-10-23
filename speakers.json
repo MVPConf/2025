@@ -25,8 +25,7 @@
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Marcello Vannini.jpeg",
     "bio": "CIO na Universidade Paulista (UNIP)",
     "expertise": [
-      "",
-      ""
+      "Educação"
     ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/mvannini76/"
@@ -261,8 +260,7 @@
     "expertise": [
       "SharePoint",
       "Power Apps",
-      "Power Automate",
-      "SharePoint"
+      "Power Automate"
     ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/danielpetrinbertini/"
@@ -1404,25 +1402,6 @@
     "isSpeaker": true
   },
   {
-    "id": "a7b8c9d0-e1f2-3456-7a8b-9c0d1e2f3a4b",
-    "name": "Ana Carolina Manzan",
-    "title": "Cloud Analyst @ Bosch | Microsoft MVP | MLSA | DevOps Engineer Expert | 5x Microsoft Certified",
-    "company": "Bosch",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Ana Carolina Manzan.jpeg",
-    "bio": "",
-    "expertise": [
-      "",
-      ""
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/anamanzandev/"
-    },
-    "enabled": true,
-    "isTrackCoordinator": false,
-    "trackName": "",
-    "isSpeaker": true
-  },
-  {
     "id": "b8c9d0e1-f2a3-4567-8b9c-0d1e2f3a4b50",
     "name": "Ana Clara de Andrade Mioto",
     "title": "Senior Data Scientist at Bradesco | Microsoft MVP AI Platform | Alura Star | Tech Speaker | Co-founder and Community Manager at Data Girls",
@@ -2316,25 +2295,6 @@
     "isSpeaker": true
   },
   {
-    "id": "36741687-3b1f-4e32-b89f-2c5b36d126f0",
-    "name": "Johnson Cruz",
-    "title": "Microsoft Most Valuable Professional (MVP) em M365 Copilot, Microsoft 365 Expert (MS-102, MS-203, MS-700). Microsoft Certified Trainer (MCT), Azure Expert (AZ-104, AZ-140, AZ-305). CyberSecurity (SC-100, SC-300, SC-401).",
-    "company": "",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Johnson Cruz.jpeg",
-    "bio": "",
-    "expertise": [
-      "",
-      ""
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/johnsonsouzacruz"
-    },
-    "enabled": true,
-    "isTrackCoordinator": false,
-    "trackName": "",
-    "isSpeaker": true
-  },
-  {
     "id": "b6c7d8e9-f0a1-2345-6b7c-8d9e0f1a2b3c",
     "name": "Jones de Souza Santos",
     "title": "Microsoft Fabric | Azure Data Architect and Engineer",
@@ -2620,25 +2580,6 @@
     "isSpeaker": true
   },
   {
-    "id": "f2a3b4c5-d6e7-8901-2f3a-4b5c6d7e8f9a",
-    "name": "Luís Gustavo Nascimento Serra",
-    "title": "CEO Excelência Consultoria e Educação | Microsoft MVP | Business Intelligence Specialist | MCT | PUG Brasil Leader | Power Bi Expert | Writer | Speaker",
-    "company": "",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Lui%CC%81s%20Gustavo%20Nascimento%20Serra.jpeg",
-    "bio": "",
-    "expertise": [
-      "",
-      ""
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/luisgnserra"
-    },
-    "enabled": true,
-    "isTrackCoordinator": true,
-    "trackName": "Data Platform",
-    "isSpeaker": true
-  },
-  {
     "id": "c7f4c1fd-0bf3-4c55-a50f-36849fd48545",
     "name": "Luiz Augusto",
     "title": "Físico e Matemático",
@@ -2646,8 +2587,8 @@
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Luiz Augusto.jpeg",
     "bio": "",
     "expertise": [
-      "",
-      ""
+      "Física Quantica",
+      "Matemática"
     ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/econofisico/"
@@ -3585,22 +3526,6 @@
     "isSpeaker": true
   },
   {
-    "id": "71ab9a04-a082-47a9-a495-163062e0f1fa",
-    "name": "Leonardo Rossato",
-    "title": "President ICTQ Foton | Physicist | Quantum Computing and Econophysics Specialist | Developer of Educational Apps and Interactive Dashboard Tools",
-    "company": "ICTQ Foton",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Leonardo Rossato.jpeg",
-    "bio": "",
-    "expertise": [
-      "Physicist", "Quantum Computing", "Econophysics Specialist"
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/leonardocamargorossato/"
-    },
-    "enabled": true,
-    "isSpeaker": true
-  },
-  {
     "id": "d7599870-8c15-4953-b23e-a2c7cd550707",
     "name": "Maisa Moreira",
     "title": "Power Platform | Power Apps | Power BI | Power Automate | SharePoint | Dataverse | PL 900 | PL 100 | PL 300",
@@ -3612,22 +3537,6 @@
     ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/maisa-moreira-5537a11a2/"
-    },
-    "enabled": true,
-    "isSpeaker": true
-  },
-  {
-    "id": "cbced708-0d23-470c-b8ce-3ddd1238053c",
-    "name": "Marco Lagoa",
-    "title": "CEO na Witec IT Solutions & Cofundador na BUDTI",
-    "company": "Witec IT Solutions",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Marco Lagoa.jpeg",
-    "bio": "",
-    "expertise": [
-      ""
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/marcolagoa/"
     },
     "enabled": true,
     "isSpeaker": true
@@ -3708,54 +3617,6 @@
     ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/tiago-tartari/"
-    },
-    "enabled": true,
-    "isSpeaker": true
-  },
-  {
-    "id": "7e0ad456-be64-4f8c-8506-0c1e46a686ba",
-    "name": "Rebecca Frade",
-    "title": "Cybersecurity Specialist | Hackers Hive Advocate | Cloud Security | DevSecOps | IAM | DLP | Azure & Microsoft 365 security | Microsoft Certified | Speaker.",
-    "company": "Tecnocomp Tecnologia e Serviços",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Rebecca Frade.jpeg",
-    "bio": "",
-    "expertise": [
-      ""
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/rebecca-paola-cesar-frade/"
-    },
-    "enabled": true,
-    "isSpeaker": true
-  },
-  {
-    "id": "bdb59bde-d94b-4f92-86c5-013f9c061230",
-    "name": "Renicius Pagotto",
-    "title": "Lead Software Engineer @ Thoughtworks | Microsoft MVP | Solutions & Software Architect | Azure | .NET | DevOps",
-    "company": "Thoughtworks",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Renicius Pagotto.jpeg",
-    "bio": "",
-    "expertise": [
-      ""
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/renicius-pagotto/"
-    },
-    "enabled": true,
-    "isSpeaker": true
-  },
-  {
-    "id": "ab90031b-0cfc-4750-8d80-b4f292af7ac7",
-    "name": "Sarah Akemi D’arc Saitu Campos",
-    "title": "CSIRT Analyst Sênior| SOC | Blue Team | Speaker & Tech Mentor",
-    "company": "RANSecurity",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Sarah Saitu Campos.jpeg",
-    "bio": "",
-    "expertise": [
-      ""
-    ],
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/sarahakemi/"
     },
     "enabled": true,
     "isSpeaker": true
@@ -3889,7 +3750,7 @@
     "isSpeaker": true
   },
   {
-    "id": "311cba55-322d-40c3-a722-26a328df5bf2",
+    "id": "6845c026-c125-4d63-8210-4ab8f658c8ce",
     "name": "Vinicius Santos Ventura",
     "title": "Cloud Solutions Architect | Designing Scalable Systems | AWS & Azure",
     "company": "ONS",
