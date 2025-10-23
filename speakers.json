@@ -3840,5 +3840,245 @@
     },
     "enabled": true,
     "isSpeaker": true
+  },
+  {
+    "id": "336406f6-26a7-4a1f-ad8b-8c09b45ce489",
+    "name": "Vinicius Arakaki",
+    "title": "Cofundador da Edusense | MSc. em tecnologia educacional | Impulsionando performances com aprendizagem digital",
+    "company": "Edusense",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Vinicius Arakaki.jpeg",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/viniciusarakaki/"
+    },
+    "enabled": true,
+    "isSpeaker": true
+  },
+  {
+    "id": "8b05ea38-11f1-4de4-9cc5-81571b77937b",
+    "name": "Vinicius Deschamps",
+    "title": "Cofundador da Edusense | MSc. em tecnologia educacional | Impulsionando performances com aprendizagem digital",
+    "company": "Edusense",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Vinicius Deschamps.jpeg",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/viniciusdeschamps/"
+    },
+    "enabled": true,
+    "isSpeaker": true
+  },
+  {
+    "id": "311cba55-322d-40c3-a722-26a328df5bf2",
+    "name": "Vinicius Santos Ventura",
+    "title": "Cofundador da Edusense | MSc. em tecnologia educacional | Impulsionando performances com aprendizagem digital",
+    "company": "Edusense",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Vinicius Santos Ventura.jpeg",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/vinicius-ventura/"
+    },
+    "enabled": true,
+    "isSpeaker": true
+  },
+  {
+    "id": "09c76b50-804f-4c65-a7c5-55007d0b2d53",
+    "name": "Viviane Martins Ferreira",
+    "title": "Cofundador da Edusense | MSc. em tecnologia educacional | Impulsionando performances com aprendizagem digital",
+    "company": "Edusense",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Viviane Martins Ferreira.jpeg",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/vivianemartinsoficial/"
+    },
+    "enabled": true,
+    "isSpeaker": true
+  },
+  {
+    "id": "4b8947a3-b33b-4c55-9cb0-5ef400f0dee6",
+    "name": "Wanderlei Grizolli Junior",
+    "title": "Cofundador da Edusense | MSc. em tecnologia educacional | Impulsionando performances com aprendizagem digital",
+    "company": "Edusense",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Wanderlei Grizolli Junior.jpeg",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/wanderlei-g-junior/"
+    },
+    "enabled": true,
+    "isSpeaker": true
+  },
+  {
+    "id": "3abf0d90-ec8c-4675-b396-0d813aa42eb5",
+    "name": "Welington Oliveira da Silva",
+    "title": "Cofundador da Edusense | MSc. em tecnologia educacional | Impulsionando performances com aprendizagem digital",
+    "company": "Edusense",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Welington Oliveira da Silva.jpeg",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/welingtoncarreirati/"
+    },
+    "enabled": true,
+    "isSpeaker": true
+  },
+  {
+    "id": "14673fbf-2e90-4ad0-9c59-1b4c4547422b",
+    "name": "Wilson Fonseca",
+    "title": "Cientista em Tecnologias Quânticas na Kuatiá Soluções em Inovação Disruptiva",
+    "company": "Edusense",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Wilson Fonseca.jpeg",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/fonsecawilsono/"
+    },
+    "enabled": true,
+    "isSpeaker": true
+  },
+  {
+    "id": "0cffd038-4be3-4248-a263-ed3f826094cf",
+    "name": "Yago Angelini Candido",
+    "title": "Cientista em Tecnologias Quânticas na Kuatiá Soluções em Inovação Disruptiva",
+    "company": "Edusense",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Yago Angelini Candido.jpeg",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/yagoangelini/"
+    },
+    "enabled": true,
+    "isSpeaker": true
+  },
+  {
+    "id": "62ee9670-d27e-4a1c-9be1-7a5cc0caa981",
+    "name": "Yago Santiago Soares",
+    "title": "Founder Stech & Stech Education | Co-Founder BizVision Tech | Business Intelligence & Analytics Consultant | Power BI Specialist | Engineer, Mathematician and Teacher",
+    "company": "Edusense",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Yago Santiago Soares.jpeg",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/yagosoares/"
+    },
+    "enabled": true,
+    "isSpeaker": true
+  },
+  {
+    "id": "26e44bc5-7bdb-47e8-810f-c522043bb2df",
+    "name": "Marcos Rieper",
+    "title": "Consultor de sistemas na Guia do Excel | Autor do Guia do Excel",
+    "company": "Edusense",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Marcos Rieper.jpeg",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/marcos-rieper/"
+    },
+    "enabled": true,
+    "isSpeaker": true
+  },
+  {
+    "id": "f01c7fac-89ec-4f70-95cc-9eca5da98d2d",
+    "name": "André Soares Vieira",
+    "title": "Gerente de Projeto - Gestão Equipe",
+    "company": "Edusense",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Andre Soares Vieira.jpeg",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/andre-soares-vieira/"
+    },
+    "enabled": true,
+    "isSpeaker": true
+  },
+  {
+    "id": "11668c2e-f436-4cb5-b7b9-c6903f848933",
+    "name": "Carlos Tiago Machel da Silva",
+    "title": "Gerente de Projeto - Gestão Equipe",
+    "company": "Edusense",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Carlos Tiago Machel da Silva.jpeg",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/carlosmachel/"
+    },
+    "enabled": true,
+    "isSpeaker": true
+  },
+  {
+    "id": "acefa613-5158-4c1d-a402-3e4c5f272ef5",
+    "name": "Diego Giovanni Souza",
+    "title": "Gerente de Projeto - Gestão Equipe",
+    "company": "Edusense",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Diego Giovanni Souza.jpeg",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/diego-souza-409ba490/"
+    },
+    "enabled": true,
+    "isSpeaker": true
+  },
+  {
+    "id": "00ee2b55-5bf3-4629-a04f-eae0e8a2e178",
+    "name": "Fernando de Oliveira Pina",
+    "title": "Formado em Análise e Desenvolvimento de Sistemas - ADS pela Fatec Ribeirão Preto",
+    "company": "Edusense",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Fernando de Oliveira Pina.jpeg",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/fernando-de-oliveira-pina-b5335a2a/"
+    },
+    "enabled": true,
+    "isSpeaker": true
+  },
+  {
+    "id": "c3c2aec4-952b-4aed-a4c1-afd48d76af9d",
+    "name": "Heber Lopes",
+    "title": "CA IBGC | Instrutor Oficial LinkedIn | 8x Microsoft MVP | SharePoint | Project | Power Platform | Power Automate | Power Apps | Office 365",
+    "company": "Edusense",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Heber Lopes.jpeg",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/heberlopesbr/"
+    },
+    "enabled": true,
+    "isSpeaker": true
   }
 ]
