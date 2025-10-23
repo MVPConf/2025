@@ -1,4 +1,22 @@
 [
+  
+  {
+    "id": "7f4aed2c-40ec-4c6b-8c90-96fed9627b0b",
+    "name": "Tiago Aguiar",
+    "title": "Desenvolvedor .NET Sênior | Back-end | C# | Microsoft MVP",
+    "company": "Radarbor Brasil",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Tiago Aguar.jpeg",
+    "bio": "Desenvolvedor .NET Sênior | Back-end | C# | Microsoft MVP",
+    "expertise": [
+      ".NET",
+      "Docker",
+      "Azure"
+    ],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/tiago-aguiar/"
+    },
+    "isSpeaker": true
+  },
   {
     "id": "534bbd62-05fb-434c-8e95-2c93528e1a2a",
     "name": "Marcello Vannini",
@@ -24,7 +42,7 @@
     "bio": "Engenheiro de software com 17+ anos de experiência global, fundador e CTO da MARELO, Microsoft MVP, autor de livros sobre .NET e palestrante internacional. Atua com liderança técnica, mentorias e contribuições à comunidade.",
     "expertise": [
       "Azure",
-      ".Net"
+      ".NET"
     ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/alexandremalavasi/",
@@ -97,7 +115,7 @@
     "bio": "Senior software engineer com 15 anos de experiência, apaixonado por código, open source e segurança. Atua escrevendo, palestrando e contribuindo em projetos abertos. Acredita que quanto mais aprende, mais percebe o quanto ainda há para aprender.",
     "expertise": [
       "Docker",
-      ".Net",
+      ".NET",
       "Cloud",
       "Azure",
       "Kubernetes"
@@ -181,7 +199,7 @@
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Cristiano Joaquim dos Santos.jpeg",
     "bio": "Arquiteto de Software Sênior com 25+ anos em .NET, C#, Azure e microsserviços. Liderança técnica, inovação e experiência em transformação digital, especialmente na saúde. Ex-Microsoft e destaque em arquitetura moderna e DevOps.",
     "expertise": [
-      ".Net",
+      ".NET",
       "Microsoft Azure",
       "Azure DevOps",
       "Docker"
@@ -220,7 +238,7 @@
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Daniel Gomes de Jesus.jpeg",
     "bio": "Engineering Manager na XP, lidero projetos focados em eficiência e experiência do cliente. Ex-Tech Lead na Cielo, com forte atuação em automação, liderança técnica e soluções escaláveis. Engajado em inovação e comunidade tech.",
     "expertise": [
-      ".Net",
+      ".NET",
       "ASP.NET",
       "Git",
       "Docker"
@@ -330,7 +348,7 @@
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Eduardo Pires.jpeg",
     "bio": "Microsoft Regional Director. 12x Microsoft MVP (2014 - 2025)Arquiteto e Desenvolvedor de Software. 24 anos de experiência em desenvolvimento de software",
     "expertise": [
-      ".Net"
+      ".NET"
     ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/pireseduardo/",
@@ -608,7 +626,7 @@
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Gustavo Bellini Bigardi.jpeg",
     "bio": "Desenvolvedor com 18+ anos focado em Microsoft (.NET, Azure), NodeJS e React. Experiência em sistemas escaláveis. Microsoft MVP Developer Technologies, coordena a comunidade JunDevelopers e produz conteúdo técnico sobre .NET, Azure, Blazor e melhores práticas.",
     "expertise": [
-      ".Nett",
+      ".NET",
       "Azure Cloud",
       "NodeJS",
       "Software Scalability"
@@ -719,7 +737,7 @@
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Jorge Maia.jpeg",
     "bio": "Consultor e mentor com 20+ anos em .NET, foco em produtividade, qualidade e agilidade. Microsoft Certified Trainer, atua com C#, IoT, sistemas embarcados e financeiros. Palestrante, podcaster e fundador do CrazyTechGuys. Mestrando em Sistemas Mecatrônicos.",
     "expertise": [
-      ".Net",
+      ".NET",
       "Sistemas Embarcados",
       "Internet das Coisas"
     ],
@@ -870,7 +888,7 @@
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Marcio Rogerio Nizzola.jpeg",
     "bio": "Arquiteto de Software na CI&T com 30+ anos de experiência. MVP em Developer Technologies. Especialista em .NET, Azure e integrações no setor de turismo. Professor no Centro Paula Souza e cofundador da Itu Developers. Apaixonado por ensinar e inovar.",
     "expertise": [
-      ".Net",
+      ".NET",
       "Oracle",
       "Azure",
       "Docker"
@@ -1013,7 +1031,7 @@
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Renicius Pagotto Fostaini.jpeg",
     "bio": "Com mais de 10 anos de experiência em tecnologia, sou especialista em Arquitetura de Sistemas Distribuídos e DevOps. Atuo com foco em excelência tecnológica, arquitetura evolutiva e performance, entregando soluções escaláveis com Azure e práticas ágeis.",
     "expertise": [
-      ".Net",
+      ".NET",
       "Azure",
       "DevOps",
       "Cloud"
@@ -1109,12 +1127,12 @@
   {
     "id": "912c9112-1361-497a-b02d-00050d5b9afd",
     "name": "Thamirys Gameiro",
-    "title": "Dev .Net Sênior - BTG Pactual | 7x Microsoft MVP | Instrutora .Net - FIAP",
+    "title": "Dev .NET Sênior - BTG Pactual | 7x Microsoft MVP | Instrutora .NET - FIAP",
     "company": "BTG Pactual",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Thamirys Gameiro.jpeg",
     "bio": "Desenvolvedora com foco em C#, APIs, DDD e arquiteturas modernas (Hexagonal, Limpa). Atua com Azure, AWS, OpenAI e RabbitMQ. Estuda microsserviços e sistemas distribuídos. Fundadora da comunidade DevelopersBR.",
     "expertise": [
-      ".Net"
+      ".NET"
     ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/thamirys-gameiro",
@@ -1165,7 +1183,7 @@
     "bio": "Arquiteto de software com 20+ anos de experiência em sistemas críticos e distribuídos. Atua em automação, integração e economia de custos. Compartilha conhecimento em blog e eventos, com foco em conteúdo técnico em português.",
     "expertise": [
       "Arquiteto de Software",
-      ".Net",
+      ".NET",
       "DDD"
     ],
     "social": {
@@ -1200,7 +1218,7 @@
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/angelo_belchior.png",
     "bio": "20 anos de experiência em TI. Já atuou em projetos Desktop, Web, Mobile com Xamarin, Cognitive Services e Bots. Líder das comunidades técnicas Monkey Nights e Developers BR.  É Microsoft MVP em Developer Technologies e atua como Staff Engineer",
     "expertise": [
-      ".Net",
+      ".NET",
       "Azure"
     ],
     "social": {
@@ -1219,7 +1237,7 @@
     "expertise": [
       "Azure",
       "Docker",
-      ".Net",
+      ".NET",
       "Devops"
     ],
     "social": {
