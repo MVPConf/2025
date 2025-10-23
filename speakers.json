@@ -3897,12 +3897,14 @@
   {
     "id": "11668c2e-f436-4cb5-b7b9-c6903f848933",
     "name": "Carlos Tiago Machel da Silva",
-    "title": "Gerente de Projeto - Gestão Equipe",
-    "company": "Edusense",
+    "title": "Desenvolvedor",
+    "company": "AzureBrasil.cloud",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Carlos Tiago Machel da Silva.jpeg",
-    "bio": "",
+    "bio": "Software Architect | C# + Azure + AI | Building Intelligent Agents with OpenAI and Azure AI",
     "expertise": [
-      ""
+      ".NET",
+      "AI",
+      "Azure"
     ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/carlosmachel/"
